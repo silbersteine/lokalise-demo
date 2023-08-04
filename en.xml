@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<resources>
+		<string name="currency_MDL">Moldovan Leu</string>
+		<string name="settings_cat_other">Other</string>
+		<string name="country_name_VA">Vatican City</string>
+		<string name="button_internet_call_with_price">Internet call (%1$s)</string>
+		<string name="country_name_LT">Lithuania</string>
+		<string name="currency_USD">U.S. Dollar</string>
+		<string name="month_7">July</string>
+		<string name="menu_cabinet">Account</string>
+		<string name="country_name_NO">Norway</string>
+		<string name="country_name_SZ">Swaziland</string>
+		<string name="country_name_BR">Brazil</string>
+		<string name="error_0_formatted">There was a problem. Please try again (%1$s).</string>
+		<string name="rates_free_short">free</string>
+		<string name="country_name_PT">Portugal</string>
+		<string name="error_262">A promo gift code for your number was already used. Please check and try again.</string>
+		<string name="dialog_voip_bad_network_body">Linked to that the quality of the call may suffer.\n\nWe recommend to call over a regular mobile network or switch to a better internet source.</string>
+		<string name="rates_outgoing_more">View all rates</string>
+		<string name="dialog_button_close">Close</string>
+		<string name="country_name_FJ">Fiji</string>
+		<string name="call_voip_quality_unknown">unknown</string>
+		<string name="country_name_AU">Australia</string>
+		<string name="country_name_AW">Aruba</string>
+		<string name="voicemail_greeting_recording">Greeting recording</string>
+		<string name="dialog_unlink_sim_body">
+        Do you really want to unlink the SIM card with number %1$s?
+    </string>
+		<string name="error_3">The number you\'ve provided is not valid.</string>
+		<string name="dialog_top_up_promo_gift_activated_body">%1$s were added to your Roamer balance.</string>
+		<string name="free_call">FREE CALL</string>
+		<string name="drawer_local_sim_home_description">You can link a local SIM only when you\'re abroad.</string>
+		<string name="error_15">You are currently in roaming! Insert a local SIM card and try again.</string>
+		<string name="error_499">You need Internet connection to continue.</string>
+		<string name="country_name_CK">Cook Islands</string>
+		<string name="country_name_JO">Jordan</string>
+		<string name="drawer_open">Open</string>
+		<string name="drawer_in_status_unsupported">Incoming calls are not available in your country.</string>
+		<string name="error_23">We could not validate your payment.</string>
+		<string name="error_disabled_function">We are sorry, but this function is temporarily disabled.</string>
+		<string name="country_name_TL">Timor-Leste</string>
+		<string name="country_name_VG">British Virgin Islands</string>
+		<string name="month_11">November</string>
+		<string name="spinner_voicemail_enabling">Enabling voicemail...</string>
+		<string name="country_name_SS">South Sudan</string>
+		<string name="VOICEMAIL_RINGS_0">immediately</string>
+		<string name="country_name_TH">Thailand</string>
+		<string name="country_name_CZ">Czech Republic</string>
+		<string name="ec_share_promo_extra">extra</string>
+		<string name="cancel_parking_dialog_body">Are you sure you want to cancel forwarding?</string>
+		<string name="country_name_MV">Maldives</string>
+		<string name="country_name_WF">Wallis and Futuna</string>
+		<string name="country_name_GW">Guinea-Bissau</string>
+		<string name="dialog_international_intercept_description">Call through Roamer</string>
+		<string name="country_name_BG">Bulgaria</string>
+		<string name="country_name_TR">Turkey</string>
+		<string name="settings_local_sim_status_linked">Linked</string>
+		<string name="drawer_calls_in_sip_title">Receive calls over Internet</string>
+		<string name="country_name_LB">Lebanon</string>
+		<string name="cancel_parking_manual_dialog_body">
+        Before you continue, please make sure you have removed call forwarding from your SIM with number %1$s.
+        \n\nDo you want to continue?
+    </string>
+		<string name="country_name_KH">Cambodia</string>
+		<string name="country_name_ME">Montenegro</string>
+		<string name="country_name_IT">Italy</string>
+		<string name="country_name_IL">Israel</string>
+		<string name="dont_show_again">Do not show this message again</string>
+		<string name="drawer_out_status_3">You can only make an Internet call at this time. Turn off call forwarding or link a local SIM to make a regular call.</string>
+		<string name="country_name_BB">Barbados</string>
+		<string name="settings_more">More</string>
+		<string name="country_name_GM">Gambia</string>
+		<string name="settings_local_sim_disabled_info">Link a local SIM card using the switch above</string>
+		<string name="country_name_ER">Eritrea</string>
+		<string name="top_up_free_sim_dont_want">I don\'t need a free SIM card</string>
+		<string name="settings_voicemail_greeting">Voicemail greeting</string>
+		<string name="country_name_HU">Hungary</string>
+		<string name="currency_ZAR">South African Rand</string>
+		<string name="country_name_FR">France</string>
+		<string name="country_name_GI">Gibraltar</string>
+		<string name="country_name_SH">Saint Helena</string>
+		<string name="dialog_button_top_up">Add credit</string>
+		<string name="country_name_CY">Cyprus</string>
+		<string name="month_12">December</string>
+		<string name="country_name_CM">Cameroon</string>
+		<string name="settings_dialog_warning_need_local_sim_abroad_title">Link a local SIM</string>
+		<string name="currency_VND">Vietnam Dong</string>
+		<string name="drawer_in_status_4_sip">An incoming call comes over Internet first and then is switched to a regular call.</string>
+		<string name="error_36">The number you\'ve entered is already in use.</string>
+		<string name="country_name_MH">Marshall Islands</string>
+		<string name="country_name_SR">Suriname</string>
+		<string name="rates_incoming_location">Country</string>
+		<string name="country_name_LA">Laos</string>
+		<string name="country_name_UA">Ukraine</string>
+		<string name="VOICEMAIL_RINGS_4">after 4 rings</string>
+		<string name="country_name_AS">American Samoa</string>
+		<string name="country_name_CR">Costa Rica</string>
+		<string name="action_search">Search</string>
+		<string name="SETTINGS_RECEIVE_CALLS">Receive Calls</string>
+		<string name="error_404">There was a problem connecting to the server. Please try again.</string>
+		<string name="country_name_MF">Saint Martin</string>
+		<string name="top_up_package_free_sim">FREE\nSIM</string>
+		<string name="parking_manual_title">Manual setup</string>
+		<string name="country_name_NF">Norfolk Island</string>
+		<string name="error_263">The promo code you have entered has expired.</string>
+		<string name="error_5">The session has expired. Please enter your number again.</string>
+		<string name="country_name_TM">Turkmenistan</string>
+		<string name="call_voip_toggle_speaker">speaker</string>
+		<string name="country_name_SD">Sudan</string>
+		<string name="voicemail_email_input_hint">Email address</string>
+		<string name="error_26">There was an error processing your payment. Restart Roamer and try again.</string>
+		<string name="currency_THB">Thai Baht</string>
+		<string name="DR_CALLER_ID_ACTION_TITLE">Change Caller ID</string>
+		<string name="toast_payment_successfull">Payment successfully processed!</string>
+		<string name="country_selection_activity_search_hint_foreign">search</string>
+		<string name="drawer_in_status_3">You are not receiving calls in Roamer. Internet connection required.</string>
+		<string name="dialog_roaming_call_title">Your SIM is roaming</string>
+		<string name="currency_ARS">Argentine Peso</string>
+		<string name="error_261">The promo code you have entered is incorrect.</string>
+		<string name="status_roaming_title">You\'re in roaming!</string>
+		<string name="currency_BYR">Belarus Ruble</string>
+		<string name="dialog_no_gsm_body">Sorry, but the standart GSM call is not available at this time.</string>
+		<string name="dialog_currency_warning_body">All calculations are done in Euro.\n\nIf you choose a different currency, your balance will also change along with the selected currency rate.</string>
+		<string name="country_name_MX">Mexico</string>
+		<string name="country_name_DG">Diego Garcia</string>
+		<string name="country_name_GY">Guyana</string>
+		<string name="country_name_CA">Canada</string>
+		<string name="month_9_short">Sep</string>
+		<string name="dialer_use_number">User in the dialer</string>
+		<string name="call_voip_quality">Network quality:</string>
+		<string name="settings_receive_calls_warning_no_internet">Calls are not possible without Internet or a linked local SIM.</string>
+		<string name="rates_rates">Rates</string>
+		<string name="error_21">This country is not yet supported.</string>
+		<string name="error_35">The number you\'ve entered does not match the country you\'re currently in.</string>
+		<string name="country_name_LY">Libya</string>
+		<string name="missed_call_title">Missed call</string>
+		<string name="country_name_IE">Ireland</string>
+		<string name="dialog_offline_forwarding_finished_body">Call forwarding is set up. Insert your foreign SIM card to continue.\n\nNote that you will need a temporary internet connection.</string>
+		<string name="dialog_forwarding_did_not_work_title">Call forwarding</string>
+		<string name="month_6_short">Jun</string>
+		<string name="country_name_BI">Burundi</string>
+		<string name="error_27">This email is already in use.</string>
+		<string name="call_voip_status_call_outgoing">Outgoing call</string>
+		<string name="dialog_button_ask_me">Ask me</string>
+		<string name="country_name_AZ">Azerbaijan</string>
+		<string name="country_name_CI">Côte d\'Ivoire</string>
+		<string name="country_name_AQ">Antarctica</string>
+		<string name="title_tab_history">History</string>
+		<string name="on">On</string>
+		<string name="dialog_change_number_parked_body">You can\'t change your main number while call forwarding is enabled.</string>
+		<string name="settings_voicemail">Voicemail</string>
+		<string name="dialog_button_yes">Yes</string>
+		<string name="country_name_BT">Bhutan</string>
+		<string name="settings_receive_calls_disabled_info">Enable Receive calls using the switch above</string>
+		<string name="dialog_change_number_1_body">Changing your main number will transfer your balance and call history to a new home number (account).</string>
+		<string name="country_name_MC">Monaco</string>
+		<string name="country_name_NI">Nicaragua</string>
+		<string name="title_tab_dial_pad">Dial pad</string>
+		<string name="error_email_invalid_format">The email you\'ve specified is invalid.</string>
+		<string name="dialog_gsm_not_available_title">Can\'t use the mobile network</string>
+		<string name="country_name_GE">Georgia</string>
+		<string name="drawer_section_other">OTHER</string>
+		<string name="VOICEMAIL_RESET_MESSAGE">Reset message</string>
+		<string name="country_name_MY">Malaysia</string>
+		<string name="dialog_no_gsm_title">Call not available</string>
+		<string name="month_2_short">Feb</string>
+		<string name="top_up_methods_title">Select payment method</string>
+		<string name="error_7">Forwarding was already disabled.</string>
+		<string name="welcome_tutorial_3_body">Make international calls from your regular number at the lowest possible rates.</string>
+		<string name="error_1310">Select an amount.</string>
+		<string name="currency_PHP">Philippine Peso</string>
+		<string name="call_voip_quality_excellent">excellent</string>
+		<string name="country_name_VC">Saint Vincent and the Grenadines</string>
+		<string name="parking_manual_disclaimer">Please use this method only if \"Automatic\" did not work or if you know what you are doing!</string>
+		<string name="POPUP_CANCEL_FORWARD_MESSAGE">You are back home. You may want to switch off Receive calls in the side menu.</string>
+		<string name="country_name_IQ">Iraq</string>
+		<string name="country_name_MA">Morocco</string>
+		<string name="currency_BHD">Bahraini Dinar</string>
+		<string name="currency_PLN">Polish Zloty</string>
+		<string name="country_name_HN">Honduras</string>
+		<string name="country_name_KI">Kiribati</string>
+		<string name="parking_manual_button_copy_number">Copy number</string>
+		<string name="country_name_TN">Tunisia</string>
+		<string name="spinner_top_up_processing">Processing payment...</string>
+		<string name="rates_outgoing_rate">Outgoing</string>
+		<string name="spinner_history_cleaning">Cleaning history...</string>
+		<string name="share_activity_description">For each friend that adds credit</string>
+		<string name="country_name_ES">Spain</string>
+		<string name="country_name_NR">Nauru</string>
+		<string name="country_name_TJ">Tajikistan</string>
+		<string name="error_10">This schedule was already forwarded or canceled.</string>
+		<plurals name="plural_days">
+			<item quantity="zero"></item>
+			<item quantity="one">%1$d day</item>
+			<item quantity="two"></item>
+			<item quantity="few"></item>
+			<item quantity="many"></item>
+			<item quantity="other">%1$d days</item>
+		</plurals>
+		<string name="country_name_ZZ">Other territories</string>
+		<string name="call_voip_status_call_ending">Ending call</string>
+		<string name="currency_EGP">Egyptian Pound</string>
+		<string name="currency_RUB">Russian Rouble</string>
+		<string name="country_name_KZ">Kazakhstan</string>
+		<string name="country_name_AG">Antigua and Barbuda</string>
+		<string name="error_8">You\'ve already sheduled a departure or your number is already forwarded.</string>
+		<string name="country_name_TT">Trinidad and Tobago</string>
+		<string name="country_name_UG">Uganda</string>
+		<string name="error_29">There was an error while forwarding your number.</string>
+		<string name="country_name_NL">Netherlands</string>
+		<string name="country_name_LU">Luxembourg</string>
+		<string name="dialog_button_save">Save</string>
+		<string name="country_name_PY">Paraguay</string>
+		<string name="history_item_call_in">Incoming</string>
+		<string name="title_rates">Rates</string>
+		<string name="DR_ACTION_LINK_SIM">Local SIM</string>
+		<string name="support_chat_notification_body">Roamer support has sent you a message.</string>
+		<string name="month_4">April</string>
+		<string name="month_1">January</string>
+		<string name="error_location">There was a problem getting your current location! Please make sure that you\'ve enabled all permissions. In some cases rebooting the device might help.</string>
+		<string name="exit_dialog_body">Are you sure you want to exit Roamer?</string>
+		<string name="dialog_clear_history_body">Are you sure you want to clear the entire call history?</string>
+		<string name="country_name_AN">Netherlands Antilles</string>
+		<string name="dialog_voip_bad_network_title">Bad network quality</string>
+		<string name="settings_language">Language</string>
+		<string name="error_1009">Call already in progress.</string>
+		<string name="country_name_CD">Congo - Kinshasa</string>
+		<string name="error_1">The user was not found. Please reinstall Roamer.</string>
+		<string name="country_name_ZW">Zimbabwe</string>
+		<string name="top_up_stripe_error_purpose_undefined">Payment purpose is undefined. Please try again or contact us in the in-app support chat.</string>
+		<string name="currency_UAH">Ukraine Hryvnia</string>
+		<string name="country_name_RO">Romania</string>
+		<string name="missed_call_unknown">Unknown</string>
+		<string name="error_16">You are currently in roaming. Insert a local SIM card and try again.</string>
+		<string name="dialog_cancel_reminder_title">Cancel the reminder?</string>
+		<string name="button_free_call">Free call</string>
+		<string name="country_name_MS">Montserrat</string>
+		<string name="country_name_WS">Samoa</string>
+		<string name="country_name_DK">Denmark</string>
+		<string name="country_name_SG">Singapore</string>
+		<string name="welcome_tutorial_1_title">Your number over Wi-Fi\nwhen you travel</string>
+		<string name="VOICEMAIL_ACTIVATES">Voicemail activates</string>
+		<string name="foreign_number_change">Change local number</string>
+		<string name="date_today">TODAY</string>
+		<string name="country_name_BW">Botswana</string>
+		<string name="country_name_ZA">South Africa</string>
+		<string name="country_name_AT">Austria</string>
+		<string name="country_name_LC">Saint Lucia</string>
+		<string name="dialog_button_dont_ask">Don\'t ask again</string>
+		<string name="country_name_GA">Gabon</string>
+		<string name="welcome_tutorial_2_body">Link your number to any local SIM card for low-cost data &amp; calls.</string>
+		<string name="dialog_remote_parking_insert_home_sim_body">You need to insert your main SIM card (the one with the number %1$s) before you can continue.</string>
+		<string name="top_up_stripe_total">TOTAL: %1$s</string>
+		<string name="month_3_short">Mar</string>
+		<string name="menu_faq">FAQ</string>
+		<string name="country_name_GD">Grenada</string>
+		<string name="country_name_IR">Iran</string>
+		<string name="country_name_BE">Belgium</string>
+		<string name="top_up_free_sim_body">Opt for €29.99 or €49.99 top-up and get a FREE SIM card of your choice mailed to you.</string>
+		<string name="country_name_GB">United Kingdom</string>
+		<string name="country_name_HK">Hong Kong</string>
+		<string name="share_activity_of_credit_formatted">≈ %1$s credit</string>
+		<string name="error_1003">Please enter a valid phone number.</string>
+		<string name="country_name_KE">Kenya</string>
+		<string name="country_name_TV">Tuvalu</string>
+		<string name="country_name_AI">Anguilla</string>
+		<string name="currency_SAR">Saudi Arabian Riyal</string>
+		<string name="dialog_change_number_2_body">Are you sure you want to change your main number?</string>
+		<string name="welcome_tutorial_2_title">Avoid data roaming\ncharges</string>
+		<string name="error_12">We can\'t determine your location. Please try again later.</string>
+		<string name="currency_CLP">Chilean Peso</string>
+		<string name="parking_manual_title_description">Forwarding must be set up using a SIM card with number %1$s</string>
+		<string name="share_message_promo_format_android">Use my promo code %s in Roamer app and get 20%% extra on your first top-up. I\'ve saved over 90%% on international calls and roaming, you should try it too. Go to http://roa.my/a</string>
+		<string name="country_name_AL">Albania</string>
+		<string name="exit_dialog_title">Confirm</string>
+		<string name="history_item_call_out_missed">Unanswered</string>
+		<string name="currency_CYP">Cyprus Pound</string>
+		<string name="country_name_BD">Bangladesh</string>
+		<string name="country_name_PS">Palestinian Territories</string>
+		<string name="drawer_calls_out_title">Make international calls</string>
+		<string name="error_1002">Please select a city first.</string>
+		<string name="month_6">June</string>
+		<string name="dialog_change_number_1_title">Warning!</string>
+		<string name="country_name_ET">Ethiopia</string>
+		<string name="currency_CZK">Czech Koruna</string>
+		<string name="country_name_TG">Togo</string>
+		<string name="country_name_PE">Peru</string>
+		<string name="country_name_FI">Finland</string>
+		<string name="month_5">May</string>
+		<string name="call_voip_toggle_keypad">keypad</string>
+		<string name="currency_RON">Romanian New Leu</string>
+		<string name="country_name_CW">Curaçao</string>
+		<string name="SETTINGS_RECEIVE_CALLS_OVER_INTERNET_GSM">Internet, then local SIM</string>
+		<string name="menu_debug">Debug</string>
+		<string name="country_name_CL">Chile</string>
+		<string name="dialog_button_ok">Ok</string>
+		<string name="country_name_ID">Indonesia</string>
+		<string name="country_name_KG">Kyrgyzstan</string>
+		<string name="error_408">The request took longer than expected. Please try again.</string>
+		<string name="validation_number_wrong_code">Wrong country code</string>
+		<string name="DR_CALLER_ID_ANONYMOUS">hidden</string>
+		<string name="country_name_RS">Serbia</string>
+		<string name="country_name_SX">Sint Maarten</string>
+		<string name="menu_sim_shop">SIM shop</string>
+		<string name="country_name_DJ">Djibouti</string>
+		<string name="title_settings">Settings</string>
+		<string name="settings_ask_sip_quality">Network quality warning</string>
+		<string name="dialog_choose_language_title">Choose language</string>
+		<string name="month_8_short">Aug</string>
+		<string name="country_name_AM">Armenia</string>
+		<string name="error_1001">Please select a state first.</string>
+		<string name="dialog_Confirm">Confirm</string>
+		<string name="country_name_CV">Cape Verde</string>
+		<string name="support_chat_message_error_edit">Edit message</string>
+		<string name="country_name_SO">Somalia</string>
+		<string name="dialog_need_top_up_body">Insufficient balance to continue.</string>
+		<string name="spinner_promo_activating">Activating promo code...</string>
+		<string name="currency_TWD">Taiwan Dollar</string>
+		<string name="error_1004">There was a problem while syncing user data. Please try again later.</string>
+		<string name="button_regular_call_with_price">Regular call (%1$s)</string>
+		<string name="settings_use_voicemail_description">All recorder messages will be sent to your email as MP3 files</string>
+		<string name="button_Terms">Terms of use</string>
+		<string name="country_name_NG">Nigeria</string>
+		<string name="error_100">It seems that your device is out of sync. Please try again.</string>
+		<string name="menu_terms">Terms of use</string>
+		<string name="country_name_DZ">Algeria</string>
+		<string name="country_name_MM">Myanmar [Burma]</string>
+		<string name="error_20">You need to forward your calls first.</string>
+		<string name="validation_button_call">Call me</string>
+		<string name="SETTINGS_RECEIVE_CALLS_OVER_SECTION">Receive calls over</string>
+		<string name="currency_KRW">Korean Won</string>
+		<string name="title_support">Support</string>
+		<string name="menu_settings">Settings</string>
+		<string name="country_name_AF">Afghanistan</string>
+		<string name="calling_pick_up_description">When your phone rings,\nanswer it</string>
+		<string name="share_message_promo_format_android_twitter">Use my promo code %s in Roamer app and get 20%% extra on your first top-up. Go to http://roa.my/a</string>
+		<string name="share_activity_they_get">They get</string>
+		<string name="country_name_OM">Oman</string>
+		<string name="contacts_list_empty">No contacts found</string>
+		<string name="drawer_caller_id_changed_body">Your Caller ID was automatically changed to %1$s.\n\nYou can always change it back in the side menu.</string>
+		<string name="error_1311">Select a payment method.</string>
+		<string name="country_name_AC">Ascension Island</string>
+		<string name="country_name_PG">Papua New Guinea</string>
+		<string name="foreign_number_copied_message">The number %1$s was copied to clipboard</string>
+		<string name="terms_of_use">
+<![CDATA[
+    
+        <h3><font color=\'#main_color#\'>1. GENERAL</font></h3>
+
+        By installing the Application (as defined below), you agree to be bound by these terms of use (\"appterms\"). Please review them carefully before installation and/or acceptance.
+
+        <h3><font color=\'#main_color#\'>2. DEFINITIONS</font></h3>
+
+        The \"Application\" shall mean the software provided by ROAMER to offer services related to mobile calls’ services, to be used on Apple iOS and Android OS devices and any upgrades from time to time and any other software or documentation which enables the use of the Application.
+
+        <h3><font color=\'#main_color#\'>3. DATA PROTECTION</font></h3>
+
+        Any personal information you supply to ROAMER when using the Application, will be used by ROAMER in accordance with its Privacy Policy.
+
+        <h3><font color=\'#main_color#\'>4. PROPRIETARY RIGHTS AND LICENCE</font></h3>
+
+        4.1. All trade marks, copyright, database rights and other intellectual property rights of any nature in the Application together with the underlying software code are owned either directly by ROAMER or by ROAMER licensors.
+        <br><br>
+        4.2. ROAMER hereby grants you a worldwide, non-exclusive, royalty-free revocable license to use the Application for your business and personal use in accordance with these appterms.
+
+        <h3><font color=\'#main_color#\'>5. CONDITIONS OF USE</font></h3>
+
+        5.1. You will not, nor allow third parties on your behalf to (i) make and distribute copies of the Application (ii) attempt to copy, reproduce, alter, modify, reverse engineer, disassemble, decompile, transfer, exchange or translate the Application; or (iii) create derivative works of the Application of any kind whatsoever.
+        <br><br>
+        5.2. The rates for the ROAMER Services are published on the Site. ROAMER reserves the right to change the rates at any time without notice. If you do not wish to accept such adjustment of rates, you are entitled to terminate the Account with effect from the date on which the adjustment of rates would become effective. You agree that by continuing to use the ROAMER Services, following the adjustments of the rates, you accept such adjustments.
+        <br><br>
+        5.3. You acknowledge that the terms of agreement with your respective mobile network provider (‘Mobile Provider’) will continue to apply when using the Application. As a result, you may be charged by the Mobile Provider for access to network connection services for the duration of the connection while accessing the Application or any such third party charges as may arise. You accept responsibility for any such charges that arise.
+        <br><br>
+        5.4. If you are not the bill payer for the mobile telephone or handheld device being used to access the Application, you will be assumed to have received permission from the bill payer for using the Application.
+        <br><br>
+        5.5. If your Device is stolen or if you become aware of unauthorized use of the Roamer Services you must notify us immediately to suspend the Roamer Services. You are responsible for all charges to your account with Roamer (\"Account\") until the Roamer Services are suspended.
+        <br><br>
+        5.6. In order to purchase credits for the ROAMER Services and to charge your Account you shall pay ROAMER the rates as stated on the Site. Payments are either made manually by you or through the automatic recharge function activated by you. The automatic recharge function means that when your Account balance is below a certain level, your Account will be automatically recharged with a certain pre-selected amount. Unless stated otherwise, all rates and charges shall be stated in Euros (EUR currency) and shall be exclusive of value added taxes (VAT) or any other applicable taxes or fees.
+
+        <h3><font color=\'#main_color#\'>6. EMERGENCY CALLS</font></h3>
+
+        The ROAMER Services do not and are not intended to support or carry emergency calls to any type of hospitals, law enforcement agencies, medical care unit or any type of emergency services of any kind and ROAMER is not liable in any manner for such calls. In the event that, with your permission, another user uses your Account, you are responsible to inform that user that it is not possible to support or carry emergency calls with the ROAMER Services.
+
+        <h3><font color=\'#main_color#\'>7. AVAILABILITY</font></h3>
+
+        7.1. This Application is available to handheld mobile devices running Apple iOS and Android OS Operating Systems. ROAMER will use reasonable efforts to make the Application available at all times. However you acknowledge the Application is provided over the internet and mobile networks and so the quality and availability of the Application may be affected by factors outside ROAMER reasonable control.
+        <br><br>
+        7.2. ROAMER, its group of companies and sub-contractors do not accept any responsibility whatsoever for unavailability of the Application, or any difficulty or inability to download or access content or any other communication system failure which may result in the Application being unavailable..
+
+        <h3><font color=\'#main_color#\'>8. SYSTEM REQUIREMENTS</font></h3>
+
+        8.1. In order to use the Application, you are required to have a compatible mobile telephone or handheld device, internet access, and the necessary minimum specifications (\'Software Requirements\').
+        <br><br>
+        8.2. The Software Requirements are as follows: Apple iOS devices running iOS 4.3 and up, and Android OS devices running Android OS 2.3 and up;
+        <br><br>
+        8.3. The version of the Application software may be upgraded from time to time to add support for new functions and services.
+
+        <h3><font color=\'#main_color#\'>9. TERMINATION</font></h3>
+
+        9.1. ROAMER may terminate use of the Application at any time by giving notice of termination to you.
+        <br><br>
+        9.2. Upon any termination, (a) the rights and licenses granted to you herein shall terminate; (b) you must cease all use of the Software;
+
+        <h3><font color=\'#main_color#\'>10. LIMITATION OF LIABILITY</font></h3>
+
+        10.1. In no event will ROAMER be liable for any direct, indirect, special, punitive, exemplary or consequential losses or damages of whatsoever kind arising out of your use or access to the Application, including loss of profit or the like whether or not in the contemplation of the parties, whether based on breach of contract, tort (including negligence), product liability or otherwise.
+        <br><br>
+        10.2. ROAMER is not liable to you for any damage or alteration to your equipment including but not limited to computer equipment, handheld device or mobile telephones as a result of the installation or use of the Application.
+        <br><br>
+        10.3. Nothing in these Appterms shall exclude or limit ROAMER’s liability for death or personal injury caused by negligence or for fraud or fraudulent misrepresentation or any other liability which cannot be excluded or limited under applicable law.
+        <br><br>
+        10.4. If you are residing in a jurisdiction where it is prohibited by law to offer or use Internet telephony or the Roamer Services, you may not enter into this Agreement
+
+        <h3><font color=\'#main_color#\'>11. DISCLAIMER OF WARRANTIES</font></h3>
+
+        11.1. To the maximum extent permitted by law, and for the avoidance of doubt, ROAMER hereby disclaims all implied warranties with regard to the Application. The Application and software are provided \"as is\" and \"as available\" without warranty of any kind.
+        <br><br>
+        11.2. Roamer does not make any express warranty regarding the Roamer services and disclaim any implied warranty, including any warranty of merchantability, satisfactory quality, or fitness for a particular purpose; however Roamer shall endeavor to provide the Roamer services with minimum disruptions. Roamer cannot guarantee that the Roamer Services will always function without disruptions, delay or other imperfections.
+        <br><br>
+        11.3. ROAMER is not liable under any circumstances for your inability to use Roamer services, because your phone doesn’t allow to insert other sim-cards in accordance with your mobile carrier rules.
+    
+    ]]>
+</string>
+		<string name="month_10">October</string>
+		<string name="validation_pin_label">Enter verification code</string>
+		<string name="country_name_GF">French Guiana</string>
+		<string name="currency_CAD">Canadian Dollar</string>
+		<string name="voicemail_greeting_playing">Greeting playback</string>
+		<string name="country_name_MW">Malawi</string>
+		<string name="country_name_MU">Mauritius</string>
+		<string name="top_up_free_sim_title">Available options</string>
+		<string name="parking_manual_unparking_step_1">Disable call forwarding on your SIM card</string>
+		<string name="voicemail_email_desc">Roamer offers free voicemail. All of the messages will be delivered to your email as MP3s. </string>
+		<string name="settings_intercept_international_calls">Intercept international calls</string>
+		<string name="spinner_parking_un_parking">Verifying your status...</string>
+		<string name="dialog_need_top_up_title">Insufficient balance</string>
+		<string name="country_name_JP">Japan</string>
+		<string name="share_activity_you_get">You get</string>
+		<string name="date_yesterday">YESTERDAY</string>
+		<string name="country_name_LS">Lesotho</string>
+		<string name="country_name_SM">San Marino</string>
+		<string name="country_name_TC">Turks and Caicos Islands</string>
+		<string name="country_name_FO">Faroe Islands</string>
+		<string name="spinner_loading">Loading...</string>
+		<string name="dialog_internet_call_failed_title">Call did not get through</string>
+		<string name="spinner_checking_number">Checking phone number...</string>
+		<string name="country_name_GT">Guatemala</string>
+		<string name="dr_earn_credit">Get free credit</string>
+		<string name="action_clear_history">Clear history</string>
+		<string name="country_name_MG">Madagascar</string>
+		<string name="country_name_CU">Cuba</string>
+		<string name="share_activity_invite_via">INVITE VIA</string>
+		<string name="drawer_in_status_4">Incoming calls received as regular calls.</string>
+		<string name="currency_HKD">Hong Kong Dollar</string>
+		<string name="error_1005">Data sync is currently in progress. Please wait.</string>
+		<string name="country_name_LR">Liberia</string>
+		<string name="country_name_AD">Andorra</string>
+		<string name="drawer_local_sim_description">Link a SIM to enable calls over mobile networks without roaming charges.</string>
+		<string name="top_up_promo_title">Have a promo code?</string>
+		<string name="error_25">We could not validate this payment package.</string>
+		<string name="country_name_SC">Seychelles</string>
+		<string name="error_4">The code you\'ve provided is not valid.</string>
+		<string name="country_name_BM">Bermuda</string>
+		<string name="drawer_caller_id_changed_title">Caller ID has changed</string>
+		<string name="country_name_RE">Reunion</string>
+		<string name="currency_COP">Colombian Peso</string>
+		<string name="country_name_GN">Guinea</string>
+		<string name="currency_CNY">Chinese Yuan</string>
+		<string name="country_name_SY">Syria</string>
+		<string name="spinner_parking_forwarding">Setting up call forwarding...</string>
+		<string name="history_list_empty">No calls in history</string>
+		<string name="share_activity_last_used">LAST USED</string>
+		<string name="country_name_BO">Bolivia</string>
+		<string name="rates_outgoing_less">Hide extra rates</string>
+		<string name="country_selection_activity_title">Select country</string>
+		<string name="error_24">This payment was already processed.</string>
+		<string name="title_tab_contacts">Contacts</string>
+		<string name="dialog_gsm_not_available_body">Activate a local SIM card to use this function, otherwise you can make calls using Wi-Fi/Data.</string>
+		<string name="validation_pin_no_sms">No code? Request a call after</string>
+		<string name="country_name_CG">Congo - Brazzaville</string>
+		<string name="free_invite_text_body">Hey, I\'ve started using Roamer. It\'s a free revolutionary calling app that lets you and me avoid roaming charges. Give it a try. http://roamerapp.com/get</string>
+		<string name="dialog_need_login_body">Roamer is not active yet.</string>
+		<string name="dialog_roaming_call_body">Roamer requires local SIM to avoid roaming charges.\n\nRegular call will be charged as a roaming call by your operator.\n\nDo you want to proceed?</string>
+		<string name="country_name_BS">Bahamas</string>
+		<string name="country_name_KM">Comoros</string>
+		<string name="country_name_NA">Namibia</string>
+		<string name="country_name_SA">Saudi Arabia</string>
+		<string name="voicemail_email_title">Setup voicemail</string>
+		<string name="country_name_DE">Germany</string>
+		<string name="cancel_parking_dialog_title">Cancel forwarding?</string>
+		<string name="country_name_ST">Sao Tome and Principe</string>
+		<string name="dialog_Manual">Manual</string>
+		<string name="country_name_EE">Estonia</string>
+		<string name="country_name_SI">Slovenia</string>
+		<string name="country_name_CO">Colombia</string>
+		<string name="settings_dialog_warning_need_local_sim_abroad_body">In order to use this function, you need to link a local SIM first.</string>
+		<string name="drawer_local_sim_title">Local SIM</string>
+		<string name="country_name_DO">Dominican Republic</string>
+		<string name="cancel_parking_manual_dialog_title">Confirmation</string>
+		<string name="spinner_dial_pad_connecting">Connecting...</string>
+		<string name="country_name_FK">Falkland Islands (Malvinas)</string>
+		<string name="dialog_cant_park_abroad_body">We are sorry, but with your operator you can\'t enable incoming calls to Roamer while abroad. You can still use Roamer for cheap outgoing calls. Next time enable incoming calls BEFORE departure (use our reminder function).</string>
+		<string name="country_name_RW">Rwanda</string>
+		<string name="settings_cat_abroad">Abroad</string>
+		<string name="SETTINGS_RECEIVE_CALLS_OVER_INTERNET_ONLY">Internet only</string>
+		<string name="dialog_need_login_title">Need to authorize</string>
+		<string name="history_item_call_in_missed">Missed</string>
+		<string name="title_top_up">Add credit</string>
+		<string name="error_17">You need to enable \"Call Forwarding\" in your phone settings before you can proceed.</string>
+		<string name="dialog_top_up_promo_gift_activated_title">Success</string>
+		<string name="month_5_short">May</string>
+		<string name="title_debug">Debug</string>
+		<string name="validation_input_code_hint">verification code</string>
+		<string name="country_name_PL">Poland</string>
+		<string name="welcome_tutorial_3_title">Low-cost international\ncalls</string>
+		<string name="call_voip_quality_bad">bad</string>
+		<string name="validation_number_phone_hint">phone number</string>
+		<string name="country_name_LI">Liechtenstein</string>
+		<string name="error_18">You need to disable \"Call Forwarding\" in your phone settings before you can proceed.</string>
+		<string name="settings_dialog_warning_need_local_sim_home_body">In order to use this function, you need to link a local SIM first.\n\nLocal SIM card can be linked only when you\'re abroad.</string>
+		<string name="validation_pin_description">Verification code sent to %1$s.\nPlease enter it above.</string>
+		<string name="SETTINGS_RECEIVE_CALLS_OVER_GSM_ONLY">Local SIM only</string>
+		<string name="country_name_TW">Taiwan</string>
+		<string name="error_6">It is too early to request a call.</string>
+		<string name="country_name_MQ">Martinique</string>
+		<string name="currency_MXN">Mexican Peso</string>
+		<string name="foreign_number_copy_clipboard">Copy to clipboard</string>
+		<string name="free_invite">INVITE TO CALL FOR FREE</string>
+		<string name="dialog_offline_forwarding_finished_title">Call forwarding</string>
+		<string name="country_name_GU">Guam</string>
+		<string name="rates_internet_call">Internet</string>
+		<string name="dialog_choose_currency_title">Choose currency</string>
+		<string name="currency_SGD">Singapore Dollar</string>
+		<string name="settings_intercept_international_calls_description">Use Roamer when making international calls from your phone\'s dialer</string>
+		<string name="drawer_close">Close</string>
+		<string name="country_name_MO">Macau SAR China</string>
+		<string name="voicemail_button_record">Record</string>
+		<string name="CALLER_ID_CHANGE_TITLE">Caller ID</string>
+		<string name="error_39">You don\'t have permission to use this functionality yet.</string>
+		<string name="action_edit_contact">Edit contact</string>
+		<string name="currency_LTL">Lithuanian Lita</string>
+		<string name="menu_top_up">Add credit</string>
+		<string name="country_name_TK">Tokelau</string>
+		<string name="country_name_QA">Qatar</string>
+		<string name="error_104">There was an authorization error. Please try again.</string>
+		<string name="country_name_SL">Sierra Leone</string>
+		<string name="country_name_RU">Russia</string>
+		<string name="currency_NZD">New Zealand Dollar</string>
+		<string name="settings_use_voicemail">Use voicemail</string>
+		<string name="dialog_need_login_button_login">Go ahead</string>
+		<string name="voicemail_button_play">Play</string>
+		<string name="currency_TRY">New Turkish Lira</string>
+		<string name="country_name_VI">U.S. Virgin Islands</string>
+		<string name="button_Next">Next</string>
+		<string name="spinner_parking_request_proxy">Requesting forwarding...</string>
+		<string name="settings_cat_calls">CALLS</string>
+		<string name="error_201">The call could not be established. Please try again.</string>
+		<string name="country_name_CH">Switzerland</string>
+		<string name="country_name_TD">Chad</string>
+		<string name="dialog_leaving_now_title">Enabling call forwarding</string>
+		<string name="support_chat_message_error_delete">Delete message</string>
+		<string name="country_name_IN">India</string>
+		<string name="settings_change_number">Main phone number</string>
+		<string name="country_name_AR">Argentina</string>
+		<string name="drawer_in_status_4_sip_only">Receive calls over Internet if it is present. For more reliability validate a local SIM to receive calls as normal.</string>
+		<string name="contacts_number_list_empty">No phone numbers</string>
+		<string name="payment_fail">Payment failed</string>
+		<string name="currency_NOK">Norwegian Krone</string>
+		<string name="action_add_contact">Add contact</string>
+		<string name="month_8">August</string>
+		<string name="month_2">February</string>
+		<string name="country_name_MZ">Mozambique</string>
+		<string name="error_0">There was a problem. Please try again.</string>
+		<string name="menu_support">Support</string>
+		<string name="country_name_BN">Brunei</string>
+		<string name="country_name_PK">Pakistan</string>
+		<string name="share_message_twitter">I\'m using Roamer app for international calls from home and abroad, with and without Internet. Start using it for free:</string>
+		<string name="share_message_standard">I\'m using Roamer app for international calls from home and abroad, with and without Internet. Start using it for free: </string>
+		<string name="country_name_AE">United Arab Emirates</string>
+		<string name="currency_BGN">Bulgarian Lev</string>
+		<string name="VOICEMAIL_RINGS_IF_UNREACHABLE">if I\'m unreachable</string>
+		<string name="spinner_validation_requesting_code">Requesting code...</string>
+		<string name="share_activity_of_credit">credit</string>
+		<string name="country_name_NC">New Caledonia</string>
+		<string name="country_selection_login_description">Choose the country where your main mobile number belongs.\n\nWe need this to make sure Roamer handles your calls correctly.</string>
+		<string name="support_chat_message_error_body">We could not send your message. What do you want to do?</string>
+		<string name="country_name_KP">Democratic People\'s Republic of Korea</string>
+		<string name="error_101">It seems that your device is out of sync. Please try again.</string>
+		<string name="country_name_EG">Egypt</string>
+		<string name="country_name_FM">Micronesia</string>
+		<string name="country_name_MD">Moldova</string>
+		<string name="drawer_in_status_1">Oops, incoming calls had not been forwarded to Roamer BEFORE you left you country. You can still make calls in Roamer. LINK FOR OTHER OPTIONS. The other option is to set up call forwarding through your operator call centre, website or a special app only if YOU know how to do it.</string>
+		<string name="drawer_calls_in_title">Receive calls\nwhen abroad</string>
+		<string name="country_name_PF">French Polynesia</string>
+		<string name="call_voip_status_call_out">Calling</string>
+		<string name="country_name_VU">Vanuatu</string>
+		<string name="country_name_GH">Ghana</string>
+		<string name="title_validation">Validation</string>
+		<string name="support_chat_message_error_title">Error sending message!</string>
+		<string name="currency_AED">UAE Dirham</string>
+		<string name="country_selection_activity_search_hint_home">search</string>
+		<string name="country_name_VN">Vietnam</string>
+		<string name="support_chat_input_hint">Enter message</string>
+		<string name="free_invite_text_subject">Try Roamer</string>
+		<string name="currency_ILS">Israeli Shekel</string>
+		<string name="voicemail_greeting_title">Roamer Voicemail</string>
+		<string name="dialog_number_premium_title">Premium number</string>
+		<string name="country_name_GQ">Equatorial Guinea</string>
+		<string name="payment_success">Payment successful</string>
+		<string name="country_name_NZ">New Zealand</string>
+		<string name="title_set_reminder">Reminder</string>
+		<string name="error_1000">Please select a country first.</string>
+		<string name="settings_auto_pick_up_description">Automatically picks up the incoming callback when you place a call through Roamer over Internet</string>
+		<string name="parking_manual_step_1">
+<![CDATA[
+    
+        Forward your calls to <font color=\"#main_color#\">%1$s</font>
+    
+    ]]>
+</string>
+		<string name="dialog_cancel_reminder_body">Are you sure you want to cancel the reminder?</string>
+		<string name="country_name_SN">Senegal</string>
+		<string name="country_name_DM">Dominica</string>
+		<string name="validation_button_re_enter">Re-enter phone number</string>
+		<string name="dialog_button_proceed">Proceed</string>
+		<string name="currency_DKK">Danish Krone</string>
+		<string name="drawer_local_sim_number_title">Local SIM number:</string>
+		<string name="currency_AUD">Australian Dollar</string>
+		<string name="call_voip_status_call_in">Incoming call</string>
+		<string name="rates_regular_call">Regular</string>
+		<string name="country_name_GR">Greece</string>
+		<string name="settings_voicemail_disabled_info">Enable voicemail using the switch above</string>
+		<string name="error_14">You\'ve already forwarded your number.</string>
+		<string name="menu_rates">Rates</string>
+		<string name="country_name_YE">Yemen</string>
+		<string name="month_7_short">Jul</string>
+		<string name="country_name_GP">Guadeloupe</string>
+		<string name="error_102">Authorization token has expired.</string>
+		<string name="country_name_TZ">Tanzania</string>
+		<string name="rates_calling">Calling to</string>
+		<string name="validation_number_foreign_phone_label">Foreign-land number</string>
+		<string name="drawer_item_terms">Terms of use</string>
+		<string name="month_11_short">Nov</string>
+		<string name="country_name_NE">Niger</string>
+		<string name="top_up_promo_hint">Enter the code</string>
+		<string name="settings_voicemail_greeting_description">Voice message that will be played when people reach your voicemail</string>
+		<string name="spinner_setting_update">Updating setting...</string>
+		<string name="currency_CHF">Swiss Franc</string>
+		<string name="error_1007">There was an error while forwarding your number.</string>
+		<string name="voicemail_setup_greeting_title">Voicemail greeting</string>
+		<string name="settings_voicemail_email">Your email</string>
+		<string name="country_name_LK">Sri Lanka</string>
+		<string name="dialog_top_up_promo_title">Promo code</string>
+		<string name="country_name_PR">Puerto Rico</string>
+		<string name="country_name_MP">Northern Mariana Islands</string>
+		<string name="voicemail_email_enable_button">Enable voicemail</string>
+		<string name="country_name_BH">Bahrain</string>
+		<string name="DR_ACTION_MAKE_CALLS">Make calls</string>
+		<string name="dialog_unlink_sim_title">Unlink SIM?</string>
+		<string name="top_up_stripe_order_title">YOUR ORDER</string>
+		<string name="dialog_change_number_2_title">Are you sure?</string>
+		<string name="call_voip_toggle_mute">mute</string>
+		<string name="country_name_ML">Mali</string>
+		<string name="DR_ACTION_RECEIVE_CALLS">Receive calls</string>
+		<string name="parking_manual_unparking_title_description">Forwarding must be disabled using a SIM card with number %1$s</string>
+		<string name="history_item_call_out">Outgoing</string>
+		<string name="spinner_promo_checking">Checking promo code...</string>
+		<string name="dialog_button_cancel">Cancel</string>
+		<string name="VOICEMAIL_RINGS_5">after 5 rings</string>
+		<string name="voicemail_setup_greeting_desc">You can record your own greeting or use a standard Roamer greeting.</string>
+		<string name="top_up_packages_title">How much credit?</string>
+		<string name="error_22">We can\'t get your current location.</string>
+		<string name="country_name_BJ">Benin</string>
+		<string name="validation_number_foreign_country_label">What is your current location?</string>
+		<string name="spinner_parking_validating_forward">Validating call forwarding...</string>
+		<string name="welcome_tutorial_1_body">Make and receive calls abroad with your regular number without roaming charges.</string>
+		<string name="dialog_offline_call_body">Roamer is offline and will now attempt to connect using a \"Call through\" system.\n\nA Roamer local number will be dialed using your current SIM card; you will be connected to your destination number.\n\nPlease connect to Internet if you want to call as usual.</string>
+		<string name="currency_HUF">Hungarian Forint</string>
+		<string name="country_name_MT">Malta</string>
+		<string name="spinner_unlinking_number">Unlinking SIM...</string>
+		<string name="dialog_auto_pick_up_title">Enable auto pick up?</string>
+		<string name="dialog_button_no">No</string>
+		<string name="app_name">Roamer</string>
+		<string name="error_38">The number you\'ve entered is already in use.</string>
+		<string name="country_name_HT">Haiti</string>
+		<string name="VOICEMAIL_RINGS_6">after 6 rings</string>
+		<string name="menu_share">Share Roamer</string>
+		<string name="country_name_BZ">Belize</string>
+		<string name="country_name_US">United States</string>
+		<string name="ec_share_promo_disclaimer">Applies to your friends who have never topped up their accounts</string>
+		<string name="drawer_section_calls">CALLS</string>
+		<string name="country_name_JM">Jamaica</string>
+		<string name="dialog_Automatic">Auto</string>
+		<string name="support_chat_default_message">Hello! From now on you can chat with Roamer staff directly. We will do our best to respond within 12 hours. Give us your feedback and suggestions as well. :)</string>
+		<string name="error_9">The call you\'re trying to cancel was not found.</string>
+		<string name="title_terms">Terms of use</string>
+		<string name="country_name_CN">China</string>
+		<string name="button_Finish">Finish</string>
+		<string name="country_name_MN">Mongolia</string>
+		<string name="off">Off</string>
+		<string name="country_name_MK">Macedonia</string>
+		<string name="voicemail_greeting_change">Change</string>
+		<string name="spinner_validation_call">Requesting call...</string>
+		<string name="button_Back">Back</string>
+		<string name="dialog_forwarding_did_not_work_body">Looks like there was a problem while setting up call forwarding.\n\nDo you want to continue anyway?</string>
+		<string name="welcome_button_got_it">Okay, I\'m ready to call!</string>
+		<string name="top_up_stripe_error_cc_invalid">Credit card information is incorrect</string>
+		<string name="currency_GBP">British Pound</string>
+		<string name="call_voip_status_talking">Talking</string>
+		<string name="country_name_KN">Saint Kitts and Nevis</string>
+		<string name="currency_ISK">Iceland Krona</string>
+		<string name="settings_auto">Auto</string>
+		<string name="country_name_PA">Panama</string>
+		<string name="validation_button_verify">Verify code</string>
+		<string name="currency_INR">Indian Rupee</string>
+		<string name="country_name_SV">El Salvador</string>
+		<string name="error_1006">Please fill in the required information.</string>
+		<string name="error_28">The email you specified is invalid.</string>
+		<string name="country_name_SE">Sweden</string>
+		<string name="country_name_KY">Cayman Islands</string>
+		<string name="validation_number_choose_country">Choose a country</string>
+		<string name="error_2">This country is not supported.</string>
+		<string name="error_11">You need to forward your calls first.</string>
+		<string name="country_name_SK">Slovakia</string>
+		<string name="country_name_LV">Latvia</string>
+		<string name="error_no_info">Information for this country is not yet available.</string>
+		<string name="country_selection_activity_search">search</string>
+		<string name="top_up_package_bonus">(bonus\u00A0%1$s)</string>
+		<string name="spinner_validation_authenticating">Authenticating...</string>
+		<string name="settings_ask_sip_quality_description">Roamer will warn you if the network quality is bad for making an \"Internet\" call</string>
+		<string name="dialog_internet_call_failed_try">Try again</string>
+		<string name="country_name_NU">Niue</string>
+		<string name="settings_currency">Currency</string>
+		<string name="top_up_stripe_cc_info_title">CREDIT CARD INFO</string>
+		<string name="country_name_NP">Nepal</string>
+		<string name="spinner_parking_disabling_forward">Disabling call forwarding...</string>
+		<string name="call_voip_status_call_ended">Call ended</string>
+		<string name="dialog_change_number_parked_title">Number change</string>
+		<string name="DR_CALLER_ID_SECTION">Your Caller ID:</string>
+		<string name="rates_incoming_rate">Incoming</string>
+		<string name="dialog_remote_parking_insert_home_sim_title">Insert main SIM card</string>
+		<string name="currency_HRK">Croatian Kuna</string>
+		<string name="currency_SEK">Swedish Krona</string>
+		<string name="month_10_short">Oct</string>
+		<string name="roamer_version_info">
+        Version %1$s
+    </string>
+		<string name="country_name_KR">South Korea</string>
+		<string name="dialog_cant_park_abroad_title">Can\'t enable while abroad</string>
+		<string name="validation_number_phone_label">What\'s your number?</string>
+		<string name="country_name_PH">Philippines</string>
+		<string name="history_list_loading">History is loading...</string>
+		<string name="error_202">The country you are trying to call is not supported.</string>
+		<string name="month_12_short">Dec</string>
+		<string name="country_name_BA">Bosnia and Herzegovina</string>
+		<string name="currency_JPY">Japanese Yen</string>
+		<string name="VOICEMAIL_RINGS_3">after 3 rings</string>
+		<string name="dialog_leaving_now_body">
+        To activate incoming calls when abroad you need to forward your number to Roamer.
+        \n\nThis enables you to receive calls without paying network roaming charges.
+        \n\nYou can cancel call forwarding at any time.
+        \n\nForward your number now?
+    </string>
+		<string name="month_1_short">Jan</string>
+		<string name="country_name_PM">Saint Pierre and Miquelon</string>
+		<string name="error_203">There was an error while forwarding your number. Please try again.</string>
+		<string name="contacts_tab_roamer">Free</string>
+		<string name="settings_auto_pick_up">Auto pick up callbacks</string>
+		<string name="error_email_empty">Enter a valid email.</string>
+		<string name="country_name_HR">Croatia</string>
+		<string name="call_voip_quality_good">good</string>
+		<string name="currency_MYR">Malaysian Ringgit</string>
+		<string name="country_name_ZM">Zambia</string>
+		<string name="country_name_BY">Belarus</string>
+		<string name="country_name_MR">Mauritania</string>
+		<string name="month_4_short">Apr</string>
+		<string name="dialog_offline_call_title">Offline call</string>
+		<string name="country_name_GL">Greenland</string>
+		<string name="rates_disclaimer">Your network may charge a local rate when forwarding calls to Roamer.</string>
+		<string name="CONTINUE">Continue</string>
+		<string name="country_name_CF">Central African Republic</string>
+		<string name="country_name_VE">Venezuela</string>
+		<string name="country_name_AO">Angola</string>
+		<string name="currency_KZT">Kazakhstan Tenge</string>
+		<string name="country_name_SB">Solomon Islands</string>
+		<string name="country_name_BF">Burkina Faso</string>
+		<string name="country_name_EC">Ecuador</string>
+		<string name="ec_share_promo_description">
+<![CDATA[Share your promo code <font color=\'#main_color#\'>%s</font> with your friends.]]>
+</string>
+		<string name="history_item_add_to_contacts">Add to contacts</string>
+		<string name="currency_BRL">Brazilian Real</string>
+		<string name="parking_manual_step_2">Get back here and press "Confirm"</string>
+		<string name="dialog_voip_bad_network_button_standard">Mobile</string>
+		<string name="currency_EUR">Euro</string>
+		<string name="currency_IDR">Indonesian Rupiah</string>
+		<string name="country_name_UY">Uruguay</string>
+		<string name="country_name_UZ">Uzbekistan</string>
+		<string name="dialog_voip_bad_network_button_internet">Internet</string>
+		<string name="share_activity_title">Invite your friends</string>
+		<string name="dialog_remote_parking_body">
+        Please make sure that you main SIM card (the one with the number %1$s) is inserted before proceeding.
+        \n\nContinue?
+    </string>
+		<string name="error_1008">There was an error while un-forwarding your number.</string>
+		<string name="dialog_remote_parking_title">Enable forwarding now?</string>
+		<string name="dialog_clear_history_title">Clear history?</string>
+		<string name="error_19">You don\'t have enough credit to proceed.</string>
+		<string name="validation_number_phone_description">We\'ll send you an SMS with a verification code.</string>
+		<string name="error_wrong_qr_promo">Incorrect QR code</string>
+		<string name="error_30">You can\'t call yourself.</string>
+		<string name="POPUP_CANCEL_FORWARD_TITLE">Welcome home</string>
+		<string name="month_9">September</string>
+		<string name="CALLER_ID_CHANGE_BODY_FORMAT">Now you can also change your Caller ID from %1$s to %2$s in the side menu.</string>
+		<string name="currency_QAR">Qatar Rial</string>
+		<string name="dialog_auto_pick_up_body">Roamer can automatically pick up the connecting callback next time you place a call through Roamer. Enable?</string>
+		<string name="country_name_IS">Iceland</string>
+		<string name="validation_number_country_label">What is your home country?</string>
+		<string name="month_3">March</string>
+		<string name="country_name_TO">Tonga</string>
+		<string name="country_name_PW">Palau</string>
+		<string name="rates_arriving">Calling from</string>
+		<string name="settings_local_sim_status_not_linked">Not linked</string>
+		<string name="button_Skip">Skip</string>
+		<string name="dialog_currency_warning_title">Warning</string>
+		<string name="error_13">You already have an authorised number.</string>
+		<string name="contacts_tab_all">All</string>
+		<string name="country_name_KW">Kuwait</string>
+		<string name="spinner_top_up_getting_packages">Getting packages...</string>
+		<string name="dialog_number_premium_body">The number you have entered (%1$s) is from premium operator, extra call charges may occur!\n\nDo you want to proceed?</string>
+	</resources>

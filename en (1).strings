@@ -1,0 +1,636 @@
+"RATES_REGULAR" = "Regular\ncall";
+"PERM_CONTACTS_TITLE" = "Allowing Roamer access to contacts";
+"CURRENCY_MDL" = "Moldovan Leu";
+"COMMAND_COPIED" = "Copied";
+"TUTORIAL_ACTION_BUTTON_1" = "Ok!";
+"ENTER_CODE_TITLE" = "Enter Code";
+"CURRENCY_USD" = "U.S. Dollar";
+"ERROR_100_MESSAGE" = "Could not synchronize time with our server.";
+"ERROR_1021_MESSAGE" = "Invalid client.";
+"MENU_CABINET" = "Account";
+"DR_FAQ" = "FAQ";
+"ERROR_1013_MESSAGE" = "Cancel forwarding or insert local SIM card to make calls.";
+"PAYMENT_RECEIVED_TITLE" = "Thanks!";
+"INS_LOCATION_SERVICES_TITLE" = "Enable location services";
+"NO_CAMERA_ACCESS_TITLE" = "No access to Camera. How can we scan?";
+"ERROR_1_TITLE" = "User not found";
+"DR_TUTORIAL_RECEIVE_CALLS" = "You are currently receiving calls over Wi-Fi and avoiding roaming charges.";
+"ALL" = "All";
+"ERROR_1050_TITLE" = "Attention!";
+"INS_OPEN_SETTINGS" = "Open iPhone Settings.";
+"DIALER_SUGGEST_TYPE_MESSAGE" = "We suggest you make a regular call in Roamer";
+"DR_TUTORIAL_MAKE_CALLS" = "Use Roamer to make international calls from your regular number.\n\nSelect regular calls for reliability and Internet calls for the lowest rates.";
+"ERROR_23_TITLE" = "Payment problem";
+"ERROR_25_MESSAGE" = "We could not validate your payment. Contact support@roamerapp.com";
+"CALL_TRANSFERING" = "transfering";
+"PAYM_CONFIRM_PACKAGE_TITLE" = "Total:";
+"ERROR_1022_TITLE" = "Payment error";
+"ERROR_36_MESSAGE" = "The number you've entered is already in use.";
+"NETWORK_QUALITY_UNAVAILIBLE" = "Unavailable";
+"SETTINGS_SECTION_ABROAD" = "Abroad";
+"ERROR_1026_TITLE" = "Incomplete payment";
+"WEB_ONLY_CODE_TITLE" = "Website-only code";
+"MORE_INFORMATION" = "More info";
+"CLOSE_PARK_VIEW_MESSAGE" = "Press \"Close\" to leave forwarding setup or \"Back\" to continue following the instruction.";
+"VOICEMAIL" = "Voicemail to email";
+"COPY" = "Copy";
+"VOICEMAIL_RINGS_0" = "immediately";
+"RATES_FREE" = "Free";
+"CONFIRM_PROMOCODE_ACTIVATION_TITLE" = "Activation confirmation";
+"EC_TITLE" = "Invite your friends";
+"ERROR_26_TITLE" = "Payment problem";
+"ERROR_503_TITLE" = "Oops...";
+"FORWARD_MINI_TUTORIAL_EMPTY" = "Activation number will appear here once you tap \"Receive calls when abroad\" in Roamer.";
+"ERROR_430_MESSAGE" = "Your operator does not support call forwarding.";
+"ERROR_1023_MESSAGE" = "Selected product is not available.";
+"TUTORIAL_OUTGOING" = "This indicates that you can make low-cost international calls. Select regular calls for reliability or Internet calls for the lowest rates.";
+"DR_INC_CALLS_TYPE_OFF" = "Incoming calls received as regular calls.";
+"CONFIRM_PARKING_REMINDER" = "Don't forget to confirm forwarding!";
+"DR_CHANGE_LOCAL_SIM" = "Change local SIM";
+"INS_TAP_LOCATION_SERVICES" = "Tap \"Location Services\".";
+"ENABLE_VOICEMAIL_ACTION" = "Enable voicemail";
+"ERROR_19_TITLE" = "Low balance";
+"HISTORY_DETAIL_REGULAR_CALL" = "Regular call ";
+"DR_INC_CALLS_TYPE_TITLE" = "Receive calls over Internet";
+"ERROR_1022_MESSAGE" = "Purchase was cancelled.";
+"NO" = "No";
+"ERROR_MICROPHONE_DISABLED" = "Microphone disabled";
+"CURRENCY_ZAR" = "South African Rand";
+"DIALER_CALL_MESSAGE" = "Select call type";
+"PERM_NOTIFICATION_TITLE" = "Allowing\npush notifications";
+"ERROR_CONTACTS" = "Contacts restricted";
+"CURRENCY_VND" = "Vietnam Dong";
+"INS_INVALID_ACTION_DESCRIPTION" = "Action requested in not supported. Please contacts support.";
+"GRANT_ACCESS_TO_CONTACTS_ACTION" = "Grant access";
+"ERROR_8_TITLE" = "Forwarding problem";
+"VOICEMAIL_RINGS_4" = "after 4 rings";
+"CALL_CONNECTING" = "connecting";
+"SHARE_ROAMER_MESSAGE" = "Hi, I have recently installed Roamer app and loved it. It saves you a fortune on roaming data and calls. Check http://roamerapp.com";
+"SETTINGS_RECEIVE_CALLS_PARKED" = "You now receive calls incoming to your main number through Roamer. By default calls come in Roamer app over Wi-Fi. You can also link a local SIM to receive calls without Internet as well.";
+"SETTINGS_RECEIVE_CALLS" = "Receive Calls";
+"ERROR_9_MESSAGE" = "The call you're trying to cancel was not found.";
+"CANT_CHANGE_ACCOUNT_NUMBER_TITLE" = "Home number (account) change";
+"SETTINGS_RECEIVE_CALLS_OVER_INTERET_GSM" = "Internet, then local SIM";
+"ERROR_1010_TITLE" = "Invalid number";
+"PREMIUM_NUMBER_ALERT_TITLE" = "Premium number";
+"ERROR_-1019_TITLE" = "Call is active";
+"ERROR_28_TITLE" = "Invalid e-mail";
+"ENTER_YOUR_NUMBER" = "Enter your number";
+"CURRENCY_THB" = "Thai Baht";
+"ERROR_262_MESSAGE" = "A promo gift code for your number was already used. Please check and try again.";
+"ERROR_5_TITLE" = "Session expired";
+"SEND" = "Send";
+"ERROR_27_MESSAGE" = "Please enter another e-mail and try again.";
+"SETTINGS_CALLER_ID_DESCRIPTION" = "Choose between available Caller IDs. These could be either your main number, the validated local number while abroad or the number can be Hidden (a substitute arbitrary number in some destinations).";
+"CURRENCY_ARS" = "Argentine Peso";
+"ERROR_6_TITLE" = "It's too early to request a call";
+"CURRENCY_BYR" = "Belarus Ruble";
+"SELECT_COUNTRY_OUTGOING" = "Calling to";
+"SELECT_COUNTRY_ARRIVING" = "Calling from";
+"SETTINGS_RECEIVE_CALLS_CAN_PARK" = "You will receive calls incoming to your main number through Roamer. By default calls will come in the Roamer app over Wi-Fi. You can also link a local SIM to receive calls without Internet as well.";
+"BACK" = "Back";
+"RATES_MOBILE" = "Mobile";
+"TUTORIAL_NOT_HAPPY_FORWARD" = "BEFORE you leave your country enable incoming calls in Roamer by sliding the switch.";
+"ERROR_21_MESSAGE" = "Roamer is not yet available in this country.";
+"EDIT" = "Edit";
+"INS_INVALID_ACTION_TITLE" = "Invalid action";
+"CALL_KEYPAD" = "keypad";
+"YOUR_DETAILS" = "Your details";
+"HIDE" = "Hide";
+"PROCEED" = "Proceed";
+"SELECT_PACKAGE" = "How much do you want to top up?";
+"EC_THEY_GET" = "They get";
+"ERROR_20_MESSAGE" = "You can't link your regular SIM as a local SIM.";
+"SETTINGS_CALLER_ID" = "Caller ID";
+"UNKNOWN" = "unknown";
+"INCOMING_CALL_NOTIFICATION_FORMAT" = "%@ is calling you";
+"PERM_LOCATION_TITLE" = "Enabling location services";
+"DIALER_REGULAR_CALL_FORMAT" = "Regular call (%@)";
+"FREE_SHORT" = "FREE";
+"CANT_CHANGE_ACCOUNT_NUMBER_MESSAGE" = "You can only change your home number (account) when your current number is not setup to forward calls to Roamer.";
+"ERROR_2_TITLE" = "Unsupported country";
+"ERROR_1_MESSAGE" = "Reverify your home SIM.";
+"ERROR_-1004_TITLE" = "Internet connection problem";
+"VOICEMAIL_RESET_MESSAGE" = "Reset message";
+"INS_TAP_PRIVACY_OS7" = "Tap \"Privacy\".";
+"ERROR_1031_TITLE" = "Message is too short";
+"WELCOME_TUTORIAL_3_BODY" = "Make international calls from your regular number at the lowest possible rates.";
+"ERROR_15_MESSAGE" = "Insert a local SIM card and try again.";
+"CURRENCY_PHP" = "Philippine Peso";
+"ERROR_1050_MESSAGE" = "To enable call forwarding Roamer should access the Contacts.\n\nIn Phone Settings > Privacy > Contacts please allow the access for Roamer.";
+"INS_LOCATION_SERVICES_DESCRIPTION" = "It shows us if you are in roaming.";
+"SETUP_VOICEMAIL_RECORD" = "Record";
+"POPUP_CANCEL_FORWARD_MESSAGE" = "You are back home. You may want to switch off Receive calls in the side menu.";
+"CURRENCY_BHD" = "Bahraini Dinar";
+"CURRENCY_PLN" = "Polish Zloty";
+"INS_ENABLE_NOTIFICATIONS" = "Enable Banners, Badge App Icon and Sounds.";
+"SETTINGS_LOCAL_SIM_NOT_IN_ROAMING" = "When abroad link a local SIM to receive calls through Roamer. You don't need to when you're still at home.";
+"DEFAULT_SUPPORT_CHAT_MESSAGE" = "Hello! From now on you can chat with Roamer staff directly. We will do our best to respond within 12 hours.  Give us your feedback and suggestions as well. :)";
+"CANCEL" = "Cancel";
+"ERROR_-1005_MESSAGE" = "Check your Internet connection or firewall.";
+"SEND_SHORT" = "Send";
+"DR_LOCAL_SIM_HOME_DESCRIPTION" = "You can link a local SIM only when you're abroad.";
+"PAYM_MULTI_YOU_PAY_FORMAT" = "You pay %@";
+"EC_PROMO_DESCRIPTION" = "Make sure they use your promo code with their first top-up.";
+"DR_INC_SET_BUT_USER_NOT_ACTIVE_AND_NO_INTERNET" = "You are not receiving calls in Roamer. Internet connection required.";
+"DIALER_INTERNET_CALL" = "Internet call";
+"DR_INC_SETUP" = "You need to forward your number to Roamer. Start with the switch above.";
+"CURRENCY_EGP" = "Egyptian Pound";
+"CURRENCY_RUB" = "Russian Rouble";
+"ERROR_1015_MESSAGE" = "Sorry, but you can't call yourself.";
+"CFORW_INS_TITLE" = "Cancel forwarding";
+"LANG" = "en";
+"ERROR_-1018_MESSAGE" = "Data roaming is off.";
+"SAVE" = "Save";
+"DR_ACTION_LINK_SIM" = "Local SIM";
+"ERROR_1040_TITLE" = "No Internet connection";
+"SETTINGS_RECEIVE_CALLS_PARKED_LINKED" = "You now receive calls incoming to your main number through Roamer. Calls come in Roamer app over Wi-Fi and/or to a local SIM depending on the settings below.";
+"ERROR_11_TITLE" = "Forwarding problem";
+"DESELECT_ALL" = "Deselect all";
+"ERROR_-1003_TITLE" = "Internet connection problem";
+"CHANGE_ACCOUNT_NUMBER_CONFIRM_TITLE" = "Are you sure?";
+"DIALER_REGULAR_CALL" = "Regular call";
+"NO_ACCESS_TO_CONTACTS_TITLE" = "Roamer does not have\naccess to your contacts.";
+"TRY_OR_SCAN_CODE" = "Type or scan code";
+"CURRENCY_UAH" = "Ukraine Hryvnia";
+"NEXT" = "Next";
+"IN_ROAMING_MESSAGE" = "Roamer requires local SIM to avoid roaming charges.\n\nRegular calls may have additional charges from the SIM card provider.";
+"INS_TAP_MICROPHONE" = "Tap \"Microphone\".";
+"WELCOME_TUTORIAL_1_TITLE" = "Your number over Wi-Fi\nwhen you travel";
+"VOICEMAIL_ACTIVATES" = "Voicemail activates";
+"WELCOME_TUTORIAL_2_BODY" = "Link your number to any local SIM card for low-cost data & calls.";
+"SELECT_CURRENCY_TITLE" = "Select currency";
+"ERROR_263_MESSAGE" = "The promo code already expired. Please check and try again.";
+"DR_INC_CALLS_TITLE" = "Receive calls when abroad";
+"ERROR_API_SERVER_UNREACHABLE" = "Server unreachable";
+"TODAY" = "Today";
+"HISTORY_MISSED_SHORT" = "Missed";
+"SETTINGS_LOCAL_SIM_NUMBER" = "Local SIM number";
+"FAQ_LINK" = "https://help.roamerapp.com/en";
+"ERROR_3_MESSAGE" = "Enter a valid number and try again.";
+"ERROR_MICROPHONE_DISABLED_INSTRUCTION" = "Microphone is required to make Internet calls.\n\nTo enable Microphone go to phone Settings > Privacy > Microphone and set Roamer switch ON";
+"ERROR_260_TITLE" = "Invalid code";
+"CURRENCY_SAR" = "Saudi Arabian Riyal";
+"CONFIRM_PROMOCODE_ACTIVATION_MESSAGE_FORMAT" = "Hurray, you entered a valid promo code.\n\n%@ will be added to your balance.";
+"WELCOME_TUTORIAL_2_TITLE" = "Avoid data roaming\ncharges";
+"ENTER_FOREIGN_NUMBER" = "Enter local number";
+"CURRENCY_CLP" = "Chilean Peso";
+"ERROR_1024_MESSAGE" = "In-App purchases are disabled. Please check your Restrictions (Settings -> General -> Restrictions).";
+"INS_TAP_CONTACTS" = "Tap \"Contacts\".";
+"CHANGE_ACCOUNT_NUMBER_MESSAGE" = "Changing your home number will transfer your balance and history to your new home number (account).";
+"DR_OTHER_HEADER" = "Other";
+"ERROR_1001_TITLE" = "Location services turned off";
+"CURRENCY_CYP" = "Cyprus Pound";
+"ALLOW" = "Allow";
+"ERROR_-1200_MESSAGE" = "Could not establish secure connection.\nCheck your Internet connection, proxy or firewall";
+"OFF_SHORT" = "Off";
+"CURRENCY_CZK" = "Czech Koruna";
+"ERROR_263_TITLE" = "Expired code";
+"ERROR_LOCATION_SERVICES_DISABLED" = "Location services disabled";
+"REQUEST_CALL_BUTTON" = "Call me now";
+"FORW_INS_CALL_DEACTIVATE" = "Open Phone / Contacts and dial \"Roamer Deactivate Incoming\" which we have created.";
+"CURRENCY_RON" = "Romanian New Leu";
+"ENABLE_VOICEMAIL_MESSAGE" = "To use Roamer voicemail, enter your email below.";
+"SETTINGS_SECTION_MAKE_CALLS" = "Make Calls";
+"IN_ROAMING_CALL" = "I agree";
+"SETTINGS_RECEIVE_CALLS_OVER_INTERNET_GSM" = "Internet, then local SIM";
+"MENU_DEBUG" = "Debug";
+"ERROR_1025_MESSAGE" = "Could not load In-App purchases.";
+"ERROR_UNSPECIFIED_INSTRUCTION" = "Something bad is happening.";
+"DR_CALLER_ID_ANONYMOUS" = "hidden";
+"ERROR_23_MESSAGE" = "Payment details invalid. Contact support@roamerapp.com";
+"ERROR_1051_TITLE" = "Connection fail";
+"MENU_SIM_SHOP" = "SIM shop";
+"PLAY_VOICEMAIL_MESSAGE" = "Playback current message";
+"DR_OUT_GOOD_ALL" = "Dial a number or select from your contacts.";
+"DIALER_NO_INTERNET_CONNECTION_TITLE" = "No Internet connection";
+"WEB_ONLY_CODE_MESSAGE" = "The promo code is website-only. Proceed to the website?";
+"INS_ENABLE_CONTACTS" = "Enable Contacts.";
+"TUTORIAL_HAPPY_FORWARD" = "To receive incoming calls in Roamer you need to setup call forwarding. Start by pressing the switch & following the instructions.";
+"PAYM_GET_A_FORMAT" = "You get %@.";
+"ERROR_202_TITLE" = "Call problem";
+"ERROR_1040_MESSAGE" = "Internet is required for this functionality";
+"PAYM_UNPROCESSED_MESSAGE" = "Continue the payment?";
+"CURRENCY_TWD" = "Taiwan Dollar";
+"PAYMENT_RECEIVED_MESSAGE" = "We’ve topped you up. Happy roaming!";
+"INS_MICROPHONE_DESCRIPTION" = "It is required to make Internet calls.";
+"ERROR_NO_INTERNET_INSTRUCTION" = "Internet connection is required for calls, information on calling charges, call history etc.";
+"APPLICATION" = "Application";
+"INS_SET_ROAMER_ON" = "Set Roamer ON.";
+"PERM_MICROPHONE_TITLE" = "Allowing access to microphone";
+"ERROR_1010_MESSAGE" = "Enter a valid number and try again";
+"INS_ENABLE_CAMERA" = "Enable Camera";
+"CLEAR_HISTORY_TITLE" = "Clear history";
+"REMINDE_ME_LATER" = "Remind me later";
+"ERROR_28_MESSAGE" = "Enter valid e-mail and try again.";
+"LOADING" = "Loading";
+"NO_CALLS_IN_HISTORY" = "No calls in History";
+"SELECT_CURRENCY" = "Select currency";
+"RATE_ROAMER_MESSAGE" = "If you enjoy using Roamer, would you mind taking a moment to rate it?\nIt won't take more than a minute.\nThanks for your support";
+"RATES_INTERNET" = "Internet\ncall";
+"PREMIUM_NUMBER_ALERT_FORMAT" = "The number you have entered (%@) is from premium operator, extra call charges may occur!";
+"SETTINGS_RECEIVE_CALLS_OVER_SECTION" = "Receive calls over";
+"CURRENCY_KRW" = "Korean Won";
+"ENTER_HOME_NUMBER_DESCRIPTION" = "What’s your number?";
+"ERROR_API_SERVER_UNREACHABLE_INSTRUCTION" = "No connection to our servers.\nIt may be the Internet.\nIf the problem remains, send us a message on support@roamerapp.com";
+"NETWORK_QUALITY_FAIR" = "Fair";
+"ERROR_15_TITLE" = "You are currently in roaming";
+"EMAIL" = "Email";
+"SETTINGS_LOCAL_SIM_LINKED_PARKED" = "You receive calls to your main number through Roamer as regular calls to your local SIM abroad. When you make a call through Roamer there's an incoming call from Roamer which is further connected to the dialed number.";
+"NUMBER" = "Number";
+"CONTACTS_LIST_EMPTY" = "No contacts found";
+"INVITE" = "Invite";
+"DR_CALLS_HEADER" = "Calls";
+"PAYM_PAY_A_FOR_B_FORMAT" = "You pay %@ to get %@.";
+"LOG_OUT_ACTION_MESSAGE" = "Are you sure?";
+"ERROR_35_TITLE" = "Invalid number";
+"HISTORY_CANCELED" = "Canceled";
+"ERROR_1020_TITLE" = "Payment error";
+"ADD_TO_CONTACTS" = "Add to contacts";
+"CHECK_NUMBER_FORMAT" = "We will send an SMS with verification code to this number.\nIs it correct?\n%@";
+"CURRENCY_CAD" = "Canadian Dollar";
+"ERROR_10_TITLE" = "Schedule error";
+"INVITE_TO_ROAMER" = "Invite to Roamer";
+"ERROR_101_MESSAGE" = "Could not synchronize time with our server.";
+"ERROR_-1001_TITLE" = "Internet connection problem";
+"UN_LOG_OUT_ACTION" = "Log out";
+"RATES_MORE" = "Show more";
+"INS_CAMERA_TITLE" = "Allow access to Camera";
+"ERROR_261_MESSAGE" = "The promo code is not valid. Please check and try again.";
+"ERROR" = "Error";
+"DR_INC_UNAVAILABLE" = "Incoming calls are not available in your country.";
+"ERROR_4_TITLE" = "Wrong code";
+"PAYM_UNPROCESSED_TITLE" = "Incomplete payment";
+"ERROR_26_MESSAGE" = "There was an error processing your payment. Contact support@roamerapp.com";
+"ERROR_261_TITLE" = "Invalid code";
+"SELECT_COUNTRY_GENERAL" = "Select country";
+"DIALER_INTERNET_CALL_FORMAT" = "Internet call (%@)";
+"INS_TAP_ROAMER" = "Tap \"Roamer\".";
+"ERROR_1001_MESSAGE" = "Enable location services.";
+"LANGUAGE" = "Language";
+"DIALER_FREE_CALL" = "Free call";
+"ENABLE_VOICEMAIL_TITLE" = "Setup voicemail to email";
+"INCOMING_CALL_CATION" = "Answer";
+"DR_EARN_CREDIT" = "Get free credit";
+"CLOSE_PARK_VIEW_TITLE" = "Leave forwarding setup?";
+"SELECT_ALL" = "Select all";
+"DR_SPREAD" = "Share Roamer";
+"ERROR_16_MESSAGE" = "Insert a local SIM card and try again.";
+"ERROR_7_MESSAGE" = "Try again.";
+"ERROR_-1004_MESSAGE" = "Check your Internet connection or firewall.";
+"ERROR_UNSPECIFIED" = "Unknown error";
+"PARKING_REMINDER" = "Don't forget to forward your number!";
+"INS_MICROPHONE_TITLE" = "Enable Microphone";
+"MESSAGE_OPTION" = "SMS";
+"ERROR_17_MESSAGE" = "Follow the instructions and only then tap \"Confirm\".";
+"CURRENCY_HKD" = "Hong Kong Dollar";
+"ERROR_4_MESSAGE" = "Check SMS and enter a valid verification code.";
+"ERROR_2_MESSAGE" = "Roamer is not yet available in this country.";
+"YES" = "Yes";
+"CONFIRM_PAYMENT_MESSAGE_FORMAT" = "Do you want to buy %@ for %@?";
+"TUTORIAL_ACTION_BUTTON_3" = "Ok, got it.";
+"DR_FOOTER_MESSAGE_FORMAT" = "Version %@";
+"MISSED_CALL_FORMAT" = "Missed call from %@";
+"ERROR_-1020_TITLE" = "Data not allowed";
+"ERROR_262_TITLE" = "Used code";
+"CURRENCY_COP" = "Colombian Peso";
+"SKIP" = "Skip";
+"UNFORWARD_MINI_TUTORIAL_FORMAT" = "Make sure your SIM card for %@ is inserted. This call is free.";
+"SETTINGS_CHANGE_EMAIL_ACTION" = "Change Email";
+"CURRENCY_CNY" = "Chinese Yuan";
+"ERROR_NO_INTERNET" = "No Internet";
+"ENTER_LOCAL_NUMBER" = "Enter local number";
+"CONTACTS_ROAMER" = "Free";
+"INS_CONTACTS_DESCRIPTION" = "Help us make numbers meaningful.";
+"CALL_PICKUP" = "When your phone rings,\npick it up";
+"DR_SUPPORT" = "Support chat";
+"ERROR_16_TITLE" = "You are currently in roaming";
+"PAYMENT_RECEIVED_NO_UPDATE_MESSAGE" = "We’ve topped you up, but couldn't update information on your device. Don't worry, it's all there.";
+"FORWARD_MINI_TUTORIAL_FORMAT" = "Make sure your SIM card for %@ is inserted. This call is free.";
+"ERROR_-1009_TITLE" = "No Internet connection";
+"SELECT_CURRENCY_DESCRIPTION" = "You can change the currency in which the balance is shown.\n\nOur billing is in Euro therefore if you opt for another display currency and its rate changes your displayed balance will also change.";
+"RATES_CALLING_TO" = "Calling to";
+"NETWORK_QUALITY_EXCELLENT" = "Excellent";
+"RECORD_VOICEMAIL_MESSAGE" = "Record new message";
+"ERROR_1026_MESSAGE" = "To complete the payment:\n\n1. Force close Roamer from running applications.\n\n2. Re-start Roamer.\n\n3. Enter the details for your Appstore account.";
+"DR_UNLINK_ACTION_TITLE" = "Are you sure?";
+"DR_TUTORIAL_MAKE_CALLS_SHORT" = "Use Roamer to make international calls from your regular number.";
+"ERROR_1025_TITLE" = "AppStore error";
+"HISTORY_DETAIL_FREE_CALL" = "Free call";
+"NO_CODE_LABEL" = "No code? Request a call in:";
+"POPUP_VALIDATE_MESSAGE" = "You have inserted a different SIM. Would you like to link it to Roamer?";
+"DIALOG_MANUAL" = "Manual";
+"CHECK_NUMBER_TITLE" = "Check entered number";
+"PERM_CONTACTS_DESCRIPTION" = "Required when recognizing a caller and dialing from the existing contacts.";
+"ERROR_1024_TITLE" = "Payment error";
+"SHOW_INSTRUCTIONS_ACTION" = "Show instructions";
+"ERROR_35_MESSAGE" = "The number you've entered does not match the country you're currently in.";
+"RATES_OUTGOING" = "Outgoing";
+"DRAWER_LOCAL_SIM_TITLE" = "Local SIM";
+"ERROR_403_MESSAGE" = "This function is currently unavailible.";
+"ERROR_-1001_MESSAGE" = "Check your Internet connection or firewall.";
+"SETTINGS_RECEIVE_CALLS_COUNTRY_NOT_SUPPORTED" = "Incoming calls through Roamer are not available for the country of your your main number. You can still make international calls through Roamer at the world lowest rates.";
+"COMMAND_COPIED_FORMAT" = "We've copied %@ to the clipboard";
+"CONNECTING" = "Connecting";
+"HAVE_A_ROAMER_CODE" = "Have a Roamer promo code?";
+"CHANGE_LANGUAGE_MESSAGE" = "Changing the application language will close it and you will need to manualy start it again.";
+"SETTINGS_RECEIVE_CALLS_OVER_INTERNET_ONLY" = "Internet only";
+"TROUBLESHOOTING" = "Troubleshooting";
+"WELCOME_TUTORIAL_3_TITLE" = "Low-cost international\ncalls";
+"DIALER_FREE_CALL_UNAVAILABLE_DESCRIPTION" = "You can also place a call to the contact's number at Roamer rates.";
+"ERROR_39_MESSAGE" = "Please top up your account to make outgoing calls from your home country.";
+"SETTINGS_ACCOUNT_NUMBER_LABEL" = "Home number";
+"DR_UNLINK_ACTION" = "Unlink";
+"PERM_LOCATION_DESCRIPTION" = "Roamer needs to know which country you are in.";
+"DIALER_CALL_FAILED_TITLE" = "Call did not get through";
+"EC_DESCRIPTION" = "For each friend who tops up";
+"CALL_MUTE" = "mute";
+"SETTINGS_RECEIVE_CALLS_OVER_GSM_ONLY" = "Local SIM only";
+"NETWORK_QUALITY_CHECKING" = "Checking";
+"DR_ADD_CREDIT" = "Add credit";
+"INS_OPEN_ROAMER_SETTINGS" = "Open Roamer iPhone Settings.";
+"CURRENCY_MXN" = "Mexican Peso";
+"CLOSE" = "Close";
+"ERROR_1013_TITLE" = "Forwarding active";
+"ERROR_13_MESSAGE" = "Try again.";
+"ERROR_36_TITLE" = "Invalid number";
+"CONFIRM_PAYMENT_TITLE" = "Confirm your top up";
+"ERROR_40_MESSAGE" = "This function is currently unavailible.";
+"ERROR_203_MESSAGE" = "There was a problem while forwarding your number. Try again.";
+"CURRENCY_SGD" = "Singapore Dollar";
+"ERROR_1051_MESSAGE" = "Please try again.";
+"ERROR_40_TITLE" = "Oops...";
+"DR_UNLINK_ACTION_DESCRIPTION" = "Do you really want to unlink local SIM?";
+"CALLER_ID_CHANGE_TITLE" = "Caller ID";
+"SELECT_HOME_DESCRIPTION" = "Choose the country where your main mobile number belongs.\n\nWe need this to make sure Roamer handles your calls correctly.";
+"ERROR_3_TITLE" = "Invalid number";
+"CURRENCY_LTL" = "Lithuanian Lita";
+"PERM_MICROPHONE_DESCRIPTION" = "Roamer needs access to your microphone. It is a calling app after all.";
+"POPUP_FORWARD_MESSAGE" = "You are abroad now. You may want to switch on Receive calls in the side menu.";
+"ERROR_13_TITLE" = "Forwarding problem";
+"ERROR_1020_MESSAGE" = "Could not connect to iTunes Store.";
+"CURRENCY_NZD" = "New Zealand Dollar";
+"ERROR_430_TITLE" = "Not supported by your operator";
+"DR_SET_REMINDER" = "Set a reminder";
+"ENABLE_VOICEMAIL_PLACEHOLDER" = "Email address";
+"RATES_INCOMING" = "Incoming";
+"INVALID_NUMBER_FORMAT" = "\"%@\" is not a valid number";
+"CURRENCY_TRY" = "New Turkish Lira";
+"ERROR_27_TITLE" = "E-mail in use";
+"ERROR_100_TITLE" = "Sychronization error";
+"ERROR_500_MESSAGE" = "Something went wrong.\nIf the error persists please contact us via chat or support@roamerapp.com.";
+"CALL_SPEAKER" = "speaker";
+"NO_ROAMER_CONTACTS_TITLE" = "You have no Roamer contacts.\nInvite!";
+"REMOVE" = "Remove";
+"ACCEPT" = "Accept";
+"RATES_LANDLINE" = "Landline";
+"HISTORY_INCOMING" = "Incoming";
+"SETUP_VOICEMAIL_MESSAGE" = "You can record your own greeting or use a Roamer greeting.";
+"INS_TAP_PRIVACY" = "Tap \"Privacy\".";
+"CURRENCY_NOK" = "Norwegian Krone";
+"INS_SELECT_ALWAYS" = "Select Always.";
+"ERROR_403_TITLE" = "Oops...";
+"ERROR_11_MESSAGE" = "Try again.";
+"SHARE_MESSAGE_TWITTER" = "I'm using Roamer app for international calls from home and abroad, with and without Internet. Start using it for free:";
+"SHARE_MESSAGE_STANDARD" = "I'm using Roamer app for international calls from home and abroad, with and without Internet. Start using it for free: ";
+"ERROR_203_TITLE" = "Forwarding problem";
+"CURRENCY_BGN" = "Bulgarian Lev";
+"CREDIT_FORMAT" = "%@ credit";
+"DR_EDIT_REMINDER" = "Edit reminder";
+"HISTORY_MISSED" = "Missed";
+"NO_THANKS" = "No, Thanks";
+"ERROR_503_MESSAGE" = "Please try again later.";
+"ERROR_19_MESSAGE" = "Top up and try again.";
+"INS_TAP_NOTIFICATIONS" = "Tap \"Notifications\".";
+"OK" = "OK";
+"DR_TUTORIAL_FORWARD_CALLS" = "To receive calls abroad without paying roaming charges you need to forward your number to Roamer.\n\nYou can cancel call forwarding at any time.";
+"INS_ENABLE_MICROPHONE" = "Enable Microphone.";
+"HOW_MUCH_CREDIT" = "How much credit?";
+"ERROR_17_TITLE" = "Call forwarding not set";
+"CURRENCY_AED" = "UAE Dirham";
+"ERROR_LOCATION_SERVICES_DISABLED_INSTRUCTION" = "Location services is required to monitor roaming.\n\nGo to phone Settings > Privacy > Location Services and set Roamer switch ON";
+"ERROR_-1003_MESSAGE" = "Check your Internet connection or firewall.";
+"ERROR_6_MESSAGE" = "Wait 2 minutes.";
+"CHAT_TITLE" = "Support";
+"NETWORK_QUALITY_BAD" = "Bad";
+"ERROR_12_MESSAGE" = "We can't determine your location. Try again later.";
+"CURRENCY_ILS" = "Israeli Shekel";
+"DR_INC_CALLS_TYPE_ON" = "An incoming call comes over Internet first and then is switched to a regular call.";
+"MORE" = "More";
+"DR_TUTORIAL_LINK_SIM" = "You can now link a local SIM card to use low-cost data and make and receive calls with your regular number wherever you go.";
+"INS_TAP_NOTIFICATIONS_OS7" = "Tap \"Notification Center\".";
+"UN_ARE_YOU_SURE_TITLE" = "Are you sure?";
+"RATE_ROAMER" = "Rate Roamer";
+"SELECT_LANGUAGE" = "Select application language";
+"DR_INC_NOT_SET_BEFORE_DEPARTURE" = "Oops, incoming calls had not been forwarded to Roamer BEFORE you left.\nYou can still call out with Roamer.";
+"CURRENCY_DKK" = "Danish Krone";
+"FORW_INS_PRESS_HOME" = "Press \"Home\" button.";
+"SECONDS_SHORT" = "sec.";
+"CURRENCY_AUD" = "Australian Dollar";
+"TERMS_OF_USE" = "Terms of use";
+"INS_NOTIFICATIONS_DESCRIPTION" = "Receive Internet calls, information and support chat messages.";
+"ERROR_NOTIFICATIONS_DISABLED" = "Notifications disabled";
+"CONTACTS" = "Contacts";
+"ERROR_8_MESSAGE" = "Try again.";
+"FORW_INS_DESCRIPTION_FORWARD" = "Please ensure your SIM card for %@ is inserted.";
+"CURRENCY_CHF" = "Swiss Franc";
+"LATER" = "Later";
+"HISTORY" = "History";
+"NETWORK_QUALITY_FORMAT" = "Network quality: %@";
+"REQUEST_CALL_LABEL" = "Still no code? No worries — we can call instead.";
+"ERROR_260_MESSAGE" = "The promo code is not valid. Please check and try again.";
+"ERROR_-1200_TITLE" = "Internet connection problem";
+"ERROR_ROAMING_INSTRUCTION" = "We do not recommend regular calls due to roaming call charges.\n\nLink a local SIM or use Internet calls.";
+"RATES_FORWARD_DISCLAIMER" = "Your network may charge a local rate when forwarding calls to Roamer.";
+"ERROR_24_MESSAGE" = "The last payment was successful.";
+"CONTACTS_NO_NUMBERS" = "This contact has no number";
+"ERROR_20_TITLE" = "Error linking SIM";
+"SUGGESTED_CONTACTS" = "Suggested contacts";
+"DR_ACTION_MAKE_CALLS" = "Make calls";
+"NO_NAME" = "No Name";
+"ERROR_201_TITLE" = "Call problem";
+"SELECT_HOME_TITLE" = "Where is home?";
+"LOG_OUT_ACTION_TITLE" = "Log out";
+"INVITE_FOR_FREE_CALL" = "Invite to call for free";
+"INS_CONTACTS_TITLE" = "Allow access to Contacts";
+"DR_ACTION_RECEIVE_CALLS" = "Receive calls";
+"ON_SHORT" = "On";
+"SETTINGS" = "Settings";
+"VOICEMAIL_RINGS_5" = "after 5 rings";
+"ERROR_1052_TITLE" = "Bad URL";
+"ERROR_ROAMING" = "SIM card is in roaming";
+"RATES_ARRIVING_IN" = "Calling from";
+"CONFIRM" = "Confirm";
+"DR_OUT_BAD" = "Internet connection required.";
+"WELCOME_TUTORIAL_1_BODY" = "Make and receive calls abroad with your regular number without roaming charges.";
+"CURRENCY_HUF" = "Hungarian Forint";
+"DECLINE" = "Decline";
+"TERMS_OF_USE_MARKDOWN" = "# 1. GENERAL\
+\
+By installing the Application (as defined below), you agree to be bound by these terms of use (“appterms”). Please review them carefully before installation and/or acceptance.\
+\
+# 2. DEFINITIONS\
+\
+The “Application” shall mean the software provided by ROAMER to offer services related to mobile calls’ services, to be used on Apple iOS devices and any upgrades from time to time and any other software or documentation which enables the use of the Application.\
+\
+# 3. DATA PROTECTION\
+\
+Any personal information you supply to ROAMER when using the Application, will be used by ROAMER in accordance with its Privacy Policy.\
+\
+# 4. PROPRIETARY RIGHTS AND LICENCE\
+\
+4.1. All trade marks, copyright, database rights and other intellectual property rights of any nature in the Application together with the underlying software code are owned either directly by ROAMER or by ROAMER licensors.\
+\
+4.2. ROAMER hereby grants you a worldwide, non-exclusive, royalty-free revocable license to use the Application for your business and personal use in accordance with these appterms.\
+\
+# 5. CONDITIONS OF USE\
+\
+5.1. You will not, nor allow third parties on your behalf to (i) make and distribute copies of the Application (ii) attempt to copy, reproduce, alter, modify, reverse engineer, disassemble, decompile, transfer, exchange or translate the Application; or (iii) create derivative works of the Application of any kind whatsoever.\
+\
+5.2. The rates for the ROAMER Services are published on the Site. ROAMER reserves the right to change the rates at any time without notice. If you do not wish to accept such adjustment of rates, you are entitled to terminate the Account with effect from the date on which the adjustment of rates would become effective. You agree that by continuing to use the ROAMER Services, following the adjustments of the rates, you accept such adjustments.\
+\
+5.3. You acknowledge that the terms of agreement with your respective mobile network provider (‘Mobile Provider’) will continue to apply when using the Application. As a result, you may be charged by the Mobile Provider for access to network connection services for the duration of the connection while accessing the Application or any such third party charges as may arise. You accept responsibility for any such charges that arise.\
+\
+5.4. If you are not the bill payer for the mobile telephone or handheld device being used to access the Application, you will be assumed to have received permission from the bill payer for using the Application.\
+\
+5.5. If your Device is stolen or if you become aware of unauthorized use of the Roamer Services you must notify us immediately to suspend the Roamer Services. You are responsible for all charges to your account with Roamer (“Account”) until the Roamer Services are suspended.\
+\
+5.6. In order to purchase credits for the ROAMER Services and to charge your Account you shall pay ROAMER the rates as stated on the Site. Payments are either made manually by you or through the automatic recharge function activated by you. The automatic recharge function means that when your Account balance is below a certain level, your Account will be automatically recharged with a certain pre-selected amount. Unless stated otherwise, all rates and charges shall be stated in Euros (EUR currency) and shall be exclusive of value added taxes (VAT) or any other applicable taxes or fees.\
+\
+# 6. EMERGENCY CALLS\
+\
+The ROAMER Services do not and are not intended to support or carry emergency calls to any type of hospitals, law enforcement agencies, medical care unit or any type of emergency services of any kind and ROAMER is not liable in any manner for such calls. In the event that, with your permission, another user uses your Account, you are responsible to inform that user that it is not possible to support or carry emergency calls with the ROAMER Services.\
+\
+# 7. AVAILABILITY\
+\
+7.1. This Application is available to handheld mobile devices running Apple iOS and Android OS Operating Systems. ROAMER will use reasonable efforts to make the Application available at all times. However you acknowledge the Application is provided over the internet and mobile networks and so the quality and availability of the Application may be affected by factors outside ROAMER reasonable control. \
+\
+7.2. ROAMER, its group of companies and sub-contractors do not accept any responsibility whatsoever for unavailability of the Application, or any difficulty or inability to download or access content or any other communication system failure which may result in the Application being unavailable.\
+\
+# 8. SYSTEM REQUIREMENTS\
+\
+8.1. In order to use the Application, you are required to have a compatible mobile telephone or handheld device, internet access, and the necessary minimum specifications ('Software Requirements').\
+\
+8.2. The Software Requirements are as follows: Apple iOS devices running iOS 7 and up.\
+\
+8.3. The version of the Application software may be upgraded from time to time to add support for new functions and services.\
+\
+# 9. TERMINATION\
+\
+9.1. ROAMER may terminate use of the Application at any time by giving notice of termination to you.\
+\
+9.2. Upon any termination, (a) the rights and licenses granted to you herein shall terminate; (b) you must cease all use of the Software;\
+\
+# 10. LIMITATION OF LIABILITY\
+\
+**10.1.** In no event will ROAMER be liable for any direct, indirect, special, punitive, exemplary or consequential losses or damages of whatsoever kind arising out of your use or access to the Application, including loss of profit or the like whether or not in the contemplation of the parties, whether based on breach of contract, tort (including negligence), product liability or otherwise.\
+\
+10.2. ROAMER is not liable to you for any damage or alteration to your equipment including but not limited to computer equipment, handheld device or mobile telephones as a result of the installation or use of the Application. \
+\
+10.3. Nothing in these Appterms shall exclude or limit ROAMER’s liability for death or personal injury caused by negligence or for fraud or fraudulent misrepresentation or any other liability which cannot be excluded or limited under applicable law.\
+\
+10.4. If you are residing in a jurisdiction where it is prohibited by law to offer or use Internet telephony or the ROAMER Services, you may not enter into this Agreement\
+\
+# 11. DISCLAIMER OF WARRANTIES\
+\
+11.1. To the maximum extent permitted by law, and for the avoidance of doubt, ROAMER hereby disclaims all implied warranties with regard to the Application. The Application and software are provided \"as is\" and \"as available\" without warranty of any kind.\
+\
+11.2. Roamer does not make any express warranty regarding the Roamer services and disclaim any implied warranty, including any warranty of merchantability, satisfactory quality, or fitness for a particular purpose; however Roamer shall endeavor to provide the Roamer services with minimum disruptions. Roamer cannot guarantee that the Roamer Services will always function without disruptions, delay or other imperfections.\
+\
+11.3. ROAMER is not liable under any circumstances for your inability to use Roamer services, because your phone doesn’t allow to insert other sim-cards in accordance with your mobile carrier rules.";
+"ERROR_24_TITLE" = "Payment processed";
+"BALANCE_MESSAGE_FORMAT" = "You balance is %@ now.";
+"SLASH_MIN" = "/min";
+"VOICEMAIL_RINGS_6" = "after 6 rings";
+"DIALER_CALL_ACTION" = "Call";
+"DR_INC_SETUP_BEFORE_DEPARTURE" = "Going abroad? To receive calls in Roamer, set up forwarding BEFORE leaving your country.\n\nYou can set a reminder so you don't forget.";
+"ERROR_1021_TITLE" = "Payment error";
+"HISTORY_OUTGOING" = "Outgoing";
+"CODE_BY_SMS" = "You will receive a verification code by SMS.";
+"ERROR_30_TITLE" = "Incorrect number";
+"DR_LOCAL_SIM_TITLE" = "Local SIM";
+"TRY_AGAIN" = "Try again";
+"COUNTRY" = "Country";
+"SETUP_VOICEMAIL_TITLE" = "Voicemail greeting";
+"CLEAR" = "Clear";
+"DEFAULT_ERROR_MESSAGE_FORMAT" = "Error Code: %i\nIf this error persists contact support@roamerapp.com";
+"DIALER_SELECT_CALL_TYPE_MESSAGE" = "Try again.";
+"HISTORY_DETAIL_INTERNET_CALL" = "Internet call ";
+"ERROR_5_MESSAGE" = "Please enter your number again.";
+"WELCOME_BUTTON_GOT_IT" = "Okay, I'm ready to call!";
+"INS_OPEN_SETTINGS_ACTION" = "Open Settings";
+"CURRENCY_GBP" = "British Pound";
+"CURRENCY_ISK" = "Iceland Krona";
+"ERROR_-1018_TITLE" = "No Internet connection";
+"CURRENCY" = "Currency";
+"TUTORIAL_OUTGOING_SHORT" = "The indicator shows that you can make calls.";
+"ERROR_10_MESSAGE" = "This schedule was already forwarded or canceled.";
+"CURRENCY_INR" = "Indian Rupee";
+"FORW_INS_CALL_ACTIVATE" = "Open Phone / Contacts and dial \"Roamer Activate Incoming\" which we have created.";
+"ERROR_7_TITLE" = "Forwarding problem";
+"DR_LOCAL_SIM_DESCRIPTION" = "Link a SIM to enable calls over mobile networks without roaming charges.";
+"CODE_SENT_TO_FORMAT" = "We’ve sent a code to %@.\nEnter it here:";
+"DIALER_FREE_CALL_UNAVAILABLE_TITLE" = "The contact is unreachable on Free Call";
+"ERROR_21_TITLE" = "Unsupported country";
+"ERROR_-1009_MESSAGE" = "Check your Internet connection or firewall.";
+"CLEAR_HISTORY_MESSAGE" = "Are you sure you want to clear history?";
+"ERROR_1023_TITLE" = "Payment error";
+"ERROR_39_TITLE" = "You can’t make calls at the moment";
+"PROMOCODE_ACCEPTED_TITLE" = "Promo code activated";
+"ERROR_1052_MESSAGE" = "This URL is not supported by by this version of Roamer.";
+"DR_OUT_GOOD_OFFLINE" = "No Internet connection: we suggest you make a regular call in Roamer.";
+"CALL_REQUESTING" = "Requesting a call";
+"CURRENCY_HRK" = "Croatian Kuna";
+"ERROR_NOTIFICATIONS_DISABLED_INSTRUCTION" = "Notifications are required to receive Internet calls, information about calls and support chat messages.\n\nTo enable Notifications go to phone Settings > Notification Center > Roamer and enable Banners, Badge App Icon and Sounds.";
+"CURRENCY_SEK" = "Swedish Krona";
+"YESTERDAY" = "Yesterday";
+"ERROR_9_TITLE" = "Cancelation error";
+"CHANGE_ACCOUNT_NUMBER_TITLE" = "Home number (account) change";
+"ERROR_202_MESSAGE" = "The country you are trying to call is not supported.";
+"CURRENCY_JPY" = "Japanese Yen";
+"FORW_INS_RETURN" = "Return to Roamer and tap \"Confirm\".";
+"VOICEMAIL_RINGS_3" = "after 3 rings";
+"SELECT_COUNTRY_HOME" = "Select home country";
+"DIALER_OFFLINE_CALL_MESSAGE" = "You can try calling through a local Roamer number.\n\nPress Call and wait for approximately 15 seconds, then wait for Roamer call.";
+"DR_OUT_GOOD_SIP" = "You can only make an Internet call at this time. Turn off call forwarding or link a local SIM to make a regular call.";
+"PERM_NOTIFICATION_DESCRIPTION" = "Roamer will not function properly without this.";
+"TUTORIAL_LINK_SIM" = "Abroad? Got a local SIM? Link it here and use it for calls through Roamer.";
+"SHARE_MESSAGE_PROMO_FORMAT" = "Try Roamer for calls home and abroad and use my invite code %@ with your first top-up.";
+"CURRENCY_MYR" = "Malaysian Ringgit";
+"CONTINUE" = "Continue";
+"ERROR_201_MESSAGE" = "The call could not be established. Try again.";
+"CHANGE_LANGUAGE_TITLE" = "Warning";
+"CURRENCY_KZT" = "Kazakhstan Tenge";
+"PAYM_SINGLE_TITLE" = "Top up account";
+"IN_ROAMING_TITLE" = "Your SIM is roaming";
+"SETTINGS_LOCAL_SIM_CAN_LINK" = "Link a local SIM while abroad and call through Roamer without Wi-Fi.";
+"RATE" = "Rate";
+"CURRENCY_BRL" = "Brazilian Real";
+"FREE_CALL" = "FREE CALL";
+"CURRENCY_EUR" = "Euro";
+"CALL_ANSWERING" = "answering";
+"CURRENCY_IDR" = "Indonesian Rupiah";
+"DIALER_BAD_INTERNET_CONNECTION_TITLE" = "Bad Internet connection";
+"TUTORIAL_ACTION_BUTTON_2" = "Got it!";
+"ERROR_30_MESSAGE" = "You can't call yourself.";
+"INS_NOTIFICATIONS_TITLE" = "Enable notifications";
+"POPUP_CANCEL_FORWARD_TITLE" = "Welcome home";
+"FORW_INS_TITLE" = "To receive calls abroad\nset up call forwarding";
+"ERROR_500_TITLE" = "Oops...";
+"EC_YOU_GET" = "You get";
+"CALLER_ID_CHANGE_BODY_FORMAT" = "Now you can also change your Caller ID from %@ to %@ in the side menu.";
+"SETTINGS_LOCAL_SIM_LINKED" = "When you make a call through Roamer there's an incoming call from Roamer which is further connected to the dialed number.";
+"CURRENCY_QAR" = "Qatar Rial";
+"OPEN_IN_SAFARI" = "Open in Safari";
+"ERROR_101_TITLE" = "Sychronization error";
+"SETUP_VOICEMAIL_PLAY" = "Play";
+"ERROR_12_TITLE" = "Location not found";
+"ERROR_25_TITLE" = "Payment problem";
+"DR_OUT_CALLS_TITLE" = "Make\ninternational calls";
+"CFORW_INS_PAD_DESCRIPTION_FORMAT" = "Disable call forwarding from your number %@ to our number %@ and in the app tap \"Confirm\".";
+"REQUEST_ANOTHER_CALL_LABEL" = "No call? Request another one in:";
+"CHANGE_ACCOUNT_NUMBER_CONFIRM_MESSAGE" = "Are you sure you want to change your home number (account)?";
+"FORW_INS_PAD_DESCRIPTION_FORMAT" = "To enable incoming calls you need to setup UNCONDITIONAL call forwarding from your number %@ to our number %@ and in the app tap \"Confirm\".\n\nWithout such confirmation our forwarding number becomes inactive in 1 hour.\n\nWARNING: other, not unconditional call forwarding will be billed by your operator as a double roaming charge.";
+"DR_INC_SET_BUT_USER_NOT_ACTIVE" = "Receive calls over Internet if it is present. For more reliability link a local SIM to receive calls as normal.";
+"RATES" = "Rates";
+"ERROR_-1005_TITLE" = "Internet connection problem";
