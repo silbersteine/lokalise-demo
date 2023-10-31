@@ -1,13 +1,41 @@
 {
-  "heading": "Welcome to Genesys",
-  "subHeader": "Transforming customer experience with cutting-edge solutions",
-  "description": "At Genesys, we are passionate about revolutionizing the way businesses engage with their customers. With our comprehensive suite of customer experience solutions, we empower companies to deliver personalized and seamless interactions across all channels.",
-  "mission": "Our mission is to help businesses create lasting relationships with their customers by providing innovative software and services. Through our dedication to excellence, we aim to drive superior customer engagement and deliver tangible business outcomes.",
-  "vision": "Our vision is to be the leading global provider of customer experience solutions, recognized for our innovation, reliability, and unparalleled expertise. We strive to empower organizations to surpass customer expectations and achieve sustainable growth.",
-  "values": "Integrity, collaboration, innovation, and customer success are the core values that drive our every endeavor. We are committed to delivering exceptional results and ensuring our customers' success is at the heart of everything we do.",
-  "technology": "Leveraging the latest advancements in technology, we build state-of-the-art solutions that enable companies to navigate the ever-evolving landscape of customer engagement. Our robust platform is designed to help businesses stay ahead in today's digital age.",
-  "team": "Our team of experts comprises talented individuals who are dedicated to creating game-changing innovations. With diverse backgrounds and skillsets, we foster a culture of collaboration, creativity, and continuous learning.",
-  "partnerships": "We at Genesys believe in the power of partnerships to drive meaningful impact. By collaborating with industry leaders and technology providers, we ensure our customers have access to the best tools and expertise.",
-  "globalPresence": "With a global presence spanning across numerous countries, we are well-positioned to serve businesses of all sizes and industries. Our regional offices and partners enable us to deliver localized support and services.",
-  "customerCentricity": "Putting the customer at the center of everything we do is fundamental to our approach. We listen to their needs, understand their challenges, and develop solutions that exceed their expectations."
+  "header1": "Invest with Confidence",
+  "hero1": "Discover a wide range of investment options and personalized strategies tailored to your goals, backed by industry-leading expertise.",
+  "bodyText1": "At Schwab, we believe in empowering investors to take control of their financial future. With our comprehensive range of investment options and personalized strategies, we provide the tools and guidance you need to make informed decisions and achieve your goals.",
+
+  "header2": "Unleash Your Full Potential",
+  "hero2": "Put your money to work with Schwab's innovative investment solutions designed to help you reach your full financial potential.",
+  "bodyText2": "Our cutting-edge investment solutions are designed to maximize your returns and minimize risk. Whether you're a seasoned investor or just starting out, our world-class team is here to support you every step of the way in achieving your financial goals.",
+
+  "header3": "Invest in Your Future",
+  "hero3": "Start building wealth today with Schwab's range of investment options and trusted guidance.",
+  "bodyText3": "We understand that everyone's financial goals are unique. That's why we offer a broad range of investment options, from stocks and bonds to mutual funds and ETFs. With our trusted guidance and easy-to-use platforms, you can start building your wealth and securing your future with confidence.",
+
+  "header4": "Stay Ahead of the Curve",
+  "hero4": "Stay informed and make smarter investment decisions with Schwab's market insights and expert analysis.",
+  "bodyText4": "Access a wealth of market insights and expert analysis through our website, tailored to keep you informed about the latest trends and opportunities. By staying ahead of the curve, you can make smarter investment decisions and stay in control of your financial future.",
+
+  "header5": "Investment Strategies That Work for You",
+  "hero5": "Discover personalized investment strategies designed to align with your unique financial goals and risk tolerance.",
+  "bodyText5": "Our team of experienced advisors will work closely with you to design personalized investment strategies that align with your unique financial goals and risk tolerance. With Schwab, you can invest with confidence knowing that your investments are tailored to your specific needs.",
+
+  "header6": "Secure and Reliable",
+  "hero6": "Trust your investments to a company with a proven track record of security and reliability.",
+  "bodyText6": "Schwab is committed to protecting your investments. With our robust security measures and industry-leading technology, you can trust that your assets are safe and secure. Join millions of satisfied clients who rely on Schwab's proven track record of security and reliability.",
+
+  "header7": "Investment Education and Resources",
+  "hero7": "Access a wealth of educational resources and tools to enhance your investment knowledge and make informed decisions.",
+  "bodyText7": "At Schwab, we believe in the power of knowledge. That's why we provide a wide range of educational resources, from articles and webinars to interactive tools and calculators, to help you enhance your investment knowledge and make informed decisions.",
+
+  "header8": "Simplify Your Investing",
+  "hero8": "Streamline your investing experience with Schwab's intuitive platforms and user-friendly tools.",
+  "bodyText8": "We know that time is valuable, so we've designed our platforms and tools to make investing simple and hassle-free. With Schwab, you can easily manage your investments, track your progress, and make informed decisions, all in one place.",
+
+  "header9": "Support When You Need It",
+  "hero9": "Count on Schwab's dedicated support team to assist you with any questions or concerns along your investment journey.",
+  "bodyText9": "We believe in providing exceptional customer service. Our dedicated support team is here to assist you every step of the way, whether you have questions about a specific investment or need guidance on long-term financial planning. With Schwab, you can count on reliable support whenever you need it.",
+
+  "header10": "Experience the Schwab Difference",
+  "hero10": "Experience the benefits of partnering with a trusted leader in the investment industry.",
+  "bodyText10": "With over four decades of experience, Schwab has established itself as a trusted leader in the investment industry. Join millions of satisfied clients and experience the Schwab difference - unrivaled expertise, innovative solutions, and a commitment to helping you achieve your financial goals."
 }
