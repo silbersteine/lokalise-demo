@@ -4,7 +4,7 @@
   "en": "EN",
   "es": "ES",
   "pt": "PT",
-  "banner": "This is a test system",
+  "banner": "This is the test system",
   "pages": {
     "title": "CARS - ",
     "dashboard": "CARS -  My Dashboard",
@@ -15,10 +15,10 @@
   "errors": {
     "login": "Your User has not been setup for this application, please reach IS support team or request access by sending an email to service_desk@ea.epson.com",
     "badRequest": "Something went wrong. Please try again",
-    "unauthorized": "Unauthorized",
+    "unauthorized": "User unauthorized",
     "forbidden": "You don't have enough permissions",
     "notFound": "Not found",
-    "conflict": "Conflict",
+    "conflict": "Potential Conflict",
     "locked": "Currently the contract is being edited. Please reload the page",
     "serverError": "Server Error",
     "forbiddenContract": "You are Not Authorized to view this Contract Record.<br/>Please contact {{responsibleParty}}({{partyEmail}}) to request Reader Access for this Contract.<br/>If you think this is an error, please contact Service Desk at ext. 18555 (Phone: (562) 276-1355 or Email: service_desk@ea.epson.com).",
@@ -68,7 +68,7 @@
       "contractName": "Contract Name"
     },
     "sidebar": {
-      "contractNumber": "Contract #",
+      "contractNumber": "Contract number",
       "owner": "Owner",
       "lawyer": "Lawyer",
       "epsonCompany": "Epson Company",
