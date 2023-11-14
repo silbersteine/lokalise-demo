@@ -1,0 +1,41 @@
+{
+    "mm_homepage": {
+        "translation": "Página Inicial",
+        "notes": "Título para o menu principal",
+        "context": "The text that appears as the title of the main menu on the homepage."
+    },
+    "mm_about": {
+        "translation": "Sobre nós",
+        "notes": "Título para o menu principal",
+        "limit": 20,
+        "context": "The text that appears as the title of the main menu on the 'About Us' page."
+    },
+    "somekey": {
+        "translation": "Chave de exemplo",
+        "context": "An example key at the top level of the JSON."
+    },
+    "somekey::sub": {
+        "translation": "Chave secundária de exemplo",
+        "context": "An example key at the second level of the JSON."
+    },
+    "login": {
+        "translation": "Entrar",
+        "context": "The text that appears on the login button."
+    },
+    "signup": {
+        "translation": "Registrar",
+        "context": "The text that appears on the signup button."
+    },
+    "settings": {
+        "translation": "Configurações",
+      "context": "The text that appears as the label for the settings page."
+    },
+    "notifications": {
+        "translation": "Notificações",
+        "context": "The text that appears as the label for notifications settings."
+    },
+    "profile": {
+        "translation": "Perfil",
+        "context": "The text that appears as the label for the user's profile page."
+    }
+}
