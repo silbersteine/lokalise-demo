@@ -1,16 +1,12 @@
 {
-  "welcome_message": "Welcome to PepsiCo HR",
-  "intro_message": "We are committed to supporting our employees' success and well-being.",
-  "cta_button_text": "Access HR Tools",
-  "cta_button_link": "/hr-tools",
-  "benefits_title": "Comprehensive Benefits",
-  "benefits_description": "Discover our competitive benefits package for PepsiCo employees.",
-  "policies_title": "Employee Policies",
-  "policies_description": "Access important HR policies and guidelines.",
-  "career_development_title": "Career Development",
-  "career_development_description": "Explore learning and growth opportunities at PepsiCo.",
-  "wellness_programs_title": "Wellness Programs",
-  "wellness_programs_description": "Promoting a healthy lifestyle for our employees.",
-  "contact_us": "Contact Us",
-  "hr_support": "For any HR-related inquiries, please reach out to our team."
+  "hero_title": "Experience the Future of Mobility",
+  "hero_subtitle": "Discover our innovative vehicles and redefine your driving experience.",
+  "about_title": "About Stellantis",
+  "about_description": "We are a leading global automotive company, dedicated to shaping the future of mobility through innovative and sustainable solutions.",
+  "services_title": "Our Services",
+  "services_description": "Explore our wide range of automotive services, from vehicle financing to after-sales support.",
+  "models_title": "Our Models",
+  "models_description": "Discover our diverse lineup of cutting-edge vehicles, designed to meet the needs and desires of every customer.",
+  "partnerships_title": "Partnerships",
+  "partnerships_description": "We collaborate with top industry leaders to bring you the best in automotive technology and innovation."
 }
