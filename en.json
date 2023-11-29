@@ -1,12 +1,12 @@
 {
-  "hero_title": "Experience the Future of Mobility",
-  "hero_subtitle": "Discover our innovative vehicles and redefine your driving experience.",
-  "about_title": "About Stellantis",
-  "about_description": "We are a leading global automotive company, dedicated to shaping the future of mobility through innovative and sustainable solutions.",
-  "services_title": "Our Services",
-  "services_description": "Explore our wide range of automotive services, from vehicle financing to after-sales support.",
-  "models_title": "Our Models",
-  "models_description": "Discover our diverse lineup of cutting-edge vehicles, designed to meet the needs and desires of every customer.",
-  "partnerships_title": "Partnerships",
-  "partnerships_description": "We collaborate with top industry leaders to bring you the best in automotive technology and innovation."
+  "title": "Connect with Cisco",
+  "description": "Experience the power of innovation with Cisco solutions.",
+  "cta_button_text": "Get Started",
+  "cta_button_url": "https://www.cisco.com",
+  "header_text": "Accelerate Your Digital Transformation",
+  "subheader_text": "Unlock new possibilities with Cisco’s cutting-edge technology.",
+  "feature_1": "Advanced Security Solutions",
+  "feature_2": "Cloud Infrastructure Services",
+  "feature_3": "Collaboration Tools",
+  "feature_4": "Internet of Things (IoT) Solutions"
 }
