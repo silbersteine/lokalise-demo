@@ -1,12 +1,12 @@
 {
-  "title": "Connect with Cisco",
-  "description": "Experience the power of innovation with Cisco solutions.",
-  "cta_button_text": "Get Started",
-  "cta_button_url": "https://www.cisco.com",
-  "header_text": "Accelerate Your Digital Transformation",
-  "subheader_text": "Unlock new possibilities with Cisco’s cutting-edge technology.",
-  "feature_1": "Advanced Security Solutions",
-  "feature_2": "Cloud Infrastructure Services",
-  "feature_3": "Collaboration Tools",
-  "feature_4": "Internet of Things (IoT) Solutions"
+  "welcome": "Welcome to the Medtronics web app",
+  "login": "Log in to your account",
+  "signup": "Sign up for a new account",
+  "dashboard": "Dashboard",
+  "profile": "My Profile",
+  "appointments": "Appointments",
+  "notifications": "Notifications",
+  "settings": "Settings",
+  "logout": "Logout",
+  "search": "Search"
 }
