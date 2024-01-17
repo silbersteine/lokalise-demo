@@ -1,13 +1,12 @@
 {
-    "title": "Welcome to FloQast",
-    "subtitle": "Revolutionizing the way your team closes the books",
+    "title": "Welcome to Robinhood",
+    "subtitle": "Revolutionizing the way you trade and manage your investments",
     "cta_button": "Get Started",
-    "feature_1": "Streamline your month-end close process",
-    "feature_2": "Collaborate seamlessly with your team",
-    "feature_3": "Automate tedious tasks",
-    "testimonial_1": "FloQast has transformed our close process. It's a game-changer!",
-    "testimonial_2": "The level of collaboration FloQast enables is incredible. Highly recommended!",
-    "pricing_info": "Choose the option that best suits your team's needs",
-    "footer_text": "© 2023 FloQast. All rights reserved.",
-    "new_key": "hello floqast team"
-  }
+    "feature_1": "Streamline your trading experience",
+    "feature_2": "Collaborate seamlessly with your fellow traders",
+    "feature_3": "Automate tedious trading tasks",
+    "testimonial_1": "Robinhood has transformed my trading process. It's a game-changer!",
+    "testimonial_2": "The level of collaboration Robinhood enables is incredible. Highly recommended for all traders!",
+    "pricing_info": "Choose the option that best suits your trading needs",
+    "footer_text": "© 2023 Robinhood. All rights reserved.",
+}
