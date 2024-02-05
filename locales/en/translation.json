@@ -1,13 +1,13 @@
 {
-    "title": "Welcome to Sigma Computing",
-    "subtitle": "Revolutionizing the way you trade and manage your investments",
-    "cta_button": "Get Started",
-    "feature_1": "Streamline your trading experience",
-    "feature_2": "Collaborate seamlessly with your fellow traders",
-    "feature_3": "Automate tedious trading tasks",
-    "testimonial_1": "Sigma Computing has transformed my trading process. It's a game-changer!",
-    "testimonial_2": "The level of collaboration Sigma Computing enables is incredible. Highly recommended for all traders!",
-    "pricing_info": "Choose the option that best suits your trading needs",
-    "footer_text": "© 2023 Sigma Computing. All rights reserved.", 
-    "new_key": "hellow world"
+  "title": "About Us",
+  "description": "Culligan International is a leading water solutions provider with a global presence.",
+  "mission": "Our mission is to deliver high-quality water solutions to improve the lives of our customers.",
+  "history": "With over 80 years of experience, Culligan has been a trusted name in the water treatment industry.",
+  "leadership": "Our leadership team is composed of dedicated professionals with extensive expertise in water treatment technologies.",
+  "services": "We offer a wide range of water solutions, including water filtration, softening, and purification systems.",
+  "commitment": "At Culligan, we are committed to providing the best customer experience and ensuring the highest water quality standards.",
+  "sustainability": "We are dedicated to sustainable water practices and strive to minimize our environmental impact.",
+  "global_presence": "We have a strong global presence, serving customers in over 90 countries worldwide.",
+  "awards": "Culligan has received numerous industry awards and accolades for our innovative water treatment solutions.",
+  "contact": "To learn more about our water solutions, contact us today and speak with one of our experts."
 }
