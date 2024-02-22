@@ -1,12 +1,52 @@
 {
-  "welcome_message": "Welcome to the future of restaurant management!",
-  "efficiency_tips": "Increase efficiency and streamline operations with Toast.",
-  "customer_engagement": "Engage with customers in new ways with Toast's features.",
-  "loyalty_programs": "Build customer loyalty with Toast's loyalty programs.",
-  "data_analytics": "Access valuable data to make data-driven decisions.",
-  "menu_customization": "Create and customize menus easily with Toast.",
-  "online_ordering": "Seamlessly integrate online ordering with Toast.",
-  "marketing_campaigns": "Run targeted marketing campaigns with Toast's tools.",
-  "inventory_management": "Efficiently manage inventory with Toast's tools.",
-  "reporting_and_insights": "Gain valuable insights with Toast's reporting features."
+    "welcome_message": {
+        "translation": "Welcome to the future of restaurant management!",
+        "notes": "Message displayed on the welcome screen of the application",
+        "context": "Displayed on the initial login screen"
+    },
+    "efficiency_tips": {
+        "translation": "Increase efficiency and streamline operations with Toast.",
+        "notes": "Tips for using the Toast platform efficiently",
+        "context": "Displayed in the tips section of the application"
+    },
+    "customer_engagement": {
+        "translation": "Engage with customers in new ways with Toast's features.",
+        "notes": "Highlighting the customer engagement capabilities of Toast",
+        "context": "Displayed in the customer engagement module"
+    },
+    "loyalty_programs": {
+        "translation": "Build customer loyalty with Toast's loyalty programs.",
+        "notes": "Promoting the loyalty programs feature of Toast",
+        "context": "Displayed in the loyalty programs section"
+    },
+    "data_analytics": {
+        "translation": "Access valuable data to make data-driven decisions.",
+        "notes": "Emphasizing the importance of data analytics in decision-making",
+        "context": "Displayed in the analytics dashboard"
+    },
+    "menu_customization": {
+        "translation": "Create and customize menus easily with Toast.",
+        "notes": "Highlighting the menu customization feature of Toast",
+        "context": "Displayed in the menu customization module"
+    },
+    "online_ordering": {
+        "translation": "Seamlessly integrate online ordering with Toast.",
+        "notes": "Emphasizing the seamless integration of online ordering",
+        "context": "Displayed in the online ordering settings"
+    },
+    "marketing_campaigns": {
+        "translation": "Run targeted marketing campaigns with Toast's tools.",
+        "notes": "Promoting the marketing campaign capabilities of Toast",
+        "context": "Displayed in the marketing dashboard"
+    },
+    "inventory_management": {
+        "translation": "Efficiently manage inventory with Toast's tools.",
+        "notes": "Highlighting the inventory management feature of Toast",
+        "context": "Displayed in the inventory management section"
+    },
+    "reporting_and_insights": {
+        "translation": "Gain valuable insights with Toast's reporting features.",
+        "notes": "Emphasizing the insights provided by reporting",
+        "context": "Displayed in the reporting and insights module"
+    }
 }
