@@ -1,12 +1,12 @@
 {
-  "homepage.title": "Zimperium Product Team",
-  "homepage.subtitle": "Building Innovative Security Solutions",
-  "aboutus.title": "About Us",
-  "aboutus.description": "Learn more about the Zimperium Product Team",
-  "products.title": "Our Products",
-  "products.description": "Explore our cutting-edge security solutions",
-  "contact.title": "Contact Us",
-  "contact.description": "Get in touch with the Zimperium Product Team",
-  "footer.privacy": "Privacy Policy",
-  "footer.terms": "Terms of Service"
+  "welcome_message": "Welcome to the future of restaurant management!",
+  "efficiency_tips": "Increase efficiency and streamline operations with Toast.",
+  "customer_engagement": "Engage with customers in new ways with Toast's features.",
+  "loyalty_programs": "Build customer loyalty with Toast's loyalty programs.",
+  "data_analytics": "Access valuable data to make data-driven decisions.",
+  "menu_customization": "Create and customize menus easily with Toast.",
+  "online_ordering": "Seamlessly integrate online ordering with Toast.",
+  "marketing_campaigns": "Run targeted marketing campaigns with Toast's tools.",
+  "inventory_management": "Efficiently manage inventory with Toast's tools.",
+  "reporting_and_insights": "Gain valuable insights with Toast's reporting features."
 }
