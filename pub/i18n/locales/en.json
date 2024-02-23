@@ -1,6 +1,6 @@
 {
     "welcome_message": {
-        "translation": "Welcome to the future of restaurant management!",
+        "translation": "Welcome to the future of restaurant management with Toast!",
         "notes": "Message displayed on the welcome screen of the application",
         "context": "Displayed on the initial login screen"
     },
