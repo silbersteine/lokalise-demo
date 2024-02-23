@@ -1,0 +1,30 @@
+{
+    "loyalty_programs": {
+        "translation": "Fidélisez vos clients avec les programmes de fidélité de Toast.",
+        "context": "Displayed in the loyalty programs section"
+    },
+    "data_analytics": {
+        "translation": "Accédez à des données précieuses pour prendre des décisions fondées sur les données.",
+        "context": "Displayed in the analytics dashboard"
+    },
+    "menu_customization": {
+        "translation": "Créez et personnalisez facilement des menus avec Toast.",
+        "context": "Displayed in the menu customization module"
+    },
+    "online_ordering": {
+        "translation": "Intégrez de manière transparente la commande en ligne avec Toast.",
+        "context": "Displayed in the online ordering settings"
+    },
+    "marketing_campaigns": {
+        "translation": "Menez des campagnes marketing ciblées avec les outils de Toast.",
+        "context": "Displayed in the marketing dashboard"
+    },
+    "inventory_management": {
+        "translation": "Gérez efficacement les stocks avec les outils de Toast.",
+        "context": "Displayed in the inventory management section"
+    },
+    "reporting_and_insights": {
+        "translation": "Obtenez des informations précieuses grâce aux fonctionnalités de reporting de Toast.",
+        "context": "Displayed in the reporting and insights module"
+    }
+}

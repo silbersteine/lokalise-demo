@@ -1,0 +1,30 @@
+{
+    "loyalty_programs": {
+        "translation": "Toast のロイヤルティ プログラムで顧客ロイヤルティを構築します。",
+        "context": "Displayed in the loyalty programs section"
+    },
+    "data_analytics": {
+        "translation": "貴重なデータにアクセスして、データに基づいた意思決定を行います。",
+        "context": "Displayed in the analytics dashboard"
+    },
+    "menu_customization": {
+        "translation": "Toast を使用してメニューを簡単に作成およびカスタマイズします。",
+        "context": "Displayed in the menu customization module"
+    },
+    "online_ordering": {
+        "translation": "オンライン注文を Toast とシームレスに統合します。",
+        "context": "Displayed in the online ordering settings"
+    },
+    "marketing_campaigns": {
+        "translation": "Toast のツールを使用して、ターゲットを絞ったマーケティング キャンペーンを実行します。",
+        "context": "Displayed in the marketing dashboard"
+    },
+    "inventory_management": {
+        "translation": "Toast のツールを使用して在庫を効率的に管理します。",
+        "context": "Displayed in the inventory management section"
+    },
+    "reporting_and_insights": {
+        "translation": "Toast のレポート機能を使用して貴重な洞察を取得します。",
+        "context": "Displayed in the reporting and insights module"
+    }
+}
