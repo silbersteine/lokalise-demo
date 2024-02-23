@@ -1,0 +1,42 @@
+{
+    "welcome_message": {
+        "translation": "¡Bienvenido al futuro de la gestión de restaurantes!",
+        "context": "Displayed on the initial login screen"
+    },
+    "efficiency_tips": {
+        "translation": "Aumente la eficiencia y agilice las operaciones con Toast.",
+        "context": "Displayed in the tips section of the application"
+    },
+    "customer_engagement": {
+        "translation": "Interactúe con los clientes de nuevas formas con las funciones de Toast.",
+        "context": "Displayed in the customer engagement module"
+    },
+    "loyalty_programs": {
+        "translation": "Fidelice a sus clientes con los programas de fidelización de Toast.",
+        "context": "Displayed in the loyalty programs section"
+    },
+    "data_analytics": {
+        "translation": "Acceda a datos valiosos para tomar decisiones basadas en datos.",
+        "context": "Displayed in the analytics dashboard"
+    },
+    "menu_customization": {
+        "translation": "Crea y personaliza menús fácilmente con Toast.",
+        "context": "Displayed in the menu customization module"
+    },
+    "online_ordering": {
+        "translation": "Integre perfectamente los pedidos en línea con Toast.",
+        "context": "Displayed in the online ordering settings"
+    },
+    "marketing_campaigns": {
+        "translation": "Ejecute campañas de marketing dirigidas con las herramientas de Toast.",
+        "context": "Displayed in the marketing dashboard"
+    },
+    "inventory_management": {
+        "translation": "Administre eficientemente el inventario con las herramientas de Toast.",
+        "context": "Displayed in the inventory management section"
+    },
+    "reporting_and_insights": {
+        "translation": "Obtenga información valiosa con las funciones de informes de Toast.",
+        "context": "Displayed in the reporting and insights module"
+    }
+}
