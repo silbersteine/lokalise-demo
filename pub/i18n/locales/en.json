@@ -1,12 +1,16 @@
 {
-  "welcome_message": "Welcome to CaptivateIQ Mobile App",
-  "mission_statement": "Empowering businesses through mobile solutions.",
-  "vision": "To revolutionize the way companies engage with their employees.",
-  "core_values": "Innovation, customer-centricity, collaboration, excellence.",
-  "contact_us": "Need help? Contact us at support@captivateiq.com.",
-  "social_media": "Join our community on Instagram, Facebook, and Twitter.",
-  "product_launch": "Exciting new features coming soon - stay tuned!",
-  "customer_feedback": "Share your thoughts with us - we value your input.",
-  "upcoming_events": "Discover industry events where you can connect with us.",
-  "testimonials": "Find out what our users have to say about CaptivateIQ." 
+  "welcome_message": "Welcome to CaptivateIQ Mobile App!",
+  "mission_statement": "Empowering businesses with innovative mobile solutions.",
+  "vision": "To revolutionize the digital workplace experience.",
+  "core_values": "Customer-centricity, creativity, collaboration, integrity, excellence.",
+  "contact_us": "Need assistance? Reach out to us at support@captivateiq.com.",
+  "social_media": "Connect with us on Instagram, Facebook, Twitter, and LinkedIn for updates.",
+  "product_launch": "Exciting new features and enhancements coming your way!",
+  "customer_feedback": "Share your valuable feedback with us for continuous improvement.",
+  "upcoming_events": "Stay updated on upcoming industry events and webinars.",
+  "testimonials": "Discover what our happy users have to say about us.",
+  "faq": "Visit our FAQ section for answers to common queries.",
+  "premium_features": "Unlock premium features with CaptivateIQ Plus subscription.",
+  "user_guides": "Access comprehensive user guides to optimize your app experience.",
+  "app_updates": "Never miss out on the latest app updates and improvements."
 }
