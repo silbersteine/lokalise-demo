@@ -1,0 +1,38 @@
+{
+    "welcome_message": {
+        "translation": "Bem-vindo ao nosso aplicativo localizado!"
+    },
+    "mission_statement": {
+        "translation": "Capacitando empresas com soluções inovadoras e móveis."
+    },
+    "vision": {
+        "translation": "Para revolucionar o ambiente de trabalho digital."
+    },
+    "core_values": {
+        "translation": "Centralidade no cliente, criatividade, colaboração, integridade, excelência."
+    },
+    "contact_us": {
+        "translation": "Precisa de assistência? Entre em contato conosco em support.com."
+    },
+    "social_media": {
+        "translation": "Conecte-se conosco no Instagram, Facebook, Twitter e LinkedIn para atualizações."
+    },
+    "product_launch": {
+        "translation": "Novos recursos e melhorias emocionantes chegando para você!"
+    },
+    "customer_feedback": {
+        "translation": "Compartilhe seu feedback valioso conosco para melhoria contínua."
+    },
+    "upcoming_events": {
+        "translation": "Fique atualizado sobre os próximos eventos e webinars do setor."
+    },
+    "testimonials": {
+        "translation": "Descubra o que nossos usuários satisfeitos têm a dizer sobre nós."
+    },
+    "faq": {
+        "translation": "Visite nossa seção de perguntas frequentes para obter respostas a dúvidas comuns."
+    },
+    "premium_features": {
+        "translation": "Desbloqueie recursos premium com a assinatura Plus."
+    }
+}
