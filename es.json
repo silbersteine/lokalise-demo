@@ -1,0 +1,14 @@
+{
+    "welcome": "Bienvenido a la demostración de la aplicacion GitHub",
+    "login": "Inicia sesión en tu cuenta",
+    "signup": "Regístrese para obtener una nueva cuenta",
+    "dashboard": "Panel",
+    "profile": "Mi perfil",
+    "appointments": "Equipo",
+    "notifications": "Notificaciones",
+    "settings": "Configuración",
+    "logout": "Finalizar sesión",
+    "search": "Explora nuestros archivos",
+    "error": "¡Error y es muy malo!",
+    "hellocomma": "¡Hola Book!"
+}

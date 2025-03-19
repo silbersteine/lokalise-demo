@@ -1,0 +1,14 @@
+{
+    "welcome": "Witamy w aplikacji internetowej Medtronics",
+    "login": "Zaloguj się na swoje konto",
+    "signup": "Zarejestruj nowe konto",
+    "dashboard": "Panel",
+    "profile": "Mój profil",
+    "appointments": "Spotkania",
+    "notifications": "Powiadomienia",
+    "settings": "Ustawienia",
+    "logout": "Wyloguj",
+    "search": "Szukaj w naszych archiwach",
+    "error": "błąd i to zły!",
+    "hellocomma": "Cześć Buk!"
+}
