@@ -1,7 +1,7 @@
 {
   "welcome": "Welcome to the web app",
-  "login": "Log in to your account",
-  "signup": "Sign up for a new account",
+  "login": "Log in",
+  "signup": "Sign up for a free project",
   "dashboard": "Dashboard",
   "profile": "My Profile",
   "appointments": "Appointments",
@@ -10,5 +10,7 @@
   "logout": "Logout",
   "search": "Search in our archives",
   "error": "error and it's a bad one!",
-  "hellocomma": "Hello Buk!"
+  "hellocomma": "Hello Buk!",
+  "key1": "brand new key",
+  "hellounivers": "Hello to everyone!"
 }
