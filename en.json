@@ -12,5 +12,7 @@
   "error": "error and it's a bad one!",
   "hellocomma": "Hello Buk!",
   "key1": "brand new key",
-  "hellounivers": "Hello to everyone!"
+  "hellounivers": "Hello to everyone!",
+  "greeting": "Hello, {name}!",
+  "key": "{{what}} is {{how}}"
 }
