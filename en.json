@@ -14,5 +14,6 @@
   "key1": "brand new key",
   "hellounivers": "Hello to everyone!",
   "greeting": "Hello, {name}!",
-  "key": "{{what}} is {{how}}"
+  "key": "{{what}} is {{how}}",
+  "livekey": "hello world"
 }
