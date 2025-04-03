@@ -1,0 +1,19 @@
+{
+    "welcome": "Willkommen bei der Web-App",
+    "login": "Anmelden",
+    "signup": "Melden Sie sich für ein kostenloses Projekt an",
+    "dashboard": "Dashboard",
+    "profile": "Mein Profil",
+    "appointments": "Termine",
+    "notifications": "Benachrichtigungen",
+    "settings": "Einstellungen",
+    "logout": "Abmelden",
+    "search": "Suche in unseren Archiven",
+    "error": "Fehler und es ist ein schlimmer!",
+    "hellocomma": "Hallo Buk!",
+    "key1": "nagelneuer Schlüssel",
+    "hellounivers": "Hallo an alle!",
+    "greeting": "Hallo, {name}!",
+    "key": "{{what}} ist {{how}}",
+    "livekey": "hallo Welt"
+}
