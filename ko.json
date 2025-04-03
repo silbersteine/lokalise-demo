@@ -1,0 +1,19 @@
+{
+    "welcome": "웹 앱에 오신 것을 환영합니다",
+    "login": "로그인",
+    "signup": "무료 프로젝트에 가입하세요",
+    "dashboard": "계기반",
+    "profile": "내 프로필",
+    "appointments": "설비",
+    "notifications": "알림",
+    "settings": "설정",
+    "logout": "로그아웃",
+    "search": "아카이브에서 검색",
+    "error": "오류가 발생했으며, 심각한 오류입니다!",
+    "hellocomma": "안녕, 북!",
+    "key1": "새로운 키",
+    "hellounivers": "안녕하세요 여러분!",
+    "greeting": "안녕하세요, {name}!",
+    "key": "{{what}} 은 {{how}} 인가",
+    "livekey": "안녕하세요 세상"
+}
