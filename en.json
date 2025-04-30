@@ -16,5 +16,6 @@
   "greeting": "Hello, {name}!",
   "key": "{{what}} is {{how}}",
   "livekey": "hello world",
-  "newkey": "asdf"
+  "newkey": "Toca means to touch in Spanish",
+  "addedKey": "auto pulled into Lokalise"
 }
