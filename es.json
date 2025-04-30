@@ -1,0 +1,19 @@
+{
+    "welcome": "Bienvenido a la aplicación web",
+    "login": "Iniciar sesión",
+    "signup": "Regístrate para un proyecto gratuito",
+    "dashboard": "Tablero",
+    "profile": "Mi Perfil",
+    "appointments": "Citas",
+    "notifications": "Notificaciones",
+    "settings": "Configuración",
+    "logout": "Finalizar sesión",
+    "search": "Explora nuestros archivos",
+    "error": "¡Error y es muy malo!",
+    "hellocomma": "¡Hola Book!",
+    "key1": "llave nueva",
+    "hellounivers": "¡Hola a todos!",
+    "greeting": "¡Hola, {name}!",
+    "key": "{{what}} es {{how}}",
+    "livekey": "Hola Mundo"
+}
