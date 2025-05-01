@@ -1,8 +1,8 @@
 {
-    "sign_up_page.123456": "Full name",
-    "log_in_page.footer_SSO": "Log in with SSO",
-    "landing_page.Book_a_demo": "Book a demo",
-    "log_in_page.footer_forgot_password": "Forgot password? ",
+    "sign_up_page.78910": "Full name",
+    "log_in_page.SSO": "Log in with SSO",
+    "landing_page.Book_a_demo": "Book a demo with a sales rep",
+    "log_in_page.footer_forgot_password": "Did you forget your password? ",
     "sign_up_page.disclaimer_privacy_policy": "By signing up, you accept our Terms of Service and Privacy Policy.",
     "sign_up_page.heading_sign_Up": "Sign Up",
     "log_in_page.header_log_in": "Log In",
