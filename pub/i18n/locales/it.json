@@ -1,0 +1,38 @@
+{
+    "welcome_message": {
+        "translation": "Benvenuti alla nostra app localizzata!"
+    },
+    "mission_statement": {
+        "translation": "Forniamo alle aziende soluzioni innovative e mobili."
+    },
+    "vision": {
+        "translation": "Per rivoluzionare il posto di lavoro digitale."
+    },
+    "core_values": {
+        "translation": "Centralità del cliente, creatività, collaborazione, integrità, eccellenza."
+    },
+    "contact_us": {
+        "translation": "Hai bisogno di assistenza? Contattaci su support.com."
+    },
+    "social_media": {
+        "translation": "Per restare aggiornati, seguiteci su Instagram, Facebook, Twitter e LinkedIn."
+    },
+    "product_launch": {
+        "translation": "Nuove entusiasmanti funzionalità e miglioramenti in arrivo!"
+    },
+    "customer_feedback": {
+        "translation": "Condividi con noi il tuo prezioso feedback per un miglioramento continuo."
+    },
+    "upcoming_events": {
+        "translation": "Rimani aggiornato sui prossimi eventi e webinar del settore."
+    },
+    "testimonials": {
+        "translation": "Scopri cosa dicono di noi i nostri utenti soddisfatti."
+    },
+    "faq": {
+        "translation": "Visita la nostra sezione FAQ per trovare le risposte alle domande più comuni."
+    },
+    "premium_features": {
+        "translation": "Sblocca le funzionalità premium con l'abbonamento Plus."
+    }
+}
