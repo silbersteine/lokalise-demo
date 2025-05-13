@@ -1,0 +1,20 @@
+{
+    "welcome": "ウェブアプリへようこそ",
+    "login": "ログイン",
+    "signup": "無料プロジェクトにサインアップする",
+    "dashboard": "ダッシュボード",
+    "profile": "マイプロフィール",
+    "appointments": "予約",
+    "notifications": "通知",
+    "settings": "設定",
+    "logout": "ログアウト",
+    "search": "アーカイブを検索する",
+    "error": "エラーが発生しました。しかも重大なものです！",
+    "hellocomma": "こんにちは、Buk！",
+    "key1": "新品の鍵",
+    "hellounivers": "皆さん、こんにちは！",
+    "greeting": "こんにちは、{name}さん！",
+    "key": "{{what}}は{{how}}です",
+    "livekey": "こんにちは、世界",
+    "addedKey": "Lokaliseに自動で取り込まれました"
+}
