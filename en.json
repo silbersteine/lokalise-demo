@@ -16,5 +16,6 @@
     "greeting": "Hello, {name}!",
     "key": "{{what}} is {{how}}",
     "livekey": "hello world",
-    "addedKey": "Auto pulled into Lokalise"
+    "addedKey": "Auto pulled into Lokalise",
+    "newkey": "For translation"
 }
