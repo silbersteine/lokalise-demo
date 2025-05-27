@@ -22,5 +22,6 @@
     "log_in_page.button_log_in_google": "Log In with Google",
     "sign_up_page.footer_log_in_existing_accout": "Log in to an existing team's account now",
     "landing_page.Connect_with_more_than_1_000_apps_with_our_API": "Connect with more than 1,000 apps with our API",
-    "sign_up_page.input_label_E-mail": "E-mail"
+    "sign_up_page.input_label_E-mail": "Email",
+    "addsnewkey": "Hello ODB"
 }
