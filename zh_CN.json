@@ -1,0 +1,23 @@
+{
+    "welcome": "欢迎使用网页应用",
+    "login": "登录",
+    "signup": "注册免费项目",
+    "dashboard": "仪表盘",
+    "profile": "我的个人资料",
+    "appointments": "预约",
+    "notifications": "通知",
+    "settings": "设置",
+    "logout": "登出",
+    "search": "在我们的档案中搜索",
+    "error": "错误，而且是个严重的错误！",
+    "hellocomma": "你好 Buk！",
+    "key1": "全新密钥",
+    "hellounivers": "大家好！",
+    "greeting": "你好，{name}！",
+    "key": "{{what}} 是 {{how}}",
+    "livekey": "你好世界",
+    "addedKey": "自动导入到 Lokalise",
+    "newkey": "用于翻译",
+    "hello_world1": "你好世界123",
+    "hello_univers": "再见"
+}
