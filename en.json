@@ -10,7 +10,7 @@
     "logout": "Logout",
     "search": "Search in our archives",
     "error": "error and it's a bad one!",
-    "hellocomma": "Hello Buk!",
+    "hellocomma": "Hello Forrester!",
     "key1": "brand new key",
     "hellounivers": "Hello to everyone!",
     "greeting": "Hello, {name}!",
@@ -20,5 +20,6 @@
     "newkey": "For translation",
     "hello_world1": "Hello world123",
     "hello_univers": "Goodbye!",
-    "new":"hello"
+    "new":"hello",
+    "fdsa": "Duracell"
 }
