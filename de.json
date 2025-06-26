@@ -1,0 +1,23 @@
+{
+    "welcome": "Willkommen!",
+    "login": "Einloggen",
+    "signup": "Melden Sie sich an, um Ihr Projekt zu starten",
+    "dashboard": "Armaturenbrett",
+    "profile": "Mein Profil",
+    "appointments": "Einen Termin vereinbaren",
+    "notifications": "Benachrichtigungen",
+    "settings": "Einstellungen",
+    "logout": "Ausloggen",
+    "search": "Suchen Sie in unserem Archiv",
+    "error": "Fehler und es ist ein schlimmer!",
+    "hellocomma": "Hallo, {{username}}!",
+    "hellounivers": "Hallo zusammen!",
+    "key": "{{what}} ist {{how}}",
+    "livekey": "Hallo Welt",
+    "addedKey": "Automatisch in Lokalise gezogen",
+    "newkey": "Zur Übersetzung",
+    "hello_world1": "Hallo Welt123",
+    "hello_univers": "Auf Wiedersehen!",
+    "new": "Hallo",
+    "fdsa": "Irgendein beliebiger Zeichenfolgenwert"
+}
