@@ -1,19 +1,17 @@
 {
-    "welcome": "Welcome to the web app",
+    "welcome": "Welcome!",
     "login": "Log in",
-    "signup": "Sign up for a free project",
+    "signup": "Sign up to start your project",
     "dashboard": "Dashboard",
     "profile": "My Profile",
-    "appointments": "Appointments",
+    "appointments": "Make an appointment",
     "notifications": "Notifications",
     "settings": "Settings",
     "logout": "Logout",
     "search": "Search in our archives",
     "error": "error and it's a bad one!",
-    "hellocomma": "Hello Forrester!",
-    "key1": "brand new key",
+    "hellocomma": "Hello, {{username}}!",
     "hellounivers": "Hello to everyone!",
-    "greeting": "Hello, {name}!",
     "key": "{{what}} is {{how}}",
     "livekey": "hello world",
     "addedKey": "Auto pulled into Lokalise",
@@ -21,5 +19,5 @@
     "hello_world1": "Hello world123",
     "hello_univers": "Goodbye!",
     "new":"hello",
-    "fdsa": "Duracell"
+    "fdsa": "Any ol' string value"
 }
