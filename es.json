@@ -1,0 +1,5 @@
+{
+    "hellocomma": "¡¡¡Hola Mundo!!!",
+    "greeting": "¡Buenos días, {{name}}!",
+    "key": "¿Qué es {{how}} de {{what}}?"
+}
