@@ -5,7 +5,7 @@
   "maxStorageGB": "Maximum storage: 500 GB",
   "customBranding": "Custom branding disabled",
   "userLimit": "User limit: 100 users",
-  "multiLanguageSupport": "Supports multiple languages",
+  "multiLanguageSupport": "Supports multiple languages ",
   "activityAnalytics": "Basic activity analytics",
   "prioritySupport": "Priority support not included",
   "integrationsAvailable": "Available integrations: Slack, Google Calendar, Trello"
