@@ -1,12 +1,12 @@
 {
-  "realtimeCollaboration": "Collaborate in real time",
-  "taskAutomationEnabled": "Automated task workflows available",
-  "aiMeetingSummaries": "AI-powered meeting notes",
-  "maxStorageGB": "Up to 500 GB of storage",
-  "customBranding": "Custom branding not available",
-  "userLimit": "Supports up to 100 users",
-  "multiLanguageSupport": "Multi-language support included",
-  "activityAnalytics": "Standard activity insights",
-  "prioritySupport": "No access to priority support",
-  "integrationsAvailable": "Integrates with Slack, Google Calendar, and Trello"
+  "realtimeCollaboration": "Work together in real time",
+  "taskAutomationEnabled": "Automated task workflows included",
+  "aiMeetingSummaries": "AI-generated meeting notes",
+  "maxStorageGB": "Up to 500 GB storage available",
+  "customBranding": "Custom branding currently unavailable",
+  "userLimit": "Supports a maximum of 100 users",
+  "multiLanguageSupport": "Includes multilingual support",
+  "activityAnalytics": "Basic activity insights",
+  "prioritySupport": "Priority support not included",
+  "integrationsAvailable": "Works with Slack, Google Calendar, and Trello"
 }
