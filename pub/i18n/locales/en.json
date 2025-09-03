@@ -1,27 +1,72 @@
 {
-    "sign_up_page.78910": "Full name please",
-    "log_in_page.SSO": "Log in with SSO",
-    "newkey123": "hello world",
-    "landing_page.Book_a_demo": "Book a demo with a sales rep",
-    "log_in_page.footer_forgot_password": "Did you forget your password? ",
-    "sign_up_page.disclaimer_privacy_policy": "By signing up, you accept our Terms of Service and Privacy Policy.",
-    "sign_up_page.heading_sign_Up": "Sign Up",
-    "log_in_page.header_log_in": "Log In",
-    "log_in_page.input_username": "%s",
-    "log_in_page.input_label_username": "Username",
-    "sign_up_page.input_label_password": "Password",
-    "sign_up_page.text_sign_up_email": "Or sign up with your email ",
-    "log_in_page.placeholder_•••••••••••••": "•••••••••••••",
-    "landing_page.Try_it_free": "Try it free",
-    "sign_up_page.button_sign_up_google": "Sign Up with Google",
-    "landing_page.Whether_it’s_your_cloud_file_storage__task_management_or_communication_tools,_integrate_Lokalise_with_thousands_of_other_apps_on_Zapier_to_automate_your_workflow.": "Whether it’s your cloud file storage, task management, or communication tools, integrate Lokalise with thousands of other apps on Zapier to automate your workflow.",
-    "meet_lokalise.Our_goal_is_to_eliminate_the_hassle_of_localization_by_providing_tools_to_automate__integrate_and_better_manage_your_translations._Lokalise_is_a_better_way_for_growth-minded_businesses_to_expand_their": "Our goal is to eliminate the hassle of localization by providing tools to automate, integrate, and better manage your translations. Lokalise is a better way for growth-minded businesses to expand their mobile apps, games, software or digital content into multiple languages.",
-    "landing_page.Lokalise_integration_for_Zapier": "Lokalise integration for Zapier",
-    "meet_lokalise.Meet_Lokalise": "Meet Lokalise",
-    "landing_page.Try_all_features_for_7_days_·_No_credit_card_required": "Try all features for 7 days · No credit card required",
-    "log_in_page.button_log_in_google": "Log In with Google",
-    "sign_up_page.footer_log_in_existing_accout": "Log in to an existing team's account now",
-    "landing_page.Connect_with_more_than_1_000_apps_with_our_API": "Connect with more than 1,000 apps with our API",
-    "sign_up_page.input_label_E-mail": "Email",
-    "addsnewkey": "Hello ODB"
+  "tagline_connect_everywhere": {
+    "translation": "Stay connected anytime, anywhere.",
+    "notes": "Tagline emphasizing accessibility and availability.",
+    "context": "Homepage hero section banner text.",
+    "limit": 60,
+    "tags": ["tagline", "homepage", "marketing"]
+  },
+  "value_collaboration": {
+    "translation": "Seamless collaboration across teams and devices.",
+    "notes": "Highlights cross-platform teamwork benefits.",
+    "context": "Features page - collaboration section.",
+    "limit": 80,
+    "tags": ["value", "features", "collaboration"]
+  },
+  "value_reliability": {
+    "translation": "Trusted by businesses worldwide for reliable communication.",
+    "notes": "Communicates dependability and global trust.",
+    "context": "Landing page credibility message.",
+    "limit": 90,
+    "tags": ["value", "trust", "credibility"]
+  },
+  "value_integration": {
+    "translation": "Integrates with your favorite tools for maximum productivity.",
+    "notes": "Promotes integrations with third-party apps.",
+    "context": "Features page integrations section.",
+    "limit": 85,
+    "tags": ["value", "integration", "productivity"]
+  },
+  "value_scalability": {
+    "translation": "Built to scale with your business growth.",
+    "notes": "Conveys flexibility for small and large businesses.",
+    "context": "Enterprise solutions page.",
+    "limit": 70,
+    "tags": ["value", "enterprise", "scalability"]
+  },
+  "value_security": {
+    "translation": "Enterprise-grade security to protect your data.",
+    "notes": "Emphasizes security and compliance.",
+    "context": "Security and compliance section.",
+    "limit": 75,
+    "tags": ["value", "security", "compliance"]
+  },
+  "value_flexibility": {
+    "translation": "Work your way with flexible communication options.",
+    "notes": "Conveys user choice in communication methods.",
+    "context": "Product features section.",
+    "limit": 80,
+    "tags": ["value", "flexibility", "features"]
+  },
+  "promo_free_trial": {
+    "translation": "Start your free trial and experience the difference.",
+    "notes": "Encourages free trial sign-up.",
+    "context": "Homepage CTA or promotional banner.",
+    "limit": 65,
+    "tags": ["promo", "trial", "cta"]
+  },
+  "promo_customer_success": {
+    "translation": "Join thousands of companies boosting productivity with RingCentral.",
+    "notes": "Highlights customer adoption and success.",
+    "context": "Customer success/ testimonial banner.",
+    "limit": 95,
+    "tags": ["promo", "customer", "success"]
+  },
+  "promo_innovation": {
+    "translation": "Powering the future of work with innovative communication solutions.",
+    "notes": "Communicates innovation and forward-looking value.",
+    "context": "Innovation or vision section of the site.",
+    "limit": 100,
+    "tags": ["promo", "innovation", "vision"]
+  }
 }
