@@ -1,12 +1,12 @@
 {
-  "realtimeCollaboration": "Work together in real time",
-  "taskAutomationEnabled": "Automated task workflows included",
-  "aiMeetingSummaries": "AI-generated meeting notes",
-  "maxStorageGB": "Up to 500 GB storage available",
-  "customBranding": "Custom branding currently unavailable",
-  "userLimit": "Supports a maximum of 100 users",
-  "multiLanguageSupport": "Includes multilingual support",
-  "activityAnalytics": "Basic activity insights",
-  "prioritySupport": "Priority support not included",
-  "integrationsAvailable": "Works with Slack, Google Calendar, and Trello VICTOR!"
+  "tagline_connect_everywhere": "Stay connected anytime, anywhere.",
+  "value_collaboration": "Seamless collaboration across teams and devices.",
+  "value_reliability": "Trusted by businesses worldwide for reliable communication.",
+  "value_integration": "Integrates with your favorite tools for maximum productivity.",
+  "value_scalability": "Built to scale with your business growth.",
+  "value_security": "Enterprise-grade security to protect your data.",
+  "value_flexibility": "Work your way with flexible communication options.",
+  "promo_free_trial": "Start your free trial and experience the difference.",
+  "promo_customer_success": "Join thousands of companies boosting productivity with RingCentral.",
+  "promo_innovation": "Powering the future of work with innovative communication solutions."
 }
