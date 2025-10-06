@@ -1,15 +1,13 @@
 {
   "tagline_connect_everywhere": "Stay connected anytime, anywhere, with anyone.",
-  "value_collaboration": "Seamless collaboration across {teamCount, plural, one {# team} other {# teams}} and devices.",
-  "value_reliability": "Trusted by businesses worldwide for reliable communication since {year}.",
-  "value_integration": "Integrates with your favorite tools like {toolList} for maximum productivity.",
-  "value_scalability": "Built to scale with your business growth — from {startSize} to {endSize} employees.",
-  "value_security": "Enterprise-grade security to protect your data in {region}.",
-  "value_flexibility": "Work your way with flexible communication options for {role}.",
-  "promo_free_trial": "Start your free trial today, {name}, and experience the difference.",
-  "promo_customer_success": "Join {companyCount, plural, one {# company} other {# companies}} boosting productivity with {product}.",
-  "promo_innovation": "Powering the future of work with innovative communication solutions by {brand}.",
-  "notification_new_message": "{count, plural, =0 {You have no new messages.} one {You have # new message.} other {You have # new messages.}}",
-  "team_member_added": "{count, plural, one {# new team member, {memberName}, joined your workspace.} other {# new team members joined your workspace.}}",
-  "meeting_scheduled": "{count, plural, one {# meeting scheduled today at {time}.} other {# meetings scheduled today.}}"
+  "value_reliability": "Trusted by businesses worldwide for reliable communication since {{year}}.",
+  "value_integration": "Integrates with your favorite tools like {{toolList}} for maximum productivity.",
+  "value_scalability": "Built to scale with your business growth — from {{startSize}} to {{endSize}} employees.",
+  "value_security": "Enterprise-grade security to protect your data in {{region}}.",
+  "value_flexibility": "Work your way with flexible communication options for {{role}}.",
+  "promo_free_trial": "Start your free trial today, {{name}}, and experience the difference.",
+  "promo_innovation": "Powering the future of work with innovative communication solutions by {{brand}}.",
+  "notification_new_message": "{{count, plural, =0 {You have no new messages.} one {You have {{count}} new message.} other {You have {{count}} new messages.}}}",
+  "team_member_added": "{{count, plural, one {{{count}} new team member, {{memberName}}, joined your workspace.} other {{{count}} new team members joined your workspace.}}}",
+  "meeting_scheduled": "{{count, plural, one {{{count}} meeting scheduled today at {{time}}.} other {{{count}} meetings scheduled today.}}}"
 }
