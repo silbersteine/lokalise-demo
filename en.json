@@ -8,5 +8,8 @@
   "value_flexibility": "Work your way with flexible communication options.",
   "promo_free_trial": "Start your free trial and experience the difference.",
   "promo_customer_success": "Join thousands of companies boosting productivity with RingCentral.",
-  "promo_innovation": "Powering the future of work with innovative communication solutions."
+  "promo_innovation": "Powering the future of work with innovative communication solutions.",
+  "notification_new_message": "{count, plural, one {You have # new message.} other {You have # new messages.}}",
+  "team_member_added": "{count, plural, one {# new team member joined your workspace.} other {# new team members joined your workspace.}}",
+  "meeting_scheduled": "{count, plural, one {# meeting scheduled today.} other {# meetings scheduled today.}}"
 }
