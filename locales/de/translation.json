@@ -1,10 +1,12 @@
 {
-    "title": "Willkommen bei FloQast",
-    "subtitle": "Revolutionieren Sie die Art und Weise, wie Ihr Team die Bücher abschließt",
-    "cta_button": "Loslegen",
-    "feature_1": "Optimieren Sie Ihren Monatsabschlussprozess",
-    "feature_2": "Arbeiten Sie nahtlos mit Ihrem Team zusammen",
-    "feature_3": "Automatisieren Sie mühsame Aufgaben",
-    "testimonial_1": "FloQast hat unseren Abschlussprozess verändert. Es ist ein Game-Changer!",
-    "testimonial_2": "Das Maß an Zusammenarbeit, das FloQast ermöglicht, ist unglaublich. Sehr empfehlenswert!"
+    "dashboardWelcomeMessage": "Willkommen in deinem personalisierten Dashboard",
+    "featureUsageLimit": "Du hast dein Nutzungslimit für diese Funktion erreicht",
+    "upgradePlanPrompt": "Aktualisieren Sie Ihren Plan, um mehr Funktionen freizuschalten",
+    "emailNotificationsSetting": "E-Mail-Benachrichtigungen sind derzeit aktiviert",
+    "mobileAppDownloadCTA": "Laden Sie unsere mobile App für den Zugriff unterwegs herunter",
+    "teamInviteSuccess": "Ihr Teammitglied wurde erfolgreich eingeladen",
+    "dataSyncStatus": "Daten werden im Hintergrund synchronisiert",
+    "feedbackRequestMessage": "Wir schätzen Ihr Feedback. Lassen Sie uns wissen, wie wir uns schlagen.",
+    "accountDeletionWarning": "Sind Sie sicher, dass Sie Ihr Konto löschen möchten? Diese Aktion ist irreversibel.",
+    "supportContactInfo": "Kontaktieren Sie den Support unter support@example.com für Unterstützung"
 }
