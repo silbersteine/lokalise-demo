@@ -1,8 +1,8 @@
 {
   "tagline_connect_everywhere": "Stay connected anytime, anywhere, with anyone from any place",
   "value_reliability": "Trusted by businesses worldwide for reliable communication since the dawn of {{year}}.",
-  "value_integration": "Integrates with your favorite tools like {{toolList}} for maximum productivity.  ",
-  "value_scalability": "Built to scale with your business growth — from {{startSize}} to {{endSize}} employees.  ",
+  "value_integration": "Integrates with your favorite tools like {{toolList}} for maximum productivity.",
+  "value_scalability": "Built to scale with your business growth — from {{startSize}} to {{endSize}} employees.",
   "value_security": "Enterprise-grade security to protect your data in {{region}}.",
   "value_flexibility": "Work your favorite way with flexible communication options for {{role}}.",
   "promo_free_trial": "Start your free trial today, {{name}}, and experience the difference.",
