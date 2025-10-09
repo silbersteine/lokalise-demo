@@ -4,8 +4,9 @@
   "value_integration": "Integrates with your favorite tools like {{toolList}} for maximum productivity.",
   "value_scalability": "Built to scale with your business growth — from {{startSize}} to {{endSize}} employees.",
   "value_security": "Enterprise-grade security to protect your data in {{region}}.",
-  "value_flexibility": "Work your favorite way with flexible communication options for {{role}}.",
-  "promo_free_trial": "Start your free trial today, {{name}}, and experience the difference.",
+  "value_flexibility": "Work your favorite way with flexible communication options for {{role}}. And get started today",
+  "new_key": "New value!"
+  "promo_free_trial": "Start your free trial today, {{name}}, and experience the difference. Another change.",
   "promo_innovation": "Powering the future of work with innovative communication solutions by {{brand}}.",
   "notification_new_message": "{count, plural, =0 {You have no new messages.} one {You have {{count}} new message.} other {You have {{count}} new messages.}}",
   "team_member_added": "{count, plural, one {{{count}} new team member, {{memberName}}, joined your workspace.} other {{{count}} new team members joined your workspace.}}",
