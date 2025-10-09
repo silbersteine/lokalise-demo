@@ -1,0 +1,17 @@
+{
+    "tagline_connect_everywhere": "Bleiben Sie jederzeit und überall mit jedem von jedem Ort aus bei jedem Offsite verbunden",
+    "value_reliability": "Weltweit von Unternehmen für zuverlässige Kommunikation seit Anbeginn von {{year}} vertraut.",
+    "value_integration": "Integriert sich mit Ihren Lieblingstools wie {{toolList}} für maximale Produktivität.",
+    "value_scalability": "Für das Wachstum Ihres Unternehmens skalierbar — von {{startSize}} bis {{endSize}} Mitarbeitenden.",
+    "value_security": "Sicherheitsmaßnahmen in Unternehmensqualität zum Schutz Ihrer Daten in {{region}}.",
+    "value_flexibility": "Arbeiten Sie auf Ihre bevorzugte Weise mit flexiblen Kommunikationsoptionen für {{role}}. Und legen Sie noch heute los",
+    "promo_free_trial": "Beginnen Sie noch heute Ihre kostenlose Testversion, {{name}}, und erleben Sie den Unterschied. Eine weitere Änderung.",
+    "promo_innovation": "Die Zukunft der Arbeit mit innovativen Kommunikationslösungen von {{brand}} vorantreiben.",
+    "notification_new_message_one": "Sie haben {{count}} neue Nachricht.",
+    "notification_new_message_other": "Sie haben {{count}} neue Nachrichten.",
+    "team_member_added_one": "{{count}} neues Teammitglied, {{memberName}}, ist deinem Arbeitsbereich beigetreten.",
+    "team_member_added_other": "{{count}} neue Teammitglieder sind deinem Arbeitsbereich beigetreten.",
+    "meeting_scheduled_one": "Heute ist {{count}} Meeting um {{time}} geplant.",
+    "meeting_scheduled_other": "Heute sind {{count}} Meetings geplant.",
+    "new_key": "Neuer Wert!"
+}
