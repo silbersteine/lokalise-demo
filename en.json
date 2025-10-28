@@ -1,6 +1,6 @@
 {
-  "tagline_connect_everywhere": "Stay connected on every adventure — wherever the road takes you.",
-  "fi_key": "Hello Rivian team!",
+  "tagline_connect_everywhere": "Stay connected on every adventure — wherever the road takes us.",
+  "Riv_key": "Hello Rivian team!",
   "value_reliability": "Trusted by explorers and innovators alike for reliable performance since {{year}}.",
   "value_integration": "Seamlessly connects with your favorite tools like {{toolList}} to power your journey.",
   "value_scalability": "Engineered to grow with your ambitions — from {{startSize}} to {{endSize}} teammates and beyond.",
@@ -9,7 +9,6 @@
   "new_key": "New possibilities ahead.",
   "promo_free_trial": "Start your Rivian experience today, {{name}}, and see what’s possible.",
   "promo_innovation": "Driving the future forward with innovative, sustainable technology by {{brand}}.",
-  "asdf": "Placeholder value",
   "notification_new_message": "{count, plural, =0 {You have no new messages.} one {You have {{count}} new message.} other {You have {{count}} new messages.}}",
   "team_member_added": "{count, plural, one {{{count}} new team member, {{memberName}}, joined your workspace.} other {{{count}} new team members joined your workspace.}}",
   "meeting_scheduled": "{count, plural, one {{{count}} meeting scheduled today at {{time}}.} other {{{count}} meetings scheduled today.}}"
