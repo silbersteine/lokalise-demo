@@ -1,12 +1,12 @@
 {
-  "dashboardWelcomeMessage": "Welcome to your personalized dashboard",
-  "featureUsageLimit": "You have reached your usage limit for this feature",
-  "upgradePlanPrompt": "Upgrade your plan to unlock more features",
-  "emailNotificationsSetting": "Email notifications are currently enabled",
-  "mobileAppDownloadCTA": "Download our mobile app for on-the-go access",
-  "teamInviteSuccess": "Your team member has been successfully invited",
-  "dataSyncStatus": "Data is syncing in the background",
-  "feedbackRequestMessage": "We value your feedback. Let us know how we're doing.",
-  "accountDeletionWarning": "Are you sure you want to delete your account? This action is irreversible.",
-  "supportContactInfo": "Contact support at support@example.com for assistance"
+    "dashboardWelcomeMessage": "Welcome to your personalized dashboard",
+    "featureUsageLimit": "You have reached your usage limit for this feature",
+    "upgradePlanPrompt": "Upgrade your plan to unlock more features",
+    "emailNotificationsSetting": "Email notifications are currently enabled",
+    "mobileAppDownloadCTA": "Download our mobile app for on-the-go access",
+    "teamInviteSuccess": "Your team member has been successfully invited",
+    "dataSyncStatus": "Data is syncing in the background",
+    "feedbackRequestMessage": "We value your feedback. Let us know how we're doing.",
+    "accountDeletionWarning": "Are you sure you want to delete your account? This action is irreversible.",
+    "supportContactInfo": "Contact support at support@example.com for assistance change"
 }
