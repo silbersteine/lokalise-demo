@@ -1,7 +1,7 @@
 {
   "tagline_connect_everywhere": "Stay connected throughout your Caesars Palace experience — wherever your Las Vegas journey takes you.",
-  "Riv_key": "Welcome to Caesars Palace!",
-  "value_reliability": "Trusted by world-class hospitality teams for reliable performance since {{year}}.",
+  "Caesars_key": "Welcome to Caesars Palace!",
+  "value_reliability": " Update. Trusted by world-class hospitality teams for reliable performance since {{year}}.",
   "value_integration": "Seamlessly integrates with your preferred systems like {{toolList}} to elevate every guest experience.",
   "value_scalability": "Built to scale with your operations — from {{startSize}} to {{endSize}} team members and beyond.",
   "value_security": "Protected with enterprise-grade security to safeguard your data across {{region}}.",
