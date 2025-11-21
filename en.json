@@ -1,15 +1,12 @@
 {
-  "tagline_connect_everywhere": "Stay connected throughout your Caesars Palace experience — wherever your Las Vegas journey takes you.",
-  "Caesars_key": "Welcome to Caesars Palace!",
-  "value_reliability": " Update. Trusted by world-class hospitality teams for reliable performance since {{year}}.",
-  "value_integration": "Seamlessly integrates with your preferred systems like {{toolList}} to elevate every guest experience.",
-  "value_scalability": "Built to scale with your operations — from {{startSize}} to {{endSize}} team members and beyond.",
-  "value_security": "Protected with enterprise-grade security to safeguard your data across {{region}}.",
-  "value_flexibility": "Empower your staff — with flexible, intuitive tools designed for every {{role}} at Caesars.",
-  "new_key": "New possibilities await at Caesars Palace.",
-  "promo_free_trial": "Start your Caesars Palace experience today, {{name}}, and discover what’s possible.",
-  "promo_innovation": "Advancing hospitality with innovative technology in partnership with {{brand}}.",
-  "notification_new_message": "{count, plural, =0 {You have no new messages.} one {You have {{count}} new message.} other {You have {{count}} new messages.}}",
-  "team_member_added": "{count, plural, one {{{count}} new team member, {{memberName}}, joined your Caesars workspace.} other {{{count}} new team members joined your Caesars workspace.}}",
-  "meeting_scheduled": "{count, plural, one {{{count}} meeting scheduled today at {{time}}.} other {{{count}} meetings scheduled today.}}"
+  "site_tagline": "One Platform. Every Subscriber.",
+  "site_description": "Print, digital, memberships, and commerce together in one place, built for publishers.",
+  "help_modernize": "Modernize Without Replacing",
+  "help_automate": "Automate Renewals & Scale Revenue",
+  "help_understand": "Understand Your Entire Audience",
+  "help_run_together": "Run Print & Digital Together",
+  "team_circulation": "Circulation & Fulfillment Managers",
+  "team_marketing": "Audience & Marketing Teams",
+  "team_finance": "Finance & Executive Teams",
+  "security_compliance": "SOC 1, SOC 2, SOC 3, and PCI-DSS Certifications"
 }
