@@ -1,0 +1,19 @@
+{
+    "tagline_connect_everywhere": "Restez connecté à tout moment, n'importe où, avec n'importe qui depuis n'importe quel endroit à tout offsitasdfe",
+    "value_reliability": "Fait confiance par les entreprises du monde entier pour une communication fiable depuis l'aube de {{year}}.",
+    "value_integration": "S'intègre avec vos outils préférés comme {{toolList}} pour une productivité maximale.",
+    "value_scalability": "Conçu pour évoluer avec la croissance de votre entreprise — de {{startSize}} à {{endSize}} employés.",
+    "value_security": "Sécurité de niveau entreprise pour protéger vos données dans {{region}}.",
+    "value_flexibility": "Travaillez comme vous le souhaitez avec des options de communication flexibles pour {{role}}. Et commencez dès aujourd'hui",
+    "promo_free_trial": "Commencez votre essai payant dès aujourd'hui, {{name}}, et découvrez la différence.",
+    "promo_innovation": "Alimenter l'avenir du travail avec des solutions de communication innovantes par {{brand}}.",
+    "notification_new_message_one": "Vous avez {{count}} nouveau message.",
+    "notification_new_message_other": "Vous avez {{count}} nouveaux messages.",
+    "team_member_added_one": "{{count}} nouveau membre de l'équipe, {{memberName}}, a rejoint votre espace de travail.",
+    "team_member_added_other": "{{count}} nouveaux membres de l'équipe ont rejoint votre espace de travail.",
+    "meeting_scheduled_one": "{{count}} réunion prévue aujourd'hui à {{time}}.",
+    "meeting_scheduled_other": "{{count}} réunions prévues aujourd'hui.",
+    "new_key": "nouveau !",
+    "asdf": "dfsa",
+    "fi_key": "Bonjour l'équipe Fi !"
+}
