@@ -1,25 +1,4 @@
 {
-    "sign_up_page.123456": "Nom et prénom",
-    "log_in_page.footer_SSO": "Connectez-vous avec SSO",
-    "landing_page.Book_a_demo": "Réserver une démo",
-    "log_in_page.footer_forgot_password": "Mot de passe oublié? ",
-    "sign_up_page.disclaimer_privacy_policy": "En vous inscrivant, vous acceptez nos conditions d'utilisation et notre politique de confidentialité.",
-    "sign_up_page.heading_sign_Up": "S'inscrire",
-    "log_in_page.header_log_in": "Se connecter",
-    "log_in_page.input_username": "%s",
-    "log_in_page.input_label_username": "Nom d'utilisateur",
-    "sign_up_page.input_label_password": "Mot de passe",
-    "sign_up_page.text_sign_up_email": "Ou inscrivez-vous avec votre email ",
-    "log_in_page.placeholder_•••••••••••••": "•••••••••••••",
-    "landing_page.Try_it_free": "Essayez-le gratuitement",
-    "sign_up_page.button_sign_up_google": "Inscrivez-vous avec Google",
-    "landing_page.Whether_it’s_your_cloud_file_storage__task_management_or_communication_tools,_integrate_Lokalise_with_thousands_of_other_apps_on_Zapier_to_automate_your_workflow.": "Qu'il s'agisse de votre stockage de fichiers cloud, de votre gestion des tâches ou de vos outils de communication, intégrez Lokalise à des milliers d'autres applications sur Zapier pour automatiser votre flux de travail.",
-    "meet_lokalise.Our_goal_is_to_eliminate_the_hassle_of_localization_by_providing_tools_to_automate__integrate_and_better_manage_your_translations._Lokalise_is_a_better_way_for_growth-minded_businesses_to_expand_their": "Notre objectif est de simplifier la localisation en fournissant des outils pour automatiser, intégrer et mieux gérer vos traductions. Lokalise est une solution optimale pour les entreprises en pleine croissance qui souhaitent développer leurs applications mobiles, jeux, logiciels ou contenus numériques en plusieurs langues.",
-    "landing_page.Lokalise_integration_for_Zapier": "Intégration de Lokalise pour Zapier",
-    "meet_lokalise.Meet_Lokalise": "Rencontrez Lokalise",
-    "landing_page.Try_all_features_for_7_days_·_No_credit_card_required": "Essayez toutes les fonctionnalités pendant 7 jours · Aucune carte de crédit requise",
-    "log_in_page.button_log_in_google": "Connectez-vous avec Googleasdf",
-    "sign_up_page.footer_log_in_existing_accout": "Connectez-vous maintenant au compte d'une équipe existante",
     "landing_page.Connect_with_more_than_1_000_apps_with_our_API": "Connectez-vous à plus de 1 000 applications avec notre API",
-    "sign_up_page.input_label_E-mail": "continue"
+    "sign_up_page.input_label_E-mail": "E-mail"
 }
