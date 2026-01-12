@@ -1,12 +1,12 @@
 {
-  "dashboardWelcomeMessage": "Welcome to your personalized dashboard",
-  "featureUsageLimit": "You have reached your usage limit for this feature",
-  "upgradePlanPrompt": "Upgrade your plan to unlock more features",
-  "emailNotificationsSetting": "Email notifications are currently enabled",
-  "mobileAppDownloadCTA": "Download our mobile app for on-the-go access",
-  "teamInviteSuccess": "Your team member has been successfully invited",
-  "dataSyncStatus": "Data is syncing in the background",
-  "feedbackRequestMessage": "We value your feedback. Let us know how we're doing.",
-  "accountDeletionWarning": "Are you sure you want to delete your account? This action is irreversible.",
-  "supportContactInfo": "Contact support at support@example.com for assistance"
+  "hero_headline": "AI-Powered Imaging for Smarter Care",
+  "platform_summary": "A unified clinical and imaging intelligence platform built for modern healthcare systems.",
+  "primary_cta": "Request a Demo",
+  "secondary_cta": "Explore the Platform",
+  "feature_ai": "Advanced clinical AI for earlier, more accurate diagnoses",
+  "feature_workflows": "End-to-end imaging and clinical workflow orchestration",
+  "feature_insights": "Real-time insights across patients, providers, and operations",
+  "audience_target": "Built for radiology, enterprise imaging, and health system leaders",
+  "security_compliance": "Cloud-Native Platform Designed for Security, Scalability, and Operational Trust",
+  "location": "Trusted by imaging centers and radiology departments worldwide to deliver earlier, more reliable, and more efficient care."
 }
