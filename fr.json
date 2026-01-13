@@ -1,0 +1,24 @@
+{
+    "tagline_connect_everywhere": "Restez connecté à tout moment, n'importe où, avec n'importe qui depuis n'importe quel endroit à tout offsitasdfe",
+    "value_reliability": "Approuvé par les explorateurs et les innovateurs pour ses performances fiables depuis {{year}}.",
+    "value_security": "Conçu avec une protection de niveau entreprise pour protéger vos données dans {{region}}.",
+    "promo_innovation": "Propulser l'avenir avec une technologie innovante et durable par {{brand}}.",
+    "value_integration": "Se connecte de manière transparente avec vos outils préférés comme {{toolList}} pour alimenter votre parcours.",
+    "value_scalability": "Conçu pour évoluer avec vos ambitions — de {{startSize}} à {{endSize}} coéquipiers et au-delà.",
+    "value_flexibility": "Conduisez à votre manière — avec des systèmes flexibles et intuitifs conçus pour chaque {{role}}.",
+    "new_key": "De nouvelles possibilités à venir.",
+    "promo_free_trial": "Commencez votre expérience Rivian dès aujourd'hui, {{name}}, et découvrez ce qui est possible.",
+    "notification_new_message": {
+        "one": "Vous avez {{count}} nouveau message.",
+        "other": "Vous avez {{count}} nouveaux messages."
+    },
+    "team_member_added": {
+        "one": "{{count}} nouveau membre d'équipe, {{memberName}}, a rejoint votre espace de travail.",
+        "other": "{{count}} nouveaux membres d'équipe ont rejoint votre espace de travail."
+    },
+    "meeting_scheduled": {
+        "one": "{{count}} réunion prévue aujourd'hui à {{time}}.",
+        "other": "{{count}} réunions prévues aujourd'hui."
+    },
+    "Caesars_key": "Bienvenue à Caesars Palace !"
+}
