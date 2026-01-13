@@ -1,0 +1,12 @@
+{
+    "supportContactInfo": "Ponte en contacto con soporte en support@example.com para obtener ayuda",
+    "dashboardWelcomeMessage": "Bienvenido a tu panel personalizado",
+    "featureUsageLimit": "Has alcanzado el límite de uso de esta función",
+    "upgradePlanPrompt": "Mejora tu plan para desbloquear más funciones",
+    "emailNotificationsSetting": "Las notificaciones por correo electrónico están habilitadas actualmente",
+    "mobileAppDownloadCTA": "Descarga nuestra app móvil para acceso sobre la marcha",
+    "teamInviteSuccess": "Se ha invitado correctamente a tu miembro del equipo",
+    "dataSyncStatus": "Los datos se están sincronizando en segundo plano",
+    "feedbackRequestMessage": "Valoramos tus comentarios. Cuéntanos cómo lo estamos haciendo.",
+    "accountDeletionWarning": "¿Seguro que quieres eliminar tu cuenta? Esta acción es irreversible."
+}

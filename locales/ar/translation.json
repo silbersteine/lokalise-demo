@@ -1,0 +1,12 @@
+{
+    "supportContactInfo": "اتصل بالدعم على support@example.com للحصول على المساعدة",
+    "dashboardWelcomeMessage": "مرحباً بك في لوحة التحكم الشخصية الخاصة بك",
+    "featureUsageLimit": "لقد وصلت إلى حد الاستخدام لهذه الميزة",
+    "upgradePlanPrompt": "قم بترقية باقتك لفتح مزيد من الميزات",
+    "emailNotificationsSetting": "إشعارات البريد الإلكتروني مفعّلة حالياً",
+    "mobileAppDownloadCTA": "قم بتنزيل تطبيق الهاتف المحمول الخاص بنا للوصول أثناء التنقل",
+    "teamInviteSuccess": "تمت دعوة عضو فريقك بنجاح",
+    "dataSyncStatus": "يتم مزامنة البيانات في الخلفية",
+    "feedbackRequestMessage": "نقدّر ملاحظاتك. أخبرنا كيف نؤدي.",
+    "accountDeletionWarning": "هل أنت متأكد من رغبتك في حذف حسابك؟ هذا الإجراء لا رجعة فيه."
+}
