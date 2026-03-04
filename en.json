@@ -14,5 +14,6 @@
     "new_key2": "Hello world. Edits made in Lokalise to be pushed to GitLab.",
     "new_key3": "Hello universes",
     "new_key4": "Hello new key 4",
-    "asdf": "new key 5"
+    "asdf": "new key asdf",
+    "livekey": "live"
 }
