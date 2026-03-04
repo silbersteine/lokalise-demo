@@ -1,6 +1,6 @@
 {
-    "site_tagline": "One Platform. Every Subscriber. Udpated Key",
-    "site_description": "Print, digital, memberships, and commerce together in one place, built for publishers.",
+    "site_tagline": "One Platform. Every Subscriber.",
+    "site_description": "Print, digital, memberships, and commerce together in one place, built for builders.",
     "help_modernize": "Modernize effortlessly",
     "help_automate": "Automate Renewals and Scale Revenue",
     "help_understand": "Understand Your Audience",
@@ -13,5 +13,6 @@
     "new_key": "New Key. Change made in Lokalise. Cece Changed.",
     "new_key2": "Hello world. Edits made in Lokalise to be pushed to GitLab.",
     "new_key3": "Hello universes",
-    "new_key4": "Hello new key 4"
+    "new_key4": "Hello new key 4",
+    "asdf": "new key 5"
 }
