@@ -5,11 +5,11 @@
   "help_automate": "Automate Clinical and Operational Tasks Across the Imaging Continuum",
   "help_understand": "Gain Actionable Insights Across Clinical and Operational Workflows",
   "help_run_together": "Run Enterprise Imaging and Population Health Together",
-  "team_circulation": "Radiology Operations & Workflow Leaders",
   "team_marketing": "Clinical Informatics & AI Adoption Teams",
   "team_finance": "Health System Executives & Operational Leaders",
   "security_compliance": "Cloud-Native Platform Designed for Security, Scalability, and Operational Trust",
   "location": "Trusted by imaging centers and radiology departments worldwide to deliver earlier, more reliable, and more efficient care.",
   "live_key": "New key",
-  "secondaryCta": "Explore the Platform"
+  "secondaryCta": "Explore the Platform",
+  "new_key": "Hello"
 }
