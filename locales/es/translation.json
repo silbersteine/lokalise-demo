@@ -1,0 +1,12 @@
+{
+    "dashboardWelcomeMessage": "Bienvenido a tu panel personalizado",
+    "featureUsageLimit": "Has alcanzado tu límite de uso para esta función",
+    "upgradePlanPrompt": "Mejora tu plan para desbloquear más funciones",
+    "emailNotificationsSetting": "Las notificaciones por correo electrónico están habilitadas actualmente",
+    "mobileAppDownloadCTA": "Descarga nuestra aplicación móvil para acceder dondequiera que estés",
+    "teamInviteSuccess": "Tu miembro del equipo ha sido invitado correctamente",
+    "dataSyncStatus": "Los datos se están sincronizando en segundo plano",
+    "feedbackRequestMessage": "Valoramos tus comentarios. Cuéntanos cómo lo estamos haciendo.",
+    "accountDeletionWarning": "¿Estás seguro de que deseas eliminar tu cuenta? Esta acción es irreversible.",
+    "supportContactInfo": "Contacta al soporte en support@example.com para recibir ayuda"
+}
