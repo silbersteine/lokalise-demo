@@ -1,0 +1,23 @@
+{
+    "welcome": "Bienvenue sur l'application web",
+    "login": "Se connecter",
+    "signup": "Inscrivez-vous pour un projet gratuit",
+    "dashboard": "Tableau de bord",
+    "profile": "Mon profil",
+    "appointments": "Rendez-vous",
+    "notifications": "Notifications",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "search": "Rechercher dans nos archives",
+    "error": "erreur et c'est une mauvaise !",
+    "hellocomma": "Bonjour Buk!",
+    "key1": "nouvelle clé",
+    "hellounivers": "Bonjour à tous !",
+    "greeting": "Bonjour, {name} !",
+    "key": "{{what}} est {{how}}",
+    "livekey": "Bonjour le monde",
+    "addedKey": "Auto importé dans Lokalise",
+    "newkey": "Pour traduction",
+    "hello_world1": "Bonjour world123",
+    "hello_univers": "Au revoir"
+}

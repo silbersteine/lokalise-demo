@@ -1,0 +1,23 @@
+{
+    "welcome": "Bienvenido a la aplicación web",
+    "login": "Iniciar sesión",
+    "signup": "Regístrate para un proyecto gratuito",
+    "dashboard": "Panel de control",
+    "profile": "Mi perfil",
+    "appointments": "Citas",
+    "notifications": "Notificaciones",
+    "settings": "Configuración",
+    "logout": "Finalizar sesión",
+    "search": "Explora nuestros archivos",
+    "error": "¡Error y es muy malo!",
+    "hellocomma": "¡Hola Book!",
+    "key1": "llave nueva",
+    "hellounivers": "¡Hola a todos!",
+    "greeting": "¡Hola, {name}!",
+    "key": "¿Qué es {{how}} de?{{what}}",
+    "livekey": "Hola Mundo",
+    "addedKey": "Extraído automáticamente en Lokalise",
+    "newkey": "Para traducción",
+    "hello_world1": "Hola world123",
+    "hello_univers": "Adiós"
+}

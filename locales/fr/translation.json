@@ -1,10 +1,4 @@
 {
-    "title": "Bienvenue sur FloQast",
-    "subtitle": "Révolutionner la façon dont votre équipe clôture les comptes",
-    "cta_button": "Commencer",
-    "feature_1": "Rationalisez votre processus de clôture de fin de mois",
-    "feature_2": "Collaborez en toute transparence avec votre équipe",
-    "feature_3": "Automatisez les tâches fastidieuses",
-    "testimonial_1": "FloQast a transformé notre processus de clôture. Cela change la donne !",
-    "testimonial_2": "Le niveau de collaboration permis par FloQast est incroyable. Hautement recommandé!"
+    "welcome_message": "Bienvenue dans le futur de la gestion de traduction !",
+    "key1": "touche1"
 }
