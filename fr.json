@@ -1,0 +1,23 @@
+{
+    "welcome": "Bienvenue !",
+    "login": "Se connecter",
+    "signup": "Inscrivez-vous pour commencer votre projet",
+    "dashboard": "Tableau de bord",
+    "profile": "Mon profil",
+    "appointments": "Prendre un rendez-vous",
+    "notifications": "Notifications",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "search": "Rechercher dans nos archives",
+    "error": "erreur et c'est une mauvaise erreur !",
+    "hellocomma": "Bonjour, {{username}} !",
+    "hellounivers": "Bonjour à tous !",
+    "key": "{{what}} est {{how}}",
+    "livekey": "Bonjour le monde",
+    "addedKey": "Voiture garée à Lokalise",
+    "newkey": "Pour la traduction",
+    "hello_world1": "Bonjour le monde123",
+    "hello_univers": "Au revoir!",
+    "new": "Bonjour",
+    "fdsa": "N'importe quelle valeur de chaîne"
+}
