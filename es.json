@@ -1,0 +1,24 @@
+{
+    "tagline_connect_everywhere": "Mantente conectado en cualquier momento, en cualquier lugar y con cualquier persona desde cualquier sitio en cualquier reunión fuera de la oficina",
+    "value_reliability": "Desde {{year}}, exploradores e innovadores por igual confían en su rendimiento fiable.",
+    "value_security": "Diseñado con protección de nivel empresarial para salvaguardar tus datos en {{region}}.",
+    "promo_innovation": "Impulsando el futuro con tecnología innovadora y sostenible de {{brand}}.",
+    "value_integration": "spanish {{toolList}} asdf",
+    "value_scalability": "Diseñado para crecer con sus ambiciones: desde {{startSize}} hasta {{endSize}} compañeros de equipo y más allá.",
+    "value_flexibility": "Conduce a tu manera: con sistemas flexibles e intuitivos diseñados para cada {{role}}.",
+    "new_key": "Nuevas posibilidades por delante.",
+    "promo_free_trial": "Comienza tu experiencia con Rivian hoy, {{name}}, y descubre lo que es posible.",
+    "notification_new_message": {
+        "one": "Tienes {{count}} mensaje nuevo.",
+        "other": "Tienes {{count}} mensajes nuevos."
+    },
+    "team_member_added": {
+        "one": "{{count}} nuevo miembro del equipo, {{memberName}}, se unió a tu espacio de trabajo.",
+        "other": "{{count}} nuevos miembros del equipo se unieron a tu espacio de trabajo."
+    },
+    "meeting_scheduled": {
+        "one": "{{count}} reunión programada hoy a las {{time}}.",
+        "other": "{{count}} reuniones programadas hoy."
+    },
+    "Caesars_key": ""
+}
