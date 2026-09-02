@@ -1,0 +1,13 @@
+{
+    "locationKey": "Ich bin hier",
+    "realtimeCollaboration": "Zusammenarbeit in Echtzeit",
+    "taskAutomationEnabled": "Aufgabenautomatisierung aktiviert",
+    "aiMeetingSummaries": "KI-generierte Meeting-Zusammenfassungen",
+    "maxStorageGB": "Maximaler Speicher: 500 GB",
+    "customBranding": "Benutzerdefiniertes Branding deaktiviert",
+    "userLimit": "Benutzerlimit: 100 Benutzer",
+    "multiLanguageSupport": "Unterstützt mehrere Sprachen",
+    "activityAnalytics": "Grundlegende Aktivitätsanalysen",
+    "prioritySupport": "Prioritäts-Support nicht enthalten",
+    "integrationsAvailable": "Verfügbare Integrationen: Slack, Google Kalender, Trello"
+}
