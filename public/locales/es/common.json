@@ -1,0 +1,68 @@
+{
+    "hero": {
+        "headline": "130 años avanzando.",
+        "subheadline": "Desde camiones eléctricos y propulsados por hidrógeno hasta la conducción autónoma, estamos desarrollando las tecnologías que mantienen en movimiento los bienes y las personas de todo el mundo, de forma fiable, sostenible y a gran escala.",
+        "ctaButton": "Descubra nuestros vehículos",
+        "new": "Recientemente"
+    },
+    "features": {
+        "title": "Diseñamos el transporte comercial para lo que viene",
+        "subtitle": "Desde camiones ligeros hasta autocares de gran capacidad, nuestras marcas ofrecen el rendimiento, la eficiencia y la fiabilidad de las que dependen las flotas, en todos los mercados a los que atendemos.",
+        "feature1": {
+            "title": "Sistemas de propulsión eléctricos e impulsados por hidrógeno",
+            "description": "Los eActros y GenH2 Truck incorporan tecnologías localmente neutras en CO2e a las operaciones diarias, ayudando a las flotas a reducir sus emisiones sin renunciar a sus capacidades."
+        },
+        "feature2": {
+            "title": "Una marca para cada misión",
+            "description": "Freightliner, Western Star, Mercedes-Benz Trucks, BharatBenz, Thomas Built Buses y Setra: cada una diseñada específicamente para los mercados y ciclos de trabajo a los que sirve."
+        },
+        "feature3": {
+            "title": "Diseñados para maximizar la disponibilidad",
+            "description": "Las redes de servicio globales, las piezas originales y los diagnósticos conectados mantienen las flotas en la carretera y la carga en movimiento según lo previsto."
+        },
+        "feature4": {
+            "title": "Financiación para que siga avanzando",
+            "description": "Daimler Truck Financial Services ayuda a los operadores a adquirir, asegurar y gestionar sus flotas con soluciones diseñadas específicamente para el transporte comercial."
+        }
+    },
+    "testimonials": {
+        "title": "La confianza de flotas de todo el mundo",
+        "subtitle": "Por qué los operadores eligen Daimler Truck",
+        "testimonial1": {
+            "title": "Menor coste por kilómetro",
+            "text": "Los gestores de flotas informan de mejoras significativas en eficiencia tras cambiar a nuestra última generación de camiones y servicios conectados."
+        },
+        "testimonial2": {
+            "title": "Construidos para durar",
+            "text": "Décadas de experiencia en ingeniería hacen que nuestros vehículos estén preparados para las exigencias de la operación comercial diaria, kilómetro tras kilómetro."
+        },
+        "testimonial3": {
+            "title": "Sostenibilidad sin concesiones",
+            "text": "Las tecnologías localmente neutras en CO2e ayudan a los operadores a cumplir sus objetivos de emisiones sin renunciar al rendimiento que exigen sus rutas."
+        }
+    },
+    "cta": {
+        "headline": "¿Listo para impulsar su flota hacia adelante?",
+        "description": "Hable con nuestro equipo sobre los camiones, autobuses y soluciones de financiación diseñados para su operación.",
+        "buttonText": "Contáctanos"
+    },
+    "footer": {
+        "company": "Daimler Truck",
+        "description": "Líder global en vehículos comerciales, que diseña camiones, autobuses y autocares para mercados de todo el mundo, con aproximadamente 100.000 empleados en 35 ubicaciones.",
+        "quickLinks": "Enlaces rápidos",
+        "about": "Sobre nos.",
+        "contact": "Contacto",
+        "privacy": "política de privacidad",
+        "terms": "Términos de servicio",
+        "followUs": "Síganos",
+        "twitter": "Gorjeo",
+        "linkedin": "Linkedin",
+        "facebook": "Facebook",
+        "newsletter": "Sala de prensa",
+        "newsletterDesc": "Reciba novedades sobre vehículos, tecnología y noticias de la empresa.",
+        "email": "Dirección de correo electrónico",
+        "join": "Suscribirse",
+        "copyright": "© 2026 Daimler Truck. Todos los derechos reservados.",
+        "rightsReserved": "Reservados todos los derechos."
+    }
+}
