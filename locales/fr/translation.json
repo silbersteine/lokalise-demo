@@ -1,10 +1,10 @@
 {
-    "title": "Bienvenue sur FloQast",
-    "subtitle": "Révolutionner la façon dont votre équipe clôture les comptes",
-    "cta_button": "Commencer",
-    "feature_1": "Rationalisez votre processus de clôture de fin de mois",
-    "feature_2": "Collaborez en toute transparence avec votre équipe",
-    "feature_3": "Automatisez les tâches fastidieuses",
-    "testimonial_1": "FloQast a transformé notre processus de clôture. Cela change la donne !",
-    "testimonial_2": "Le niveau de collaboration permis par FloQast est incroyable. Hautement recommandé!"
+    "hero_headline": "Imagerie alimentée par l'IA pour des soins plus intelligents",
+    "platform_summary": "Une plateforme unifiée d'intelligence clinique et d'imagerie conçue pour les systèmes de santé modernes.",
+    "primary_cta": "Demander une démo",
+    "secondary_cta": "Découvrir la plateforme",
+    "feature_ai": "IA clinique avancée pour des diagnostics plus précoces et plus précis",
+    "feature_workflows": "Orchestration de bout en bout de l'imagerie et du flux de travail clinique",
+    "feature_insights": "Informations en temps réel sur les patients, les prestataires et les opérations",
+    "audience_target": "Conçu pour les responsables de radiologie, d'imagerie d'entreprise et de systèmes de santé"
 }

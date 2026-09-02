@@ -1,0 +1,68 @@
+{
+    "hero": {
+        "headline": "130 ans d'avancées.",
+        "subheadline": "Des camions électriques et à hydrogène à la conduite autonome, nous développons les technologies qui permettent le transport des marchandises et des personnes dans le monde entier — de manière fiable, durable et à grande échelle.",
+        "ctaButton": "Découvrir nos véhicules",
+        "new": "Nouveau"
+    },
+    "features": {
+        "title": "Concevoir le transport commercial de demain",
+        "subtitle": "Des camions légers aux autocars lourds, nos marques offrent les performances, l'efficacité et la fiabilité dont les flottes ont besoin — sur chacun des marchés que nous desservons.",
+        "feature1": {
+            "title": "Groupes motopropulseurs électriques et à hydrogène",
+            "description": "L'eActros et le GenH2 Truck intègrent des technologies localement neutres en CO2e dans les opérations quotidiennes, aidant les flottes à réduire leurs émissions sans sacrifier leurs capacités."
+        },
+        "feature2": {
+            "title": "Une marque pour chaque mission",
+            "description": "Freightliner, Western Star, Mercedes-Benz Trucks, BharatBenz, Thomas Built Buses et Setra — chacune conçue pour les marchés et les cycles d'utilisation qu'elle dessert."
+        },
+        "feature3": {
+            "title": "Conçu pour la disponibilité maximale",
+            "description": "Des réseaux de services mondiaux, des pièces d'origine et des diagnostics connectés maintiennent les flottes sur la route et les marchandises livrées dans les délais."
+        },
+        "feature4": {
+            "title": "Un financement qui vous garde en mouvement",
+            "description": "Daimler Truck Financial Services aide les opérateurs à acquérir, assurer et gérer leurs flottes grâce à des solutions conçues pour le transport commercial."
+        }
+    },
+    "testimonials": {
+        "title": "La confiance des flottes du monde entier",
+        "subtitle": "Pourquoi les opérateurs choisissent Daimler Truck",
+        "testimonial1": {
+            "title": "Un coût au kilomètre réduit",
+            "text": "Les gestionnaires de flotte constatent des gains d'efficacité significatifs après être passés à notre dernière génération de camions et de services connectés."
+        },
+        "testimonial2": {
+            "title": "Construit pour durer",
+            "text": "Des décennies d'héritage en ingénierie font de nos véhicules des machines conçues pour répondre aux exigences de l'exploitation commerciale quotidienne, kilomètre après kilomètre."
+        },
+        "testimonial3": {
+            "title": "La durabilité sans compromis",
+            "text": "Les technologies localement neutres en CO2e aident les opérateurs à atteindre leurs objectifs d'émissions tout en maintenant les performances requises sur leurs itinéraires."
+        }
+    },
+    "cta": {
+        "headline": "Prêt à faire avancer votre flotte ?",
+        "description": "Parlez à notre équipe des camions, bus et solutions de financement conçus pour votre activité.",
+        "buttonText": "Contactez-nous"
+    },
+    "footer": {
+        "company": "Daimler Truck",
+        "description": "Un leader mondial des véhicules commerciaux, concevant des camions, des bus et des autocars pour les marchés du monde entier — avec environ 100 000 employés répartis sur 35 sites.",
+        "quickLinks": "Liens rapides",
+        "about": "À propos de nous",
+        "contact": "Contact",
+        "privacy": "Politique de confidentialité",
+        "terms": "Conditions d'utilisation",
+        "followUs": "Suivez-nous",
+        "twitter": "Twitter",
+        "linkedin": "LinkedIn",
+        "facebook": "Facebook",
+        "newsletter": "Salle de presse",
+        "newsletterDesc": "Recevez les dernières actualités sur nos nouveaux véhicules, nos technologies et la vie de l'entreprise.",
+        "email": "Adresse e-mail",
+        "join": "S'abonner",
+        "copyright": "© 2026 Daimler Truck. Tous droits réservés.",
+        "rightsReserved": "Tous droits réservés."
+    }
+}
