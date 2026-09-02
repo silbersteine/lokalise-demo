@@ -1,0 +1,68 @@
+{
+    "hero": {
+        "headline": "130 Jahre nach vorn.",
+        "subheadline": "Von elektrisch und wasserstoffbetriebenen Lkw bis zum autonomen Fahren entwickeln wir Technologien, die Güter und Menschen weltweit in Bewegung halten – zuverlässig, nachhaltig und im großen Maßstab.",
+        "ctaButton": "Entdecken Sie unsere Fahrzeuge",
+        "new": "Neu"
+    },
+    "features": {
+        "title": "Wir gestalten den gewerblichen Transport von morgen",
+        "subtitle": "Von leichten Lkw bis zu schweren Reisebussen bieten unsere Marken die Leistung, Effizienz und Zuverlässigkeit, auf die Flotten in all unseren Märkten bauen.",
+        "feature1": {
+            "title": "Elektrische und Wasserstoff-Antriebsstränge",
+            "description": "Der eActros und der GenH2 Truck bringen lokal CO2e-freie Technologien in den Alltagseinsatz und helfen Flotten, Emissionen zu senken, ohne an Leistungsfähigkeit einzubüßen."
+        },
+        "feature2": {
+            "title": "Eine Marke für jede Aufgabe",
+            "description": "Freightliner, Western Star, Mercedes-Benz Trucks, BharatBenz, Thomas Built Buses und Setra – jede Marke ist exakt auf die Märkte und Einsatzprofile abgestimmt, die sie bedient."
+        },
+        "feature3": {
+            "title": "Gebaut für maximale Verfügbarkeit",
+            "description": "Globale Servicenetze, Originalteile und vernetzte Diagnosesysteme halten Flotten auf der Straße und Frachttermine im Plan."
+        },
+        "feature4": {
+            "title": "Finanzierung, die Sie in Bewegung hält",
+            "description": "Daimler Truck Financial Services unterstützt Betreiber dabei, ihre Flotten zu finanzieren, zu versichern und zu managen – mit Lösungen, die speziell für den gewerblichen Transport entwickelt wurden."
+        }
+    },
+    "testimonials": {
+        "title": "Von Flotten weltweit vertraut",
+        "subtitle": "Warum sich Betreiber für Daimler Truck entscheiden",
+        "testimonial1": {
+            "title": "Niedrigere Kosten pro Kilometer",
+            "text": "Flottenmanager berichten von deutlichen Effizienzgewinnen nach dem Umstieg auf unsere neueste Lkw-Generation und vernetzte Services."
+        },
+        "testimonial2": {
+            "title": "Gebaut für ein langes Leben",
+            "text": "Jahrzehnte an Ingenieurserfahrung bedeuten, dass unsere Fahrzeuge für die Anforderungen des täglichen gewerblichen Einsatzes gebaut sind – Kilometer für Kilometer."
+        },
+        "testimonial3": {
+            "title": "Nachhaltigkeit ohne Kompromisse",
+            "text": "Lokal CO2e-freie Technologien helfen Betreibern, Emissionsziele zu erreichen und gleichzeitig die Leistung aufrechtzuerhalten, die ihre Routen erfordern."
+        }
+    },
+    "cta": {
+        "headline": "Bereit, Ihre Flotte voranzubringen?",
+        "description": "Sprechen Sie mit unserem Team über Lkw, Busse und Finanzierungslösungen, die auf Ihren Betrieb zugeschnitten sind.",
+        "buttonText": "Kontaktieren Sie uns"
+    },
+    "footer": {
+        "company": "Daimler Truck",
+        "description": "Ein globaler Marktführer für Nutzfahrzeuge, der Lkw, Busse und Reisebusse für Märkte weltweit entwickelt – mit rund 100.000 Beschäftigten an 35 Standorten.",
+        "quickLinks": "Schnellzugriff",
+        "about": "Über uns",
+        "contact": "Kontakt",
+        "privacy": "Datenschutzbestimmungen",
+        "terms": "Nutzungsbedingungen",
+        "followUs": "Folgen Sie uns",
+        "twitter": "Twitter",
+        "linkedin": "LinkedIn",
+        "facebook": "Facebook",
+        "newsletter": "Newsroom",
+        "newsletterDesc": "Erhalten Sie Updates zu neuen Fahrzeugen, Technologien und Unternehmensnachrichten.",
+        "email": "E-Mail-Adresse",
+        "join": "Abonnieren",
+        "copyright": "© 2026 Daimler Truck. Alle Rechte vorbehalten.",
+        "rightsReserved": "Alle Rechte vorbehalten."
+    }
+}

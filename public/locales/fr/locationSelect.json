@@ -1,0 +1,13 @@
+{
+    "locationKey": "Je suis là",
+    "realtimeCollaboration": "Collaboration en temps réel",
+    "taskAutomationEnabled": "Automatisation des tâches activée",
+    "aiMeetingSummaries": "Résumés de réunion générés par IA",
+    "maxStorageGB": "Stockage maximum : 500 Go",
+    "customBranding": "Image de marque personnalisée désactivée",
+    "userLimit": "Limite d'utilisateurs : 100 utilisateurs",
+    "multiLanguageSupport": "Prend en charge plusieurs langues",
+    "activityAnalytics": "Analyses d'activité de base",
+    "prioritySupport": "Support prioritaire non inclus",
+    "integrationsAvailable": "Intégrations disponibles : Slack, Google Calendar, Trello"
+}
